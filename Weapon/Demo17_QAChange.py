@@ -11,7 +11,7 @@
 import json
 from tqdm import tqdm
 
-with open('QAonData/military（副本）.json', 'r', encoding='utf-8') as f:
+with open('QAonData/12.14/military（副本）.json', 'r', encoding='utf-8') as f:
     file = json.load(f)
 
 if __name__ == '__main__':
@@ -35,6 +35,6 @@ if __name__ == '__main__':
                 main_dic[main_key][j] = t
         data.append(main_dic)
 
-    with open('merge_data/res_QA_Data_fuben.json', 'w', encoding='utf-8') as f:
+    with open('merge_data/12.14/res_QA_Data_fuben.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
     f.close()

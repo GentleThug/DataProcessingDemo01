@@ -6,7 +6,7 @@
 
 @Modify Time      @Author    @Version    @Desciption
 ------------      -------    --------    -----------
-2021/12/9 下午2:15   SEA      1.0         None
+2021/12/9 下午2:15   SEA      1.0         WIKI舰船关系抽取
 """
 
 # import lib
