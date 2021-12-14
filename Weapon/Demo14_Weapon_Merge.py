@@ -16,7 +16,7 @@ from tqdm import tqdm
 
 # 判断结果是否有分类
 def haven_noclass():
-    with open('merge_data/res_Weapon_data.json', 'r', encoding='utf-8') as f:
+    with open('merge_data/origin/res_Weapon_data.json', 'r', encoding='utf-8') as f:
         file = json.load(f)
     count = 0
     for i in file:
@@ -31,7 +31,7 @@ if __name__ == '__main__':
     data = []
     count = 0
 
-    with open('QAonData/military（副本）.json', 'r', encoding='utf-8') as f:
+    with open('QAonData/12.14/military（副本）.json', 'r', encoding='utf-8') as f:
         file1 = json.load(f)
     # with open('weapon_data/12.13/武器大全(12.13修改).json', 'r', encoding='utf-8') as m:
     #     file2 = json.load(m)
@@ -51,6 +51,7 @@ if __name__ == '__main__':
         }
         # 从QA中添加分类
         for j in file1:
+            # 如果QA有名称相同或十分相同的数据
             if main_key == j.get('名称') or main_key in j.get('名称') or i.get('title') in j.get('名称') or j.get(
                     '名称') in i.get('title') or j.get('名称') in main_key:
                 main_dic[main_key]['小类'] = j.get('类型')
@@ -85,7 +86,7 @@ if __name__ == '__main__':
 
         data.append(main_dic)
 
-    with open('merge_data/res_Weapon_data_qvchong_12.14.json', 'w', encoding='utf-8') as f:
+    with open('merge_data/12.14/res_Weapon_data_qvchong_12.14.json', 'w', encoding='utf-8') as f:
         # with open('merge_data/res_Weapon_data.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
     f.close()

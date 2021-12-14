@@ -12,15 +12,15 @@ import json
 
 
 def getLen():
-    with open('merge_data/res_Weapon_data.json', 'r', encoding='utf-8') as f:
+    with open('merge_data/origin/res_Weapon_data.json', 'r', encoding='utf-8') as f:
         file1 = json.load(f)
-    with open('merge_data/res_QA_Data.json', 'r', encoding='utf-8') as f:
+    with open('merge_data/origin/res_QA_Data.json', 'r', encoding='utf-8') as f:
         file2 = json.load(f)
-    with open('merge_data/res_Weapon_data_qvchong.json', 'r', encoding='utf-8') as m:
+    with open('merge_data/12.13/res_Weapon_data_qvchong.json', 'r', encoding='utf-8') as m:
         file3 = json.load(m)
     with open('weapon_data/12.13/武器大全(12.13修改).json', 'r', encoding='utf-8') as m:
         file4 = json.load(m)
-    with open('QAonData/military.json', 'r', encoding='utf-8') as m:
+    with open('QAonData/origin/military.json', 'r', encoding='utf-8') as m:
         file5 = json.load(m)
 
     filename_list = [
@@ -50,7 +50,7 @@ def getLen():
 
 # 获取武器大全头实体总数
 def weapon_total_headclass():
-    with open('merge_data/res_Weapon_data_qvchong.json', 'r', encoding='utf-8') as f:
+    with open('merge_data/12.13/res_Weapon_data_qvchong.json', 'r', encoding='utf-8') as f:
         file = json.load(f)
     for i in file:
         print(list(list(i.values())[0].keys()))
@@ -58,9 +58,9 @@ def weapon_total_headclass():
 
 # 比较QA和武器大全中数据
 def compare():
-    with open('merge_data/res_Weapon_data_qvchong_12.14.json', 'r', encoding='utf-8') as f:
+    with open('merge_data/12.14/res_Weapon_data_qvchong_12.14.json', 'r', encoding='utf-8') as f:
         file1 = json.load(f)
-    with open('merge_data/res_QA_Data_fuben.json', 'r', encoding='utf-8') as m:
+    with open('merge_data/12.14/res_QA_Data_fuben.json', 'r', encoding='utf-8') as m:
         file2 = json.load(m)
 
     count = 0
@@ -82,7 +82,7 @@ def compare():
 def military_qvchong():
     dic = {}
     count = 0
-    with open('merge_data/res_Weapon_data_qvchong_12.14.json', 'r', encoding='utf-8') as f:
+    with open('merge_data/12.14/res_Weapon_data_qvchong_12.14.json', 'r', encoding='utf-8') as f:
         file = json.load(f)
     for i in file:
         if list(i.keys())[0] not in dic:
@@ -100,7 +100,7 @@ def military_qvchong():
 def QA_qvchong():
     dic = {}
     count = 0
-    with open('merge_data/res_QA_Data_fuben.json', 'r', encoding='utf-8') as f:
+    with open('merge_data/12.14/res_QA_Data_fuben.json', 'r', encoding='utf-8') as f:
         file = json.load(f)
     for i in file:
         if list(i.keys())[0] not in dic:
@@ -118,7 +118,7 @@ def QA_qvchong():
 def military_public():
     dic = {}
     count = 0
-    with open('merge_data/res_Weapon_data_qvchong_12.14.json', 'r', encoding='utf-8') as f:
+    with open('merge_data/12.14/res_Weapon_data_qvchong_12.14.json', 'r', encoding='utf-8') as f:
         file = json.load(f)
     for i in file:
         for j in i.values():
@@ -135,7 +135,7 @@ def military_public():
 def QA_public():
     dic = {}
     count = 0
-    with open('merge_data/res_QA_Data_fuben.json', 'r', encoding='utf-8') as f:
+    with open('merge_data/12.14/res_QA_Data_fuben.json', 'r', encoding='utf-8') as f:
         file = json.load(f)
     for i in file:
         for j in i.values():
