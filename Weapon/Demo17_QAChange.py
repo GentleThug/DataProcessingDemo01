@@ -11,6 +11,8 @@
 import json
 from tqdm import tqdm
 
+
+
 with open('QAonData/military（副本）.json', 'r', encoding='utf-8') as f:
     file = json.load(f)
 
