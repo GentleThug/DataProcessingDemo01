@@ -81,3 +81,20 @@ if __name__ == '__main__':
     with open('cmano_data/12.15_translate/res_ship整合5840.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
     f.close()
+
+    with open('cmano_data/12.5cmano_合并/sensor整合6208.json', 'r', encoding='utf-8') as f:
+        file = json.load(f)
+    for i in tqdm(file):
+        dic = {}
+        for j, k in i.items():
+            if j == 'title':
+                try:
+                    dic['名称'] = translate_baiduAPI(i['title'])
+                except:
+                    dic['名称'] = ""
+            dic[j] = k
+        data.append(dic)
+
+    with open('cmano_data/12.15_translate/res_sensor整合6208.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
+    f.close()
