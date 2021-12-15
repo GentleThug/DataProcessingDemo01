@@ -154,6 +154,6 @@ if __name__ == '__main__':
     # compare()
     # military_qvchong()
     # QA_qvchong()
-    military_public()
+    # military_public()
     # QA_public()
     pass
