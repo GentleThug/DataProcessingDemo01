@@ -30,16 +30,15 @@ def translate(text):
 
 def translate_baiduAPI(text):
     time.sleep(1)
-
     def make_md5(s, encoding='utf-8'):
         return md5(s.encode(encoding)).hexdigest()
 
     # 设置您自己的 appid appkey
-    # appid = '20210103000662608'
-    # appkey = 'XjdpSSpFdJ0gEOGy0lO6'
+    appid = '20210103000662608'
+    appkey = 'XjdpSSpFdJ0gEOGy0lO6'
 
-    appid = '20211215001028934'
-    appkey = 'NLo0hEf0Dp5feEonwS4K'
+    # appid = '20211215001028934'
+    # appkey = 'NLo0hEf0Dp5feEonwS4K'
 
     url = 'http://api.fanyi.baidu.com/api/trans/vip/translate'
 
@@ -60,24 +59,14 @@ def translate_baiduAPI(text):
     # print(json.dumps(result, indent=4, ensure_ascii=False))
     return result['trans_result'][0].get('dst')
 
-
 if __name__ == '__main__':
     data = []
     # with open('cmano_data/12.15_translate/aircraft_test.json', 'r', encoding='utf-8') as f:
     #     file = json.load(f)
-    with open('cmano_data/12.5cmano_合并/ship整合5840.json', 'r', encoding='utf-8') as f:
+    with open('cmano_data/12.15_translate/test.json', 'r', encoding='utf-8') as f:
         file = json.load(f)
-    for i in tqdm(file):
-        dic = {}
-        for j, k in i.items():
-            if j == 'title':
-                try:
-                    dic['名称'] = translate_baiduAPI(i['title'])
-                except:
-                    dic['名称'] = ""
-            dic[j] = k
-        data.append(dic)
+    list1 = translate_baiduAPI(str(file)).replace("“", "\"").replace("”", "\"").replace("，", ",")
 
-    with open('cmano_data/12.15_translate/res_ship整合5840.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+    with open('cmano_data/12.15_translate/test_muli.json.json', 'w', encoding='utf-8') as f:
+        json.dump(list1, f, indent=4, ensure_ascii=False)
     f.close()
