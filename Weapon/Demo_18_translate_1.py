@@ -63,23 +63,23 @@ def translate_baiduAPI(text):
 # .replace("“", "\"").replace("“", "\"")\
 #         .replace("’", "\"").replace("‘", "\"")\
 #         .replace("，", ",").replace("”", "\"")\
-#         .replace("、", ",").replace("：", ":").replace("'", "\"")
+#         .replace("、", ":").replace("：", ":").replace("'", "\"").replace(",]", "}]")
 # {'title'：'Harfang无人机[Heron Mod]-2020，3x'，'url'：'http://cmano-db.com/aircraft/5383/“，”国家/类型“：”摩洛哥“，“一般数据：”：[{“类型：”“无人机（UAV）”，“机组人员：”“0”，“最小速度：”“70节”，“最大速度：”“115节”，“翼展：”“16.6米”，“高度：”“0.0米”，“长度：”“9.5米”，“最大有效载荷：”“0千克”，“空重：”“657千克”，“最大重量：”“1250千克”，“操作员：”“空军”，“调试：”“2020”，“推进：”“1x Rotax 914 UL”]，“传感器/电子战：”：[“通用FLIR-（弃用-第三代，监视）红外\n\t\t\t\t\t红外，监视摄像机最大射程：83.3公里”，“通用激光指示器-（仅限地面）激光指示器\n\t\t\t\t激光目标指示器和测距仪（LTD/R）最大射程：18.5公里”，“EL/M-2022U-（无人机变型）雷达\n\t\t\t\t\tRadar，地面搜索，远程最大距离：370.4 km']}
 
 if __name__ == '__main__':
     data = []
-    with open('cmano_data/12.15_translate/aircraft_test.json', 'r', encoding='utf-8') as f:
-        file = json.load(f)
-    # with open('cmano_data/12.5cmano_合并/aircraft整合9069.json', 'r', encoding='utf-8') as f:
+    # with open('cmano_data/12.15_translate/aircraft_test.json', 'r', encoding='utf-8') as f:
     #     file = json.load(f)
+    with open('cmano_data/12.5cmano_合并/submarine整合1165.json', 'r', encoding='utf-8') as f:
+        file = json.load(f)
     for i in tqdm(file):
-        # {'title'：'Harfang无人机[Heron Mod]-2020，3x'，'url'：'http://cmano-db.com/aircraft/5383/“，”国家/类型“：”摩洛哥“，“一般数据：”：[{“类型：”“无人机（UAV）”，“机组人员：”“0”，“最小速度：”“70节”，“最大速度：”“115节”，“翼展：”“16.6米”，“高度：”“0.0米”，“长度：”“9.5米”，“最大有效载荷：”“0千克”，“空重：”“657千克”，“最大重量：”“1250千克”，“操作员：”“空军”，“调试：”“2020”，“推进：”“1x Rotax 914 UL”]，“传感器/电子战：”：[“通用FLIR-（弃用-第三代，监视）红外\n\t\t\t\t\t红外，监视摄像机最大射程：83.3公里”，“通用激光指示器-（仅限地面）激光指示器\n\t\t\t\t激光目标指示器和测距仪（LTD/R）最大射程：18.5公里”，“EL/M-2022U-（无人机变型）雷达\n\t\t\t\t\tRadar，地面搜索，远程最大距离：370.4 km']}
-        # data.append()
-        # data.append(eval(translate_baiduAPI(str(i)).replace("：”", ":'").replace("“", "'").replace("，", ",")))
-        print(translate_baiduAPI(str(i)))
+        dic = {}
+        for j, k in i.items():
+            if j == 'title':
+                dic['名称'] = translate_baiduAPI(i['title'])
+            dic[j] = k
+        data.append(dic)
 
-
-
-    with open('cmano_data/12.15_translate/res_aircraft_test.json', 'w', encoding='utf-8') as f:
+    with open('cmano_data/12.15_translate/res_submarine整合1165.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
     f.close()
