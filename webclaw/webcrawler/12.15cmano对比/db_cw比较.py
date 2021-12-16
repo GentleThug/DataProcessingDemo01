@@ -23,13 +23,18 @@ if __name__ == '__main__':
             #     break
                 # print(file2[j]['title'] )
             if file1[i]['title'] == file2[j]['title']:
-                print( file1[i]['title'] ,file2[j]['title'])
-                con.append(file1[i])
-                con.append(file2[j])
+                # print( file1[i]['title'] ,file2[j]['title'])
+                # con.append(file1[i])
+                # con.append(file2[j])
 
-                # if file1[i]['Country/Type'] == file2[j]['Country/Type']:
-                #     con["Country/Type"] = '相同'
-                #     countrycount += 1
+                if file1[i]['Country/Type'] == file2[j]['Country/Type']:
+                    pass
+                else:
+                    print(file1[i]['title'])
+                    con.append(file1[i])
+                    con.append(file2[j])
+                    # con["Country/Type"] = '相同'
+
                 #
                 # for k in  range(len(file1[i]['General data'])):
                 #     file1_date = file1[i]['General data'][k]
@@ -43,7 +48,7 @@ if __name__ == '__main__':
                 count += 1
                 break
             # data.append(con)
-    print(count)
-    with open('cmano_db_cw/aircraft重复数据' + str(len(con)//2) + '.json', 'w', encoding='utf-8') as f:
+    # print(count)
+    with open('cmano_db_cw/aircraft国家重复数据' + str(len(con)//2) + '.json', 'w', encoding='utf-8') as f:
         json.dump(con, f, indent=4, ensure_ascii=False)
-    # print(json.dumps(data, indent=4, ensure_ascii=False))
+    # print(json.dumps(con, indent=4, ensure_ascii=False))
