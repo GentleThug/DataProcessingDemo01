@@ -147,6 +147,32 @@ def QA_public():
 
     print(sorted(dic.items(), key=lambda kv: (kv[1], kv[0]), reverse=True))
 
+# 查找cmano重复数据
+def filter_program_data(file_name):
+    data = []
+    dic = {}
+    with open('cmano_data/12.5cmano_合并/' + file_name, 'r', encoding='utf-8') as f:
+        file = json.load(f)
+
+    for i in file:
+        if i['title'] not in dic:
+            dic[i['title']] = 1
+        else:
+            dic[i['title']] += 1
+    data.append(dic)
+    with open('cmano_data/12.16_filter/res_filter_' + file_name, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
+    f.close()
+
+
+def filter_program(file_name):
+    with open('cmano_data/12.16_filter/' + file_name, 'r', encoding='utf-8') as f:
+        file = json.load(f)
+    for i in file:
+        for j, t in i.items():
+            if t >= 2:
+                print(j, t)
+
 
 if __name__ == '__main__':
     # getLen()
@@ -156,4 +182,6 @@ if __name__ == '__main__':
     # QA_qvchong()
     # military_public()
     # QA_public()
+    # filter_program_data('weapon整合3715.json')
+    # filter_program('res_filter_aircraft全部5246.json')
     pass
