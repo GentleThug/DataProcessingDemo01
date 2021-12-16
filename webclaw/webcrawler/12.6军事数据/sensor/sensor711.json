@@ -1,0 +1,502 @@
+[
+    {
+        "title": "Najir [Optical] ",
+        "url": "http://cmano-db.com/sensor/3527/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual, 2nd Generation TV Camera (1980s/1990s, AXX-1 TCS)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Najir [Optical]', ' -Visual', 'Role: Visual, Weapon Director TV Camera', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "AN/ALD-9(V)2 DF ",
+        "url": "http://cmano-db.com/sensor/3526/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/ALD-9(V)2 DF', ' -ESM', 'Role: HF/DF', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "Panda [Optical] ",
+        "url": "http://cmano-db.com/sensor/3525/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual, 1st Generation TV Camera (1960s/1970s, TISEO)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Panda [Optical]', ' -Visual', 'Role: Visual, Weapon Director TV Camera', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "NAJA [Laser Rangefinder] ",
+        "url": "http://cmano-db.com/sensor/3524/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Laser Rangefinder', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 7.4 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'NAJA [Laser Rangefinder]', ' -Laser Rangefinder', 'Role: Laser Rangefinder for Weapon Director', ' Max Range: 7.4 km', '', '', '']"
+    },
+    {
+        "title": "Panda Mk2 Turret [Optical/TV Camera] (Group)",
+        "url": "http://cmano-db.com/sensor/3523/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: None', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Panda [Optical]', ' - (Group) Visual', 'Visual, Weapon Director TV Camera', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "VAMPIR-NG [Laser Rangefinder] ",
+        "url": "http://cmano-db.com/sensor/3522/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Laser Rangefinder', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 7.4 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'VAMPIR-NG [Laser Rangefinder]', ' -Laser Rangefinder', 'Role: Laser Rangefinder', ' Max Range: 7.4 km', '', '', '']"
+    },
+    {
+        "title": "VAMPIR-NG [IR] ",
+        "url": "http://cmano-db.com/sensor/3521/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 3rd Generation Imaging (2000s/2010s, Impr LANTIRN, Litening II/III, ATFLIR)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'VAMPIR-NG [IR]', ' -Infrared', 'Role: Infrared, Target Search, Slaved Tracking and Identification Camera', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "VAMPIR-NG [CCD] ",
+        "url": "http://cmano-db.com/sensor/3520/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: LLTV, 3rd Generation (2000s/2010s)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'VAMPIR-NG [CCD]', ' -Visual', 'Role: LLTV, Target Search, Slaved Tracking and Identification', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "IRAS [Laser Rangefinder] ",
+        "url": "http://cmano-db.com/sensor/3519/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Laser Rangefinder', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IRAS [Laser Rangefinder]', ' -Laser Rangefinder', 'Role: Laser Rangefinder', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "IRAS [IR] ",
+        "url": "http://cmano-db.com/sensor/3518/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 3rd Generation Imaging (2000s/2010s, Impr LANTIRN, Litening II/III, ATFLIR)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IRAS [IR]', ' -Infrared', 'Role: Infrared, Target Search, Slaved Tracking and Identification Camera', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "IRAS [CCD] ",
+        "url": "http://cmano-db.com/sensor/3517/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: LLTV, 3rd Generation (2000s/2010s)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IRAS [CCD]', ' -Visual', 'Role: LLTV, Target Search, Slaved Tracking and Identification', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "VAMPIR-NG (Group)",
+        "url": "http://cmano-db.com/sensor/3516/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'VAMPIR-NG [CCD]', ' - (Group) Visual', 'LLTV, Target Search, Slaved Tracking and Identification', ' Max Range: 185.2 km', 'VAMPIR-NG [IR]', ' - (Group) Infrared', 'Infrared, Target Search, Slaved Tracking and Identification Camera', ' Max Range: 185.2 km', 'VAMPIR-NG [Laser Rangefinder]', ' - (Group) Laser Rangefinder', 'Laser Rangefinder', ' Max Range: 7.4 km', '', '', '']"
+    },
+    {
+        "title": "Vigy 90 [IR] ",
+        "url": "http://cmano-db.com/sensor/3515/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 3rd Generation Imaging (2000s/2010s, Impr LANTIRN, Litening II/III, ATFLIR)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Vigy 90 [IR]', ' -Infrared', 'Role: Infrared, Weapon Director Camera', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "Vigy 90 [CCD] ",
+        "url": "http://cmano-db.com/sensor/3514/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: LLTV, 3rd Generation (2000s/2010s)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Vigy 90 [CCD]', ' -Visual', 'Role: LLTV, Weapon Director', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "Vigy 20 [IR] (Gun Director)",
+        "url": "http://cmano-db.com/sensor/3513/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 3rd Generation Imaging (2000s/2010s, Impr LANTIRN, Litening II/III, ATFLIR)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Vigy 20 [IR]', ' - (Gun Director) Infrared', 'Role: Infrared, Weapon Director Camera', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "Vigy 20 [CCD] (Gun Director)",
+        "url": "http://cmano-db.com/sensor/3512/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: LLTV, 3rd Generation (2000s/2010s)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Vigy 20 [CCD]', ' - (Gun Director) Visual', 'Role: LLTV, Weapon Director', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "Vigy 10 Mk II [IR] ",
+        "url": "http://cmano-db.com/sensor/3511/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 2nd Generation Imaging (1980s/1990s, LANTIRN, Litening)r)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Vigy 10 Mk II [IR]', ' -Infrared', 'Role: Infrared, Weapon Director Camera', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "Vigy 10 Mk II [CCD] ",
+        "url": "http://cmano-db.com/sensor/3510/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: LLTV, 2nd Generation (1980s/1990s)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Vigy 10 Mk II [CCD]', ' -Visual', 'Role: LLTV, Weapon Director', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "Vigy 10 Mk II [CCD/IR] (Group, Sagem)",
+        "url": "http://cmano-db.com/sensor/3509/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Vigy 10 Mk II [CCD]', ' - (Group, Sagem) Visual', 'LLTV, Weapon Director', ' Max Range: 148.2 km', 'Vigy 10 Mk II [IR]', ' - (Group, Sagem) Infrared', 'Infrared, Weapon Director Camera', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "VAMPIR-MB [Laser Rangefinder] ",
+        "url": "http://cmano-db.com/sensor/3508/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Laser Rangefinder', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'VAMPIR-MB [Laser Rangefinder]', ' -Laser Rangefinder', 'Role: Laser Rangefinder', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "VAMPIR-MB [IR] ",
+        "url": "http://cmano-db.com/sensor/3507/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 2nd Generation Imaging (1980s/1990s, LANTIRN, Litening)r)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'VAMPIR-MB [IR]', ' -Infrared', 'Role: Infrared, Target Search, Slaved Tracking and Identification Camera', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "VAMPIR-MB [CCD] ",
+        "url": "http://cmano-db.com/sensor/3506/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: LLTV, 2nd Generation (1980s/1990s)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'VAMPIR-MB [CCD]', ' -Visual', 'Role: LLTV, Target Search, Slaved Tracking and Identification', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "VAMPIR [Laser Rangefinder] ",
+        "url": "http://cmano-db.com/sensor/3505/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Laser Rangefinder', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'VAMPIR [Laser Rangefinder]', ' -Laser Rangefinder', 'Role: Laser Rangefinder', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "VAMPIR [IR] ",
+        "url": "http://cmano-db.com/sensor/3504/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 2nd Generation Imaging (1980s/1990s, LANTIRN, Litening)r)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'VAMPIR [IR]', ' -Infrared', 'Role: Infrared, Target Search, Slaved Tracking and Identification Camera', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "VAMPIR [CCD] ",
+        "url": "http://cmano-db.com/sensor/3503/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: LLTV, 2nd Generation (1980s/1990s)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'VAMPIR [CCD]', ' -Visual', 'Role: LLTV, Target Search, Slaved Tracking and Identification', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "KA-74 ",
+        "url": "http://cmano-db.com/sensor/3502/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 9.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual, 1st Generation TV Camera (1960s/1970s, TISEO)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'KA-74', ' -Visual', 'Role: Visual, Reconnaissance Frame Camera', ' Max Range: 9.3 km', '', '', '']"
+    },
+    {
+        "title": "Piranha [IR] (Castor IIJ)",
+        "url": "http://cmano-db.com/sensor/3501/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 2nd Generation Imaging (1980s/1990s, LANTIRN, Litening)r)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Piranha [IR]', ' - (Castor IIJ) Infrared', 'Role: Infrared, Target Tracking and Identification Camera', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "AN/ASQ-81(V)4 (LAMPS Towed)",
+        "url": "http://cmano-db.com/sensor/3500/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: MAD', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 1.9 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/ASQ-81(V)4', ' - (LAMPS Towed) MAD', 'Role: MAD', ' Max Range: 1.9 km', '', '', '']"
+    },
+    {
+        "title": "Vigy 105 [Laser Rangefinder] ",
+        "url": "http://cmano-db.com/sensor/3499/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Laser Rangefinder', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 7.4 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Vigy 105 [Laser Rangefinder]', ' -Laser Rangefinder', 'Role: Laser Rangefinder for Weapon Director', ' Max Range: 7.4 km', '', '', '']"
+    },
+    {
+        "title": "Vigy 105 [IR] ",
+        "url": "http://cmano-db.com/sensor/3498/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 3rd Generation Imaging (2000s/2010s, Impr LANTIRN, Litening II/III, ATFLIR)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Vigy 105 [IR]', ' -Infrared', 'Role: Infrared, Weapon Director Camera', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "Vigy 105 [CCD] ",
+        "url": "http://cmano-db.com/sensor/3497/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: LLTV, 3rd Generation (2000s/2010s)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Vigy 105 [CCD]', ' -Visual', 'Role: LLTV, Weapon Director', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "China Type 776 [IR] ",
+        "url": "http://cmano-db.com/sensor/3496/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 2nd Generation Imaging (1980s/1990s, LANTIRN, Litening)r)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'China Type 776 [IR]', ' -Infrared', 'Role: Infrared, Surveillance Camera', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "China Type 776 [Laser Rangefinder] ",
+        "url": "http://cmano-db.com/sensor/3495/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Laser Rangefinder', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'China Type 776 [Laser Rangefinder]', ' -Laser Rangefinder', 'Role: Laser Rangefinder', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "China Type 776 [RO Radar] ",
+        "url": "http://cmano-db.com/sensor/3494/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 14.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'China Type 776 [RO Radar]', ' -Radar', 'Role: Radar, Range-Only (RO)', ' Max Range: 14.8 km', '', '', '']"
+    },
+    {
+        "title": "China Type 775 [IR] ",
+        "url": "http://cmano-db.com/sensor/3493/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 2nd Generation Imaging (1980s/1990s, LANTIRN, Litening)r)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'China Type 775 [IR]', ' -Infrared', 'Role: Infrared, Surveillance Camera', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "China Type 775 [Laser Rangefinder] ",
+        "url": "http://cmano-db.com/sensor/3492/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Laser Rangefinder', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'China Type 775 [Laser Rangefinder]', ' -Laser Rangefinder', 'Role: Laser Rangefinder', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "China Type 775 [RO Radar] ",
+        "url": "http://cmano-db.com/sensor/3491/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 14.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'China Type 775 [RO Radar]', ' -Radar', 'Role: Radar, Range-Only (RO)', ' Max Range: 14.8 km', '', '', '']"
+    },
+    {
+        "title": "China Type 776 [Radar/IR/LLTV/Laser] (Group, Surveillance-Only, GDG-776)",
+        "url": "http://cmano-db.com/sensor/3490/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'China Type 776 [LLVT]', ' - (Group, Surveillance-Only, GDG-776) Visual', 'LLTV, Surveillance Camera', ' Max Range: 55.6 km', 'China Type 776 [RO Radar]', ' - (Group, Surveillance-Only, GDG-776) Radar', 'Radar, Range-Only (RO)', ' Max Range: 14.8 km', 'China Type 776 [Laser Rangefinder]', ' - (Group, Surveillance-Only, GDG-776) Laser Rangefinder', 'Laser Rangefinder', ' Max Range: 0 km', 'China Type 776 [IR]', ' - (Group, Surveillance-Only, GDG-776) Infrared', 'Infrared, Surveillance Camera', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "China Type 775 [Radar/IR/LLTV/Laser] (Group, Surveillance-Only, GDG-775)",
+        "url": "http://cmano-db.com/sensor/3489/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'China Type 775 [LLVT]', ' - (Group, Surveillance-Only, GDG-775) Visual', 'LLTV, Surveillance Camera', ' Max Range: 55.6 km', 'China Type 775 [RO Radar]', ' - (Group, Surveillance-Only, GDG-775) Radar', 'Radar, Range-Only (RO)', ' Max Range: 14.8 km', 'China Type 775 [Laser Rangefinder]', ' - (Group, Surveillance-Only, GDG-775) Laser Rangefinder', 'Laser Rangefinder', ' Max Range: 0 km', 'China Type 775 [IR]', ' - (Group, Surveillance-Only, GDG-775) Infrared', 'Infrared, Surveillance Camera', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "China Type 88C [EO] ",
+        "url": "http://cmano-db.com/sensor/3488/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual, 2nd Generation TV Camera (1980s/1990s, AXX-1 TCS)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'China Type 88C [EO]', ' -Visual', 'Role: Visual, Weapon Director TV Camera', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "China Type 88C [Laser Rangefinder] ",
+        "url": "http://cmano-db.com/sensor/3487/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Laser Rangefinder', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'China Type 88C [Laser Rangefinder]', ' -Laser Rangefinder', 'Role: Laser Rangefinder for Weapon Director', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "MX-15 3-CCD [CCD] ",
+        "url": "http://cmano-db.com/sensor/3486/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: LLTV, 3rd Generation (2000s/2010s)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'MX-15 3-CCD [CCD]', ' -Visual', 'Role: LLTV, Surveillance Camera', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "MX-15 Hi-Mag [FLIR] ",
+        "url": "http://cmano-db.com/sensor/3485/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 3rd Generation Imaging (2000s/2010s, Impr LANTIRN, Litening II/III, ATFLIR)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'MX-15 Hi-Mag [FLIR]', ' -Infrared', 'Role: Infrared, Surveillance Camera', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "MX-15 1-CCD [CCD] ",
+        "url": "http://cmano-db.com/sensor/3484/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: LLTV, 3rd Generation (2000s/2010s)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'MX-15 1-CCD [CCD]', ' -Visual', 'Role: LLTV, Surveillance Camera', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "MX-20 Turret [FLIR/CCD/Laser Rangefinder] (Group, AN/ASX-4 AIMS)",
+        "url": "http://cmano-db.com/sensor/3483/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: None', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'MX-20 Hi-Mag [FLIR]', ' - (Group, AN/ASX-4 AIMS) Infrared', 'Infrared, Surveillance Camera', ' Max Range: 55.6 km', 'MX-20 3-CCD [CCD]', ' - (Group, AN/ASX-4 AIMS) Visual', 'LLTV, Surveillance Camera', ' Max Range: 55.6 km', 'MX-20 1-CCD [CCD]', ' - (Group, AN/ASX-4 AIMS) Visual', 'LLTV, Surveillance Camera', ' Max Range: 55.6 km', 'MX-20 [Laser Rangefinder]', ' - (Group, AN/ASX-4 AIMS) Laser Rangefinder', 'Laser Rangefinder', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "MX-20 [Laser Rangefinder] ",
+        "url": "http://cmano-db.com/sensor/3482/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Laser Rangefinder', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'MX-20 [Laser Rangefinder]', ' -Laser Rangefinder', 'Role: Laser Rangefinder', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "MX-20 1-CCD [CCD] ",
+        "url": "http://cmano-db.com/sensor/3481/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: LLTV, 3rd Generation (2000s/2010s)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'MX-20 1-CCD [CCD]', ' -Visual', 'Role: LLTV, Surveillance Camera', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "MX-20 3-CCD [CCD] ",
+        "url": "http://cmano-db.com/sensor/3480/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: LLTV, 3rd Generation (2000s/2010s)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'MX-20 3-CCD [CCD]', ' -Visual', 'Role: LLTV, Surveillance Camera', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "MX-20 Hi-Mag [FLIR] ",
+        "url": "http://cmano-db.com/sensor/3479/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 3rd Generation Imaging (2000s/2010s, Impr LANTIRN, Litening II/III, ATFLIR)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'MX-20 Hi-Mag [FLIR]', ' -Infrared', 'Role: Infrared, Surveillance Camera', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "gamma ",
+        "url": "http://cmano-db.com/sensor/3478/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 46.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: LLTV, 3rd Generation (2000s/2010s)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'gamma', ' -Visual', 'Role: LLTV, Surveillance Camera', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "14PS-MAR SEOSS [Laser Rangefinder] ",
+        "url": "http://cmano-db.com/sensor/3477/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Laser Rangefinder', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 37 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', '14PS-MAR SEOSS [Laser Rangefinder]', ' -Laser Rangefinder', 'Role: Laser Rangefinder', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "14PS-MAR SEOSS [CCD] ",
+        "url": "http://cmano-db.com/sensor/3476/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 46.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: LLTV, 3rd Generation (2000s/2010s)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', '14PS-MAR SEOSS [CCD]', ' -Visual', 'Role: LLTV, Surveillance Camera', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "14PS-MAR SEOSS Tri-Sensor Turret [FLIR/CCD/Laser] (Group)",
+        "url": "http://cmano-db.com/sensor/3475/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: None', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', '14PS-MAR SEOSS [FLIR]', ' - (Group) Infrared', 'Infrared, Surveillance Camera', ' Max Range: 46.3 km', '14PS-MAR SEOSS [CCD]', ' - (Group) Visual', 'LLTV, Surveillance Camera', ' Max Range: 46.3 km', '14PS-MAR SEOSS [Laser Rangefinder]', ' - (Group) Laser Rangefinder', 'Laser Rangefinder', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "12DS-MAR Dual-Sensor Turret [FLIR/CCD] (Group)",
+        "url": "http://cmano-db.com/sensor/3474/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: None', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', '12DS-MAR [FLIR]', ' - (3-5 micron InSb, 256 x 256) Infrared', 'Infrared, Surveillance Camera', ' Max Range: 46.3 km', 'gamma', ' - (3-5 micron InSb, 256 x 256) Visual', 'LLTV, Surveillance Camera', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "AN/SPS-59 [LN-66LP] (10kW)",
+        "url": "http://cmano-db.com/sensor/3473/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 59.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Periscope Search - Basic Capability, Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/SPS-59 [LN-66LP]', ' - (10kW) Radar', 'Role: Radar, Surface Search & Navigation', ' Max Range: 59.3 km', '', '', '']"
+    },
+    {
+        "title": "LN-66LP (CMR-90, 12kW)",
+        "url": "http://cmano-db.com/sensor/3472/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 59.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'LN-66LP', ' - (CMR-90, 12kW) Radar', 'Role: Radar, Surface Search, Short-Range', ' Max Range: 59.3 km', '', '', '']"
+    },
+    {
+        "title": "Meduza (Bulgaria)",
+        "url": "http://cmano-db.com/sensor/3471/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', 'Properties: Periscope/Surface Search - Fine Range Resolution + Rapid Scan [1980+], Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Meduza', ' - (Bulgaria) Radar', 'Role: Radar, Air & Surface Search, 2D Short-Range', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "MPDR-90 ",
+        "url": "http://cmano-db.com/sensor/3470/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 88.9 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'MPDR-90', ' -Radar', 'Role: Radar, Air Search, 2D Short-Range', ' Max Range: 88.9 km', '', '', '']"
+    },
+    {
+        "title": "J/FPS-4 ",
+        "url": "http://cmano-db.com/sensor/3469/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 555.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 1.3 km', '', 'Generation: Early 2000s', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Moving Target Indicator (MTI), Pulse Doppler Radar (Full LDSD Capability)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'J/FPS-4', ' -Radar', 'Role: Radar, Air Search, 3D Long-Range', ' Max Range: 555.6 km', '', '', '']"
+    },
+    {
+        "title": "J/FPS-5 ",
+        "url": "http://cmano-db.com/sensor/3468/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 740.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 1.3 km', '', 'Generation: Late 2000s', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Moving Target Indicator (MTI), Pulse Doppler Radar (Full LDSD Capability), Active Electronically Scanned Array (AESA)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'J/FPS-5', ' -Radar', 'Role: Radar, Air Search, 3D Long-Range', ' Max Range: 740.8 km', '', '', '']"
+    },
+    {
+        "title": "J/FPS-1 ",
+        "url": "http://cmano-db.com/sensor/3467/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 444.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 1.1 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Moving Target Indicator (MTI), Pulse Doppler Radar (Full LDSD Capability)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'J/FPS-1', ' -Radar', 'Role: Radar, Air Search, 3D Long-Range', ' Max Range: 444.5 km', '', '', '']"
+    },
+    {
+        "title": "EOTS [Laser Designator] (F-35)",
+        "url": "http://cmano-db.com/sensor/3466/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Laser Designator', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 27.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'EOTS [Laser Designator]', ' - (F-35) Laser Designator', 'Role: Laser Target Designator & Ranger (LTD/R)', ' Max Range: 27.8 km', '', '', '']"
+    },
+    {
+        "title": "Type 669 ",
+        "url": "http://cmano-db.com/sensor/3465/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Type 669', ' -ECM', 'Role: OECM, Offensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "Active Radar Seeker (ASM MR, RB-04E, RB-08)",
+        "url": "http://cmano-db.com/sensor/3464/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 9.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Active Radar Seeker', ' - (ASM MR, RB-04E, RB-08) Radar', 'Role: Weapon Seeker, Active Radar', ' Max Range: 9.3 km', '', '', '']"
+    },
+    {
+        "title": "AML-701 Sensor Cupola (Group, Coastal Arty FCS, Optical)",
+        "url": "http://cmano-db.com/sensor/3463/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AML-701 [Laser Rangefinder]', ' - (Group, Coastal Arty FCS, Optical) Laser Rangefinder', 'Laser Rangefinder for Weapon Director', ' Max Range: 7.4 km', 'AML-701 [Optical Periscope]', ' - (Group, Coastal Arty FCS, Optical) Visual', 'Visual, Weapon Director TV Camera', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "PA-39 (Group, ArtE-710, Coastal Arty FCR)",
+        "url": "http://cmano-db.com/sensor/3462/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'PA-39 [Radar]', ' - (Decca, 1960) Radar', 'Radar, FCR, Weapon Director', ' Max Range: 46.3 km', 'PA-39 [Optical Periscope, Fire Control]', ' - (Decca, 1960) Visual', 'Visual, Fire Control Periscope', ' Max Range: 0 km', 'PA-39 [Optical Periscope, Surveillance]', ' - (Decca, 1960) Visual', 'Visual, Surveillance Periscope', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "PS-71 (Group, ArtE-719, 1969, Coastal Arty FCR)",
+        "url": "http://cmano-db.com/sensor/3461/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'PS-71 [Radar]', ' - (PEAB, 1969) Radar', 'Radar, FCR, Weapon Director', ' Max Range: 46.3 km', 'PS-71 [Optical Periscope]', ' - (PEAB, 1969) Visual', 'Visual, Weapon Director TV Camera', ' Max Range: 46.3 km', 'AML-701 [Laser Rangefinder]', ' - (PEAB, 1969) Laser Rangefinder', 'Laser Rangefinder for Weapon Director', ' Max Range: 7.4 km', '', '', '']"
+    },
+    {
+        "title": "PS-71 [Radar] (PEAB, 1969)",
+        "url": "http://cmano-db.com/sensor/3460/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 46.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'PS-71 [Radar]', ' - (PEAB, 1969) Radar', 'Role: Radar, FCR, Weapon Director', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "PA-39 [Optical Periscope, Fire Control] ",
+        "url": "http://cmano-db.com/sensor/3459/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'PA-39 [Optical Periscope, Fire Control]', ' -Visual', 'Role: Visual, Fire Control Periscope', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "PA-39 [Radar] (Decca, 1960)",
+        "url": "http://cmano-db.com/sensor/3458/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 46.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Early 1960s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'PA-39 [Radar]', ' - (Decca, 1960) Radar', 'Role: Radar, FCR, Weapon Director', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "PS-239 (PS-141)",
+        "url": "http://cmano-db.com/sensor/3457/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 15545 m', '', '', '', 'Range Max: 203.7 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.6 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'PS-239', ' - (PS-141) Radar', 'Role: Radar, Air & Surface Search, 2D Medium-Range', ' Max Range: 203.7 km', '', '', '']"
+    },
+    {
+        "title": "PS-825 [ATCR-22] (Civilian ATS radar)",
+        "url": "http://cmano-db.com/sensor/3456/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 24994 m', '', '', '', 'Range Max: 213 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.6 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Moving Target Indicator (MTI), Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'PS-825 [ATCR-22]', ' - (Civilian ATS radar) Radar', 'Role: Radar, Air Search, 2D Medium-Range', ' Max Range: 213 km', '', '', '']"
+    },
+    {
+        "title": "MIR-2 Orange Blossom (Podded Orange Crop)",
+        "url": "http://cmano-db.com/sensor/3455/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'MIR-2 Orange Blossom', ' - (Podded Orange Crop) ESM', 'Role: ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "AN/APG-68(V)7 ",
+        "url": "http://cmano-db.com/sensor/3454/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 111.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Moving Target Indicator (MTI), Pulse Doppler Radar (Full LDSD Capability), Continuous Wave Illumination', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/APG-68(V)7', ' -Radar', 'Role: Radar, FCR, Air-to-Air & Air-to-Surface, Medium-Range', ' Max Range: 111.1 km', '', '', '']"
+    },
+    {
+        "title": "AN/APG-68(V)8 ",
+        "url": "http://cmano-db.com/sensor/3453/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 111.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Moving Target Indicator (MTI), Pulse Doppler Radar (Full LDSD Capability)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/APG-68(V)8', ' -Radar', 'Role: Radar, FCR, Air-to-Air & Air-to-Surface, Medium-Range', ' Max Range: 111.1 km', '', '', '']"
+    },
+    {
+        "title": "AN/APG-68(V)3 ",
+        "url": "http://cmano-db.com/sensor/3452/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 111.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Moving Target Indicator (MTI), Pulse Doppler Radar (Full LDSD Capability)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/APG-68(V)3', ' -Radar', 'Role: Radar, FCR, Air-to-Air & Air-to-Surface, Medium-Range', ' Max Range: 111.1 km', '', '', '']"
+    },
+    {
+        "title": "AN/APG-68(V)2 ",
+        "url": "http://cmano-db.com/sensor/3451/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 111.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Moving Target Indicator (MTI), Pulse Doppler Radar (Full LDSD Capability)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/APG-68(V)2', ' -Radar', 'Role: Radar, FCR, Air-to-Air & Air-to-Surface, Medium-Range', ' Max Range: 111.1 km', '', '', '']"
+    },
+    {
+        "title": "AN/TPS-43F ",
+        "url": "http://cmano-db.com/sensor/3450/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 444.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 1.1 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Moving Target Indicator (MTI), Pulse Doppler Radar (Full LDSD Capability)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/TPS-43F', ' -Radar', 'Role: Radar, Air Search, 3D Long-Range', ' Max Range: 444.5 km', '', '', '']"
+    },
+    {
+        "title": "PS-65/F ",
+        "url": "http://cmano-db.com/sensor/3449/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 24994 m', '', '', '', 'Range Max: 250 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.7 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Moving Target Indicator (MTI), Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'PS-65/F', ' -Radar', 'Role: Radar, Air Search, 2D Medium-Range', ' Max Range: 250 km', '', '', '']"
+    },
+    {
+        "title": "PS-810 [ATCR-2T] ",
+        "url": "http://cmano-db.com/sensor/3448/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 24994 m', '', '', '', 'Range Max: 213 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Moving Target Indicator (MTI), Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'PS-810 [ATCR-2T]', ' -Radar', 'Role: Radar, Air Search, 2D Medium-Range', ' Max Range: 213 km', '', '', '']"
+    },
+    {
+        "title": "AN/FPS-49 (Track)",
+        "url": "http://cmano-db.com/sensor/3447/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 4907.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 60.2 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/FPS-49', ' - (Track) Radar', 'Role: Radar, Ballistic Missile Early Warning', ' Max Range: 4907.8 km', '', '', '']"
+    },
+    {
+        "title": "Try Add A (Galosh Missile Tracker)",
+        "url": "http://cmano-db.com/sensor/3446/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 1481.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Track While Scan (TWS), Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Try Add A', ' - (Galosh Missile Tracker) Radar', 'Role: Radar, Ballistic Missile Tracker', ' Max Range: 1481.6 km', '', '', '']"
+    },
+    {
+        "title": "Steel Work [Duga-3] (Steel Yard is incorrect name)",
+        "url": "http://cmano-db.com/sensor/3445/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 5926.4 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Steel Work [Duga-3]', ' - (Steel Yard is incorrect name) Radar', 'Role: Radar, Ballistic Missile Early Warning', ' Max Range: 5926.4 km', '', '', '']"
+    },
+    {
+        "title": "Pawn Shop (Trial, ABM-2, S-225)",
+        "url": "http://cmano-db.com/sensor/3444/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: None', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability, Active Electronically Scanned Array (AESA)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Pawn Shop', ' - (Trial, ABM-2, S-225) Radar', 'Role: None', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "Flat Twin (Trial, ABM-2, S-225)",
+        "url": "http://cmano-db.com/sensor/3443/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: None', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability, Passive Electronically Scanned Array (PESA)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Flat Twin', ' - (Trial, ABM-2, S-225) Radar', 'Role: None', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "Cat House [Dunai-3U] ",
+        "url": "http://cmano-db.com/sensor/3442/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 2778 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Track While Scan (TWS), Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Cat House [Dunai-3U]', ' -Radar', 'Role: Radar, Ballistic Missile Battle Management', ' Max Range: 2778 km', '', '', '']"
+    },
+    {
+        "title": "Type 979 (Type 978 with B-scope)",
+        "url": "http://cmano-db.com/sensor/3441/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 64.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Type 979', ' - (Type 978 with B-scope) Radar', 'Role: Radar, Surface Search & Navigation', ' Max Range: 64.8 km', '', '', '']"
+    },
+    {
+        "title": "Type 967M/968 (Sea Wolf Search-And-Aquisition, Frequency Agile)",
+        "url": "http://cmano-db.com/sensor/3440/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 222.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.6 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Pulse Doppler Radar (Full LDSD Capability), Frequency Agile', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Type 967M/968', ' - (Sea Wolf Search-And-Aquisition, Frequency Agile) Radar', 'Role: Radar, Target Indicator, 2D Surface-to-Air & Surface-to-Surface', ' Max Range: 222.2 km', '', '', '']"
+    },
+    {
+        "title": "UAN-2 Orange Crop ",
+        "url": "http://cmano-db.com/sensor/3439/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'UAN-2 Orange Crop', ' -ESM', 'Role: ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "ARI.18241/1 RHWR (Tornado F.3, Hermes)",
+        "url": "http://cmano-db.com/sensor/3438/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 222.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'ARI.18241/1 RHWR', ' - (Tornado F.3, Hermes) ESM', 'Role: RWR, Radar Warning Receiver', ' Max Range: 222.2 km', '', '', '']"
+    },
+    {
+        "title": "STING-EO Mk2 (Group, Renamed STIR 120 Mk2)",
+        "url": "http://cmano-db.com/sensor/3437/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'STING-EO Mk2 [Radar]', ' - (Group, Renamed STIR 120 Mk2) Radar', 'Radar, FCR, Weapon Director', ' Max Range: 118.5 km', 'STING-EO Mk2 [IR]', ' - (Group, Renamed STIR 120 Mk2) Infrared', 'Infrared, Weapon Director Camera', ' Max Range: 185.2 km', 'STING-EO Mk2 [Laser Rangefinder]', ' - (Group, Renamed STIR 120 Mk2) Laser Rangefinder', 'Laser Rangefinder for Weapon Director', ' Max Range: 7.4 km', 'STING-EO Mk2 [Visual Camera]', ' - (Group, Renamed STIR 120 Mk2) Visual', 'Visual, Weapon Director TV Camera', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "STING-EO Mk1 (Group)",
+        "url": "http://cmano-db.com/sensor/3436/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'STING-EO Mk1 [Radar]', ' - (Group) Radar', 'Radar, FCR, Weapon Director', ' Max Range: 118.5 km', 'STING-EO Mk1 [IR]', ' - (Group) Infrared', 'Infrared, Weapon Director Camera', ' Max Range: 148.2 km', 'STING-EO Mk1 [Visual Camera]', ' - (Group) Visual', 'Visual, Weapon Director TV Camera', ' Max Range: 148.2 km', 'STING-EO Mk1 [Laser Rangefinder]', ' - (Group) Laser Rangefinder', 'Laser Rangefinder for Weapon Director', ' Max Range: 7.4 km', '', '', '']"
+    },
+    {
+        "title": "STING-EO Mk2 [Radar] ",
+        "url": "http://cmano-db.com/sensor/3435/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 118.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 2.6 km', '', 'Generation: Early 2000s', '', '', '', '', '', '', 'Properties: Pulse Doppler Radar (Full LDSD Capability)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'STING-EO Mk2 [Radar]', ' -Radar', 'Role: Radar, FCR, Weapon Director', ' Max Range: 118.5 km', '', '', '']"
+    },
+    {
+        "title": "STING-EO Mk1 [Radar] ",
+        "url": "http://cmano-db.com/sensor/3434/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 118.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 2.6 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', 'Properties: Pulse Doppler Radar (Full LDSD Capability)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'STING-EO Mk1 [Radar]', ' -Radar', 'Role: Radar, FCR, Weapon Director', ' Max Range: 118.5 km', '', '', '']"
+    },
+    {
+        "title": "Slot Back [N-019EA Rubin] (Warsaw Pact Export)",
+        "url": "http://cmano-db.com/sensor/3433/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Pulse Doppler Radar (Full LDSD Capability), Continuous Wave Illumination', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Slot Back [N-019EA Rubin]', ' - (Warsaw Pact Export) Radar', 'Role: Radar, FCR, Air-to-Air, Short-Range', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "Snoop Tray 2 [MRK-50 Kaskad] ",
+        "url": "http://cmano-db.com/sensor/3432/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 37 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.6 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Snoop Tray 2 [MRK-50 Kaskad]', ' -Radar', 'Role: Radar, Surface Search, Short-Range', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "SIMONE ",
+        "url": "http://cmano-db.com/sensor/3431/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 46.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 3rd Generation Imaging (2000s/2010s, Impr LANTIRN, Litening II/III, ATFLIR)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SIMONE', ' -Infrared', 'Role: Infrared, Surveillance Camera', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "Ship Globe ",
+        "url": "http://cmano-db.com/sensor/3430/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: None', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Ship Globe', ' -Radar', 'Role: None', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "S820 ",
+        "url": "http://cmano-db.com/sensor/3429/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 3048 m', '', '', '', 'Range Max: 37 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Moving Target Indicator (MTI), Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'S820', ' -Radar', 'Role: Radar, Air & Surface Search, 2D Short-Range', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "ST1802SW (Group)",
+        "url": "http://cmano-db.com/sensor/3428/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'ST1802SW [Radar]', ' - (Group) Radar', 'Radar, FCR, Surface-to-Air, Short-Range', ' Max Range: 46.3 km', 'ST1802SW [IR]', ' - (Group) Infrared', 'Infrared, Target Tracking and Identification Camera', ' Max Range: 148.2 km', '', '', '']"
+    }
+]

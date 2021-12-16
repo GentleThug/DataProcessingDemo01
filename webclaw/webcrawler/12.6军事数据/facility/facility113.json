@@ -1,0 +1,567 @@
+[
+    {
+        "title": "A/C Hangar (1x Large Aircraft) ",
+        "url": "http://cmano-db.com/facility/3413/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Building (Surface)', '', 'Crew: 0', '', '', '', 'Length: 120 m', '', 'Width: 40 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Hangar (3x Large Aircraft) ",
+        "url": "http://cmano-db.com/facility/3412/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Building (Surface)', '', 'Crew: 0', '', '', '', 'Length: 120 m', '', 'Width: 40 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Hangar (7x Large Aircraft) ",
+        "url": "http://cmano-db.com/facility/3411/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Building (Surface)', '', 'Crew: 0', '', '', '', 'Length: 120 m', '', 'Width: 40 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Camouflaged Revetment (2x Large Aircraft) ",
+        "url": "http://cmano-db.com/facility/3410/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Reveted)', '', 'Crew: 0', '', '', '', 'Length: 30 m', '', 'Width: 60 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Camouflaged Revetment (2x Medium Aircraft) ",
+        "url": "http://cmano-db.com/facility/3409/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Reveted)', '', 'Crew: 0', '', '', '', 'Length: 25 m', '', 'Width: 50 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Camouflaged Revetment (2x Small Aircraft) ",
+        "url": "http://cmano-db.com/facility/3408/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Reveted)', '', 'Crew: 0', '', '', '', 'Length: 20 m', '', 'Width: 40 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Revetment (2x Large Aircraft) ",
+        "url": "http://cmano-db.com/facility/3407/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Reveted)', '', 'Crew: 0', '', '', '', 'Length: 30 m', '', 'Width: 60 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Revetment (2x Medium Aircraft) ",
+        "url": "http://cmano-db.com/facility/3406/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Reveted)', '', 'Crew: 0', '', '', '', 'Length: 25 m', '', 'Width: 50 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Revetment (2x Small Aircraft) ",
+        "url": "http://cmano-db.com/facility/3405/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Reveted)', '', 'Crew: 0', '', '', '', 'Length: 20 m', '', 'Width: 40 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "SAM Site (Reveted) ",
+        "url": "http://cmano-db.com/facility/3404/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Building (Reveted)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Bty (SR7 122mm MLRS x 6) ",
+        "url": "http://cmano-db.com/facility/3403/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Type 81/89 122mm Rocket [BM-21 Grad Copy]', ' - Rocket', 'Surface Max: 22.2 km. Land Max: 22.2 km.', 'Fire Dragon 122mm Rocket', ' -(INS/GPS, Laser Guidance) Guided Weapon', 'Surface Max: 22.2 km. Land Max: 22.2 km.', '9M27F 220mm Rocket', ' -(BM-27 HE Rocket) Rocket', 'Surface Max: 22.2 km. Land Max: 40.7 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Bty (155mm/52 SIGMA Self-Propelled Howitzer x 6) ",
+        "url": "http://cmano-db.com/facility/3402/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2023', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '155mm/52 HE', ' -(Howitzer) Gun', 'Surface Max: 29.6 km. Land Max: 29.6 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Bty (155mm/23 M109A2 [Doher] Self-Propelled Howitzer x 6) ",
+        "url": "http://cmano-db.com/facility/3401/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 1993', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '155mm/23 HE', ' -(Howitzer) Gun', 'Surface Max: 14.8 km. Land Max: 14.8 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Bty (155mm/39 AS-90 Self-Propelled Howitzer x 6) (Extended Range)",
+        "url": "http://cmano-db.com/facility/3400/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic Binoculars', ' - (Surface Only) Visual', 'Visual, Binoculars', ' Max Range: 33.3 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '155mm/39 HE', ' -(Howitzer) Gun', 'Surface Max: 22.2 km. Land Max: 22.2 km.', '155mm/39 HE Rocket Assisted', ' -(Howitzer) Gun', 'Surface Max: 22.2 km. Land Max: 29.6 km.', '155mm/39 HE Base Bleed', ' -(Howitzer) Gun', 'Surface Max: 29.6 km. Land Max: 29.6 km.', '', '', '']"
+    },
+    {
+        "title": "Sensor (MSP-500 [NASAMS II]) ",
+        "url": "http://cmano-db.com/facility/3399/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 3 m', '', 'Width: 4 m', '', '', '', 'Operator: Air Force', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'MSP-500 [IR]', ' - (Group, 2001, Gun Director, 76mm/62) Infrared', 'Infrared, Weapon Director & Target Tracking and Identification Camera', ' Max Range: 185.2 km', 'MSP-500 [EO]', ' - (Group, 2001, Gun Director, 76mm/62) Visual', 'Visual, Weapon Director & Target Tracking and Identification TV Camera', ' Max Range: 185.2 km', 'MSP-500 [Laser Rangefinder]', ' - (Group, 2001, Gun Director, 76mm/62) Laser Rangefinder', 'Laser Rangefinder for Weapon Director / Target Tracking and Identification', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "SAM Plt/2 (NASAMS III) (2x + 1x MSP-500 pr Plt, 3x pr Bty, 2x Bty)",
+        "url": "http://cmano-db.com/facility/3398/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Air Force', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/MPQ-64F1 Sentinel', ' - (NASAMS II) Radar', 'Radar, Air Search, 3D Short-Range', ' Max Range: 74.1 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'MIM-120B NASAMS [AMRAAM]', ' -(1996) Guided Weapon', 'Air Max: 29.6 km.', '', '', '']"
+    },
+    {
+        "title": "Vehicles (Fuel Bowser x 4) ",
+        "url": "http://cmano-db.com/facility/3397/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic Binoculars', ' - (Surface Only) Visual', 'Visual, Binoculars', ' Max Range: 33.3 km', '', '', '']"
+    },
+    {
+        "title": "Vehicle (AN/TPQ-53) ",
+        "url": "http://cmano-db.com/facility/3396/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s) - Wheeled', '', 'Crew: 5', '', '', '', 'Length: 9 m', '', 'Width: 3 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/TPQ-53', ' - (2009, EQ-36 Counterfire, 360 deg) Radar', 'Radar, Counter-Battery', ' Max Range: 20 km', '', '', '']"
+    },
+    {
+        "title": "SSM Bn (Nazeat 10H TEL x 6) (Mushak-120, Iran-130)",
+        "url": "http://cmano-db.com/facility/3395/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Revolutionary Guard Corps - Army', '', 'Commissioned: 2020', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic Binoculars', ' - (Surface Only) Visual', 'Visual, Binoculars', ' Max Range: 33.3 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Nazeat 10H', ' -(Iran, Mushak-120, Iran-130) Guided Weapon', 'Land Max: 130 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Bn (Nazeat 6H TEL x 6) ",
+        "url": "http://cmano-db.com/facility/3394/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Revolutionary Guard Corps - Army', '', 'Commissioned: 2020', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic Binoculars', ' - (Surface Only) Visual', 'Visual, Binoculars', ' Max Range: 33.3 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Nazeat 6H', ' -(Iran) Guided Weapon', 'Land Max: 100 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Bn (Nazeat 10H TEL x 6) (Mushak-120, Iran-130)",
+        "url": "http://cmano-db.com/facility/3393/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic Binoculars', ' - (Surface Only) Visual', 'Visual, Binoculars', ' Max Range: 33.3 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Nazeat 10H', ' -(Iran, Mushak-120, Iran-130) Guided Weapon', 'Land Max: 130 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Bn (Nazeat 6H TEL x 6) ",
+        "url": "http://cmano-db.com/facility/3392/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic Binoculars', ' - (Surface Only) Visual', 'Visual, Binoculars', ' Max Range: 33.3 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Nazeat 6H', ' -(Iran) Guided Weapon', 'Land Max: 100 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Bn (Fateh-110/3 A-110B TEL x 2) (Fateh 3, A-110B)",
+        "url": "http://cmano-db.com/facility/3391/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Revolutionary Guard Corps - Army', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Fateh-110/3 A-110B [450kg HE Conventional]', ' -(Iran, 2012) Guided Weapon', 'Land Max: 351.9 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Bn (Fateh-110/2 A-110A TEL x 2) (Fateh 2)",
+        "url": "http://cmano-db.com/facility/3390/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Revolutionary Guard Corps - Army', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Fateh-110/2 A-110A [450kg HE Conventional]', ' -(Iran, 2006) Guided Weapon', 'Land Max: 250 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Bn (Agni P TEL [Nuclearl]) ",
+        "url": "http://cmano-db.com/facility/3389/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2023', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Agni P [15kT Nuclear]', ' -(India, Agni 1P) Guided Weapon', 'Land Max: 2000.2 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Bn (Agni P TEL [Conventional]) ",
+        "url": "http://cmano-db.com/facility/3388/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2023', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Agni P [1500kg HE Conventional]', ' -(India, Agni 1P) Guided Weapon', 'Land Max: 2000.2 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Bn (Agni V TEL [Nuclear]) (15x MIRV x 80kT)",
+        "url": "http://cmano-db.com/facility/3387/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2019', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Agni V [15x MIRV x 80kT Nuclear]', ' -(India) Guided Weapon', 'Land Max: 8000.6 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Bn (Agni V TEL [Conventional]) ",
+        "url": "http://cmano-db.com/facility/3386/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2019', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Agni V [1500kg HE Conventional]', ' -(India) Guided Weapon', 'Land Max: 8000.6 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Bty (HCDS) (Harpoon Coastal Defense System)",
+        "url": "http://cmano-db.com/facility/3385/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2028', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', ' ', 'RGM-84L Harpoon II', ' -(2003) Guided Weapon', 'Surface Max: 138.9 km. Land Max: 138.9 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Plt (HIMARS) (3x pr Bty)",
+        "url": "http://cmano-db.com/facility/3384/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2027', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'MGM-140A ATACMS Blk I [950 x M74 Dual Purpose]', ' -(1991, M39) Guided Weapon', 'Land Max: 166.7 km.', 'MGM-140B ATACMS Blk IA [275 x M74 Dual Purpose]', ' -(1999, M39A1) Guided Weapon', 'Land Max: 300 km.', 'M30A1 GMLRS ER [90kg HE]', ' -(2005) Guided Weapon', 'Surface Max: 83.3 km. Land Max: 83.3 km.', 'M30A2 GMLRS ER [Alternative Warhead]', ' -(2018) Guided Weapon', 'Surface Max: 83.3 km. Land Max: 83.3 km.', '', '', '']"
+    },
+    {
+        "title": "SAM Plt (VL-MICA) ",
+        "url": "http://cmano-db.com/facility/3383/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 4', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2018', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'TRM-L 3D', ' -Radar', 'Radar, Target Indicator, 3D Surface-to-Air', ' Max Range: 185.2 km', 'Generic Binoculars', ' - (Surface Only) Visual', 'Visual, Binoculars', ' Max Range: 33.3 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', ' ', 'VL-MICA EM', ' - Guided Weapon', 'Air Max: 22.2 km.', 'VL-MICA IR', ' - Guided Weapon', 'Air Max: 22.2 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Plt (HIMARS) (3x pr Bty, LRPF, PrSM Spiral 3)",
+        "url": "http://cmano-db.com/facility/3382/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'PrSM Spiral 3 [500lb HE]', ' -(LRPF, Precision Strike Missile, Increased Range) Guided Weapon', 'Surface Max: 805.6 km. Land Max: 805.6 km.', 'M30A1 GMLRS ER [90kg HE]', ' -(2005) Guided Weapon', 'Surface Max: 83.3 km. Land Max: 83.3 km.', 'M30A2 GMLRS ER [Alternative Warhead]', ' -(2018) Guided Weapon', 'Surface Max: 83.3 km. Land Max: 83.3 km.', 'PrSM Spiral 3 [275 x M74 Submunitions]', ' -(LRPF, Precision Strike Missile, Increased Range) Guided Weapon', 'Surface Max: 805.6 km. Land Max: 805.6 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Plt (HIMARS) (3x pr Bty, LRPF, PrSM Spiral 2)",
+        "url": "http://cmano-db.com/facility/3381/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'PrSM Spiral 2 [500lb HE]', ' -(LRPF, Precision Strike Missile) Guided Weapon', 'Surface Max: 500 km. Land Max: 500 km.', 'M30A1 GMLRS ER [90kg HE]', ' -(2005) Guided Weapon', 'Surface Max: 83.3 km. Land Max: 83.3 km.', 'M30A2 GMLRS ER [Alternative Warhead]', ' -(2018) Guided Weapon', 'Surface Max: 83.3 km. Land Max: 83.3 km.', 'PrSM Spiral 2 [275 x M74 Submunitions]', ' -(LRPF, Precision Strike Missile) Guided Weapon', 'Surface Max: 500 km. Land Max: 500 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Plt (HIMARS) (3x pr Bty, LRPF, PrSM Spiral 1)",
+        "url": "http://cmano-db.com/facility/3380/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2025', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'PrSM Spiral 1 [500lb HE]', ' -(2025, LRPF, Precision Strike Missile, Multi Mode Seeker) Guided Weapon', 'Surface Max: 500 km. Land Max: 500 km.', 'M30A1 GMLRS ER [90kg HE]', ' -(2005) Guided Weapon', 'Surface Max: 83.3 km. Land Max: 83.3 km.', 'M30A2 GMLRS ER [Alternative Warhead]', ' -(2018) Guided Weapon', 'Surface Max: 83.3 km. Land Max: 83.3 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Plt (MLRS) (3x pr Bty, LRPF, PrSM Spiral 3)",
+        "url": "http://cmano-db.com/facility/3379/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'PrSM Spiral 3 [500lb HE]', ' -(LRPF, Precision Strike Missile, Increased Range) Guided Weapon', 'Surface Max: 805.6 km. Land Max: 805.6 km.', 'M30A1 GMLRS ER [90kg HE]', ' -(2005) Guided Weapon', 'Surface Max: 83.3 km. Land Max: 83.3 km.', 'M30A2 GMLRS ER [Alternative Warhead]', ' -(2018) Guided Weapon', 'Surface Max: 83.3 km. Land Max: 83.3 km.', 'PrSM Spiral 3 [275 x M74 Submunitions]', ' -(LRPF, Precision Strike Missile, Increased Range) Guided Weapon', 'Surface Max: 805.6 km. Land Max: 805.6 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Plt (MLRS) (3x pr Bty, LRPF, PrSM Spiral 2)",
+        "url": "http://cmano-db.com/facility/3378/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'PrSM Spiral 2 [500lb HE]', ' -(LRPF, Precision Strike Missile) Guided Weapon', 'Surface Max: 500 km. Land Max: 500 km.', 'M30A1 GMLRS ER [90kg HE]', ' -(2005) Guided Weapon', 'Surface Max: 83.3 km. Land Max: 83.3 km.', 'M30A2 GMLRS ER [Alternative Warhead]', ' -(2018) Guided Weapon', 'Surface Max: 83.3 km. Land Max: 83.3 km.', 'PrSM Spiral 2 [275 x M74 Submunitions]', ' -(LRPF, Precision Strike Missile) Guided Weapon', 'Surface Max: 500 km. Land Max: 500 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Plt (MLRS) (3x pr Bty, LRPF, PrSM Spiral 1)",
+        "url": "http://cmano-db.com/facility/3377/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2025', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'PrSM Spiral 1 [500lb HE]', ' -(2025, LRPF, Precision Strike Missile, Multi Mode Seeker) Guided Weapon', 'Surface Max: 500 km. Land Max: 500 km.', 'M30A1 GMLRS ER [90kg HE]', ' -(2005) Guided Weapon', 'Surface Max: 83.3 km. Land Max: 83.3 km.', 'M30A2 GMLRS ER [Alternative Warhead]', ' -(2018) Guided Weapon', 'Surface Max: 83.3 km. Land Max: 83.3 km.', '', '', '']"
+    },
+    {
+        "title": "SAM Plt (NASAMS III HML [HMMWV]) (Tactical, AMRAAM-ER, 1x + 1x MSP-600, 1x total)",
+        "url": "http://cmano-db.com/facility/3376/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2023', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/MPQ-64F1 Sentinel', ' - (NASAMS II) Radar', 'Radar, Air Search, 3D Short-Range', ' Max Range: 74.1 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'AMRAAM-ER', ' -(NASAMS, ESSM w/ AMRAAM Seeker) Guided Weapon', 'Air Max: 55.6 km.', '', '', '']"
+    },
+    {
+        "title": "SAM Plt (NASAMS III HML [HMMWV]) (High Mobility Leg Platoon, AMRAAM-ER, 1x + 1x MSP-600, 1x total)",
+        "url": "http://cmano-db.com/facility/3375/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Air Force', '', 'Commissioned: 2023', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/MPQ-64F1 Sentinel', ' - (NASAMS II) Radar', 'Radar, Air Search, 3D Short-Range', ' Max Range: 74.1 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'AMRAAM-ER', ' -(NASAMS, ESSM w/ AMRAAM Seeker) Guided Weapon', 'Air Max: 55.6 km.', '', '', '']"
+    },
+    {
+        "title": "SAM Plt/2 (NASAMS III) (AMRAAM-ER, 2x + 1x MSP-500 pr Plt, 3x pr Bty, 2x Bty)",
+        "url": "http://cmano-db.com/facility/3374/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Air Force', '', 'Commissioned: 2023', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/MPQ-64F1 Sentinel', ' - (NASAMS II) Radar', 'Radar, Air Search, 3D Short-Range', ' Max Range: 74.1 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'AMRAAM-ER', ' -(NASAMS, ESSM w/ AMRAAM Seeker) Guided Weapon', 'Air Max: 55.6 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Bty ",
+        "url": "http://cmano-db.com/facility/3373/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Vehicle (AN/TPQ-53) ",
+        "url": "http://cmano-db.com/facility/3372/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s) - Wheeled', '', 'Crew: 5', '', '', '', 'Length: 9 m', '', 'Width: 3 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2022', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/TPQ-53', ' - (2009, EQ-36 Counterfire, 360 deg) Radar', 'Radar, Counter-Battery', ' Max Range: 20 km', '', '', '']"
+    },
+    {
+        "title": "Vehicle (AN/TPQ-53) ",
+        "url": "http://cmano-db.com/facility/3371/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s) - Wheeled', '', 'Crew: 5', '', '', '', 'Length: 9 m', '', 'Width: 3 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2009', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/TPQ-53', ' - (2009, EQ-36 Counterfire, 360 deg) Radar', 'Radar, Counter-Battery', ' Max Range: 20 km', '', '', '']"
+    },
+    {
+        "title": "Arty Bty (155mm/39 M109A7 ERCA Self-Propelled Howitzer x 6) (Extended Range Cannon Artillery)",
+        "url": "http://cmano-db.com/facility/3370/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2023', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '155mm/39 HE', ' -(ERCA) Gun', 'Surface Max: 38.9 km. Land Max: 38.9 km.', '155mm/39 HE Base Bleed', ' -(ERCA) Gun', 'Surface Max: 38.9 km. Land Max: 51.9 km.', '155mm/39 M982A1 Excalibur Ib Base Bleed', ' -(ERCA) Guided Projectile', 'Surface Max: 33.3 km. Land Max: 68.5 km.', '', '', '']"
+    },
+    {
+        "title": "EW Coy ",
+        "url": "http://cmano-db.com/facility/3369/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Ground Self-Defense Force', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic ESM [Advanced]', ' - (2010s, Precise Emitter ID) ESM', 'ELINT', ' Max Range: 926 km', 'Generic OECM [Advanced]', ' - (2020s) ECM', 'OECM, Offensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "SSM Bn (Hyunmoo 4 TEL) (Limited production)",
+        "url": "http://cmano-db.com/facility/3368/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2020', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Hyunmoo 4', ' -(South Korea, 2020) Guided Weapon', 'Land Max: 800.1 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Bn (KN-23) ",
+        "url": "http://cmano-db.com/facility/3367/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'KN-23 [2500kg HE Conventional]', ' -(North Korean 9K720 Iskander-M Copy/Upgrade) Guided Weapon', 'Land Max: 601.9 km.', 'KN-23 [2.5mT Nuclear]', ' -(North Korean 9K720 Iskander-M Copy/Upgrade) Guided Weapon', 'Land Max: 601.9 km.', '', '', '']"
+    },
+    {
+        "title": "SAM Bty (Mamba [SAMP/T]) (Aster, Missile & Radar Upgrade)",
+        "url": "http://cmano-db.com/facility/3366/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Air Force', '', 'Commissioned: 2022', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Ground Fire (GaN AESA)', ' - (Land Sea Fire) Radar', 'Radar, Air & Surface Search, 3D Medium-Range', ' Max Range: 203.7 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Aster 30 Blk 1 NT', ' -(2020+, ABM) Guided Weapon', 'Air Max: 111.1 km.', '', '', '']"
+    },
+    {
+        "title": "SAM Bty (Mamba [SAMP/T]) (Aster, Missile & Radar Upgrade)",
+        "url": "http://cmano-db.com/facility/3365/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Air Force', '', 'Commissioned: 2022', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Ground Fire (GaN AESA)', ' - (Land Sea Fire) Radar', 'Radar, Air & Surface Search, 3D Medium-Range', ' Max Range: 203.7 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Aster 30 Blk 1 NT', ' -(2020+, ABM) Guided Weapon', 'Air Max: 111.1 km.', '', '', '']"
+    },
+    {
+        "title": "Radar (AN/TPY-2) (Forward-Based Mode)",
+        "url": "http://cmano-db.com/facility/3364/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 0', '', '', '', 'Length: 4 m', '', 'Width: 6 m', '', '', '', 'Operator: Air Force', '', 'Commissioned: 2017', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/TPY-2 TMD-GBR', ' - (Forward-Based Mode) Radar', 'Radar, Ballistic Missile Battle Management', ' Max Range: 1731.6 km', '', '', '']"
+    },
+    {
+        "title": "Radar (AN/TPY-2) (Forward-Based Mode)",
+        "url": "http://cmano-db.com/facility/3363/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 0', '', '', '', 'Length: 4 m', '', 'Width: 6 m', '', '', '', 'Operator: Air Force', '', 'Commissioned: 2009', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/TPY-2 TMD-GBR', ' - (Forward-Based Mode) Radar', 'Radar, Ballistic Missile Battle Management', ' Max Range: 1731.6 km', '', '', '']"
+    },
+    {
+        "title": "SSM Bty (MRC) (Mid-Range Capability)",
+        "url": "http://cmano-db.com/facility/3362/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2023', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/SPY-1D MFR', ' -Radar', 'Radar, FCR, Surface-to-Air, Long-Range', ' Max Range: 324.1 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', ' ', 'RGM-109E Tomahawk Blk IV TACTOM', ' -(2005) Guided Weapon', 'Land Max: 2963.2 km.', 'RIM-174A ERAM SM-6 Blk IB', ' -(2021, MRC) Guided Weapon', 'Air Max: 370.4 km. Surface Max: 370.4 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Bty (LRHW) (Long Range Hypersonic Weapon)",
+        "url": "http://cmano-db.com/facility/3361/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2023', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic Binoculars', ' - (Anti-Air & Surface) Visual', 'Visual, Binoculars', ' Max Range: 33.3 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'LRHW', ' -(2023, HGV Boost Module, Long Range Hypersonic Weapon) Guided Weapon', 'Land Max: 3704 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Silo (SS-19 Stiletto Mod 4 [RS-18C]) ",
+        "url": "http://cmano-db.com/facility/3360/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Surface (Flat) & Underground', '', 'Crew: 0', '', '', '', 'Length: 4 m', '', 'Width: 4 m', '', '', '', 'Operator: Strategic Rocket Forces', '', 'Commissioned: 2019', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'SS-19 Stiletto Mod 4 [UR-100NUTTKh / RS-18C, Avangard HGV]', ' -(2019) Guided Weapon', 'Land Max: 10186 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Bn (SS-31 Saber 2 [RS-26 Rubezh] TEL) ",
+        "url": "http://cmano-db.com/facility/3359/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Strategic Rocket Forces', '', 'Commissioned: 2027', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'SS-31 Saber 2 Mod 2 [RS-26 Rubezh, 4x MIRV x 300kT Nuclear]', ' -(2027, SS-29, SS-X-29B, SS-X-31) Guided Weapon', 'Land Max: 5800.5 km.', 'SS-31 Saber 2 Mod 1 [RS-26 Rubezh, 4x MIRV x 150kT Nuclear]', ' -(2027, SS-29, SS-X-29B, SS-X-31) Guided Weapon', 'Land Max: 5800.5 km.', 'SS-31 Saber 2 Mod 3 [RS-26 Rubezh, 4x Avangard HGV x 2 mT Nuclear]', ' -(2027, SS-29, SS-X-29B, SS-X-31) Guided Weapon', 'Land Max: 5800.5 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Silo (SS-30 Satan 2 Mod 3 [RS-28 Sarmat]) ",
+        "url": "http://cmano-db.com/facility/3358/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Surface (Flat) & Underground', '', 'Crew: 0', '', '', '', 'Length: 4 m', '', 'Width: 4 m', '', '', '', 'Operator: Strategic Rocket Forces', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'SS-30 Satan 2 Mod 3 [RS-28 Sarmat, 24x Avangard HGV x 2 mT Nuclear]', ' -(2021, SS-29, SS-X-29, SS-X-30) Guided Weapon', 'Land Max: 17705.1 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Silo (SS-30 Satan 2 Mod 2 [RS-28 Sarmat]) ",
+        "url": "http://cmano-db.com/facility/3357/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Surface (Flat) & Underground', '', 'Crew: 0', '', '', '', 'Length: 4 m', '', 'Width: 4 m', '', '', '', 'Operator: Strategic Rocket Forces', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'SS-30 Satan 2 Mod 2 [RS-28 Sarmat, 15x MIRV x 550kT Nuclear]', ' -(2021, SS-29, SS-X-29, SS-X-30) Guided Weapon', 'Land Max: 17705.1 km.', '', '', '']"
+    },
+    {
+        "title": "SSM Silo (SS-30 Satan 2 Mod 1 [RS-28 Sarmat]) ",
+        "url": "http://cmano-db.com/facility/3356/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Surface (Flat) & Underground', '', 'Crew: 0', '', '', '', 'Length: 4 m', '', 'Width: 4 m', '', '', '', 'Operator: Strategic Rocket Forces', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'SS-30 Satan 2 Mod 1 [RS-28 Sarmat, 10x MIRV x 750kT Nuclear]', ' -(2021, SS-29, SS-X-29, SS-X-30) Guided Weapon', 'Land Max: 17705.1 km.', '', '', '']"
+    },
+    {
+        "title": "Mech Inf Coy (Advanced)",
+        "url": "http://cmano-db.com/facility/3355/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Mech Inf Coy ",
+        "url": "http://cmano-db.com/facility/3354/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Inf Coy (Motorised)",
+        "url": "http://cmano-db.com/facility/3353/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Inf Coy (Foot)",
+        "url": "http://cmano-db.com/facility/3352/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Personnel', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "EW Coy ",
+        "url": "http://cmano-db.com/facility/3351/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Armored Coy ",
+        "url": "http://cmano-db.com/facility/3350/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Amphibious Mech Inf Coy ",
+        "url": "http://cmano-db.com/facility/3349/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Mech Inf Bde (Advanced)",
+        "url": "http://cmano-db.com/facility/3348/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Mech Inf Bde ",
+        "url": "http://cmano-db.com/facility/3347/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Inf Bde (Motorised)",
+        "url": "http://cmano-db.com/facility/3346/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Inf Bde (Foot)",
+        "url": "http://cmano-db.com/facility/3345/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Personnel', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "EW Bde ",
+        "url": "http://cmano-db.com/facility/3344/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Bde ",
+        "url": "http://cmano-db.com/facility/3343/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Armored Bde ",
+        "url": "http://cmano-db.com/facility/3342/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Amphibious Mech Inf Bde ",
+        "url": "http://cmano-db.com/facility/3341/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "AD Bde ",
+        "url": "http://cmano-db.com/facility/3340/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Mech Inf Bn (Advanced)",
+        "url": "http://cmano-db.com/facility/3339/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Mech Inf Bn ",
+        "url": "http://cmano-db.com/facility/3338/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Inf Bn (Motorised)",
+        "url": "http://cmano-db.com/facility/3337/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Inf Bn (Foot)",
+        "url": "http://cmano-db.com/facility/3336/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Personnel', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "EW Bn ",
+        "url": "http://cmano-db.com/facility/3335/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Bn ",
+        "url": "http://cmano-db.com/facility/3334/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Armored Bn ",
+        "url": "http://cmano-db.com/facility/3333/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Amphibious Mech Inf Bn ",
+        "url": "http://cmano-db.com/facility/3332/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "AD Bn ",
+        "url": "http://cmano-db.com/facility/3331/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "SAM Bn (HISAR-A) (TELs)",
+        "url": "http://cmano-db.com/facility/3330/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'ASELFLIR-300D [IR]', ' -Infrared', 'Infrared, Target Search, Tracking and Identification Camera', ' Max Range: 14.8 km', 'ASELFLIR-300D [Laser Designator/Rangefinder]', ' -Laser Designator', 'Laser Target Designator & Ranger (LTD/R)', ' Max Range: 14.8 km', 'ASELFLIR-300D [Laser Spot Tracker]', ' -Laser Spot Tracker (LST)', 'LST, Laser Spot Tracker', ' Max Range: 14.8 km', 'ASELFLIR-300D [Spotter TV Camera]', ' -Visual', 'Visual, Target Search, Tracking and Identification TV Camera', ' Max Range: 14.8 km', 'ASELFLIR-300D [TV Camera]', ' -Visual', 'Visual, Target Search, Tracking and Identification TV Camera', ' Max Range: 14.8 km', 'KALKAN-II', ' -Radar', 'Radar, Air Search, 3D Short-Range', ' Max Range: 101.9 km', 'Generic Binoculars', ' - (Surface Only) Visual', 'Visual, Binoculars', ' Max Range: 33.3 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'HISAR-A Air Defense Missile', ' - Guided Weapon', 'Air Max: 14.8 km.', '', '', '']"
+    },
+    {
+        "title": "SAM Bty (HISAR-A) (TELs, 3x Bty pr Bn + TDLCS)",
+        "url": "http://cmano-db.com/facility/3329/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'KALKAN-II', ' -Radar', 'Radar, Air Search, 3D Short-Range', ' Max Range: 101.9 km', 'ASELFLIR-300D [IR]', ' -Infrared', 'Infrared, Target Search, Tracking and Identification Camera', ' Max Range: 14.8 km', 'ASELFLIR-300D [Laser Designator/Rangefinder]', ' -Laser Designator', 'Laser Target Designator & Ranger (LTD/R)', ' Max Range: 14.8 km', 'ASELFLIR-300D [Laser Spot Tracker]', ' -Laser Spot Tracker (LST)', 'LST, Laser Spot Tracker', ' Max Range: 14.8 km', 'ASELFLIR-300D [Spotter TV Camera]', ' -Visual', 'Visual, Target Search, Tracking and Identification TV Camera', ' Max Range: 14.8 km', 'ASELFLIR-300D [TV Camera]', ' -Visual', 'Visual, Target Search, Tracking and Identification TV Camera', ' Max Range: 14.8 km', 'Generic Binoculars', ' - (Surface Only) Visual', 'Visual, Binoculars', ' Max Range: 33.3 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'HISAR-A Air Defense Missile', ' - Guided Weapon', 'Air Max: 14.8 km.', '', '', '']"
+    },
+    {
+        "title": "SAM Bn (HISAR-O) ",
+        "url": "http://cmano-db.com/facility/3328/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'ASELFLIR-300D [IR]', ' -Infrared', 'Infrared, Target Search, Tracking and Identification Camera', ' Max Range: 14.8 km', 'ASELFLIR-300D [Laser Designator/Rangefinder]', ' -Laser Designator', 'Laser Target Designator & Ranger (LTD/R)', ' Max Range: 14.8 km', 'ASELFLIR-300D [Laser Spot Tracker]', ' -Laser Spot Tracker (LST)', 'LST, Laser Spot Tracker', ' Max Range: 14.8 km', 'ASELFLIR-300D [Spotter TV Camera]', ' -Visual', 'Visual, Target Search, Tracking and Identification TV Camera', ' Max Range: 14.8 km', 'ASELFLIR-300D [TV Camera]', ' -Visual', 'Visual, Target Search, Tracking and Identification TV Camera', ' Max Range: 14.8 km', 'KALKAN-II', ' -Radar', 'Radar, Air Search, 3D Short-Range', ' Max Range: 101.9 km', 'Generic Binoculars', ' - (Surface Only) Visual', 'Visual, Binoculars', ' Max Range: 33.3 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'HISAR-O Air Defense Missile', ' - Guided Weapon', 'Air Max: 25 km.', '', '', '']"
+    },
+    {
+        "title": "SAM Bty (HISAR-O) (3x Bty pr Bn + TDLCS)",
+        "url": "http://cmano-db.com/facility/3327/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'KALKAN-II', ' -Radar', 'Radar, Air Search, 3D Short-Range', ' Max Range: 101.9 km', 'ASELFLIR-300D [IR]', ' -Infrared', 'Infrared, Target Search, Tracking and Identification Camera', ' Max Range: 14.8 km', 'ASELFLIR-300D [Laser Designator/Rangefinder]', ' -Laser Designator', 'Laser Target Designator & Ranger (LTD/R)', ' Max Range: 14.8 km', 'ASELFLIR-300D [Laser Spot Tracker]', ' -Laser Spot Tracker (LST)', 'LST, Laser Spot Tracker', ' Max Range: 14.8 km', 'ASELFLIR-300D [Spotter TV Camera]', ' -Visual', 'Visual, Target Search, Tracking and Identification TV Camera', ' Max Range: 14.8 km', 'ASELFLIR-300D [TV Camera]', ' -Visual', 'Visual, Target Search, Tracking and Identification TV Camera', ' Max Range: 14.8 km', 'Generic Binoculars', ' - (Surface Only) Visual', 'Visual, Binoculars', ' Max Range: 33.3 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'HISAR-O Air Defense Missile', ' - Guided Weapon', 'Air Max: 25 km.', '', '', '']"
+    },
+    {
+        "title": "SAM Plt (HISAR-A) (ACV-30 Chassis)",
+        "url": "http://cmano-db.com/facility/3326/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2020', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic Binoculars', ' - (Anti-Air & Surface) Visual', 'Visual, Binoculars', ' Max Range: 33.3 km', 'Generic Gun Director [IR]', ' - (3rd Gen, Anti-Air & Surface) Infrared', 'Infrared, Weapon Director Camera', ' Max Range: 185.2 km', 'Generic Laser Rangefinder for Gun Director', ' - (Anti-Air & Surface) Laser Rangefinder', 'Laser Rangefinder for Weapon Director', ' Max Range: 7.4 km', 'Generic Gun Director [TV Camera]', ' - (3rd Gen, Anti-Air & Surface) Visual', 'Visual, Weapon Director TV Camera', ' Max Range: 185.2 km', 'Generic Gun Director [LLTV]', ' - (3rd Gen, Anti-Air & Surface) Visual', 'LLTV, Weapon Director', ' Max Range: 185.2 km', 'KALKAN-II', ' - (3rd Gen, Anti-Air & Surface) Radar', 'Radar, Air Search, 3D Short-Range', ' Max Range: 101.9 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', 'HISAR-A Air Defense Missile', ' - Guided Weapon', 'Air Max: 14.8 km.', '', '', '']"
+    },
+    {
+        "title": "Radar (Bashir) (Mobile)",
+        "url": "http://cmano-db.com/facility/3325/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 2', '', '', '', 'Length: 12 m', '', 'Width: 12 m', '', '', '', 'Operator: Air Force', '', 'Commissioned: 2016', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Bashir', ' -Radar', 'Radar, Air Search, 3D Long-Range', ' Max Range: 350 km', '', '', '']"
+    },
+    {
+        "title": "SAM Bn (Sevom Khordad) ",
+        "url": "http://cmano-db.com/facility/3324/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2016', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Sevom Khordad FCR', ' -Radar', 'Radar, FCR, Surface-to-Air, Medium-Range', ' Max Range: 92.6 km', 'Bashir', ' -Radar', 'Radar, Air Search, 3D Long-Range', ' Max Range: 350 km', 'Generic Binoculars', ' - (Surface Only) Visual', 'Visual, Binoculars', ' Max Range: 33.3 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Taer 2B', ' -(Sevom Khordad) Guided Weapon', 'Air Max: 50 km.', '', '', '']"
+    },
+    {
+        "title": "SAM Bty (Sevom Khordad) (4x Bty pr Bn + Bashir)",
+        "url": "http://cmano-db.com/facility/3323/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2016', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Sevom Khordad FCR', ' -Radar', 'Radar, FCR, Surface-to-Air, Medium-Range', ' Max Range: 92.6 km', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Taer 2B', ' -(Sevom Khordad) Guided Weapon', 'Air Max: 50 km.', '', '', '']"
+    },
+    {
+        "title": "Radar (Rezonans-NE) ",
+        "url": "http://cmano-db.com/facility/3322/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Building (Surface)', '', 'Crew: 3', '', '', '', 'Length: 100 m', '', 'Width: 100 m', '', '', '', 'Operator: Air Force', '', 'Commissioned: 2019', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Rezonans-NE', ' - (Single (90deg) Module) Radar', 'Radar, Air Search, 3D Long-Range', ' Max Range: 1111.2 km', '', '', '']"
+    },
+    {
+        "title": "Radar (Rezonans-NE) ",
+        "url": "http://cmano-db.com/facility/3321/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Building (Surface)', '', 'Crew: 3', '', '', '', 'Length: 100 m', '', 'Width: 100 m', '', '', '', 'Operator: Air Force', '', 'Commissioned: 2019', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Rezonans-NE', ' - (Single (90deg) Module) Radar', 'Radar, Air Search, 3D Long-Range', ' Max Range: 1111.2 km', '', '', '']"
+    },
+    {
+        "title": "Radar (Rezonans-NE) ",
+        "url": "http://cmano-db.com/facility/3320/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Building (Surface)', '', 'Crew: 3', '', '', '', 'Length: 100 m', '', 'Width: 100 m', '', '', '', 'Operator: Air Force', '', 'Commissioned: 2018', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Rezonans-NE', ' - (Single (90deg) Module) Radar', 'Radar, Air Search, 3D Long-Range', ' Max Range: 1111.2 km', '', '', '']"
+    },
+    {
+        "title": "Radar (Rezonans-N) ",
+        "url": "http://cmano-db.com/facility/3319/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Building (Surface)', '', 'Crew: 3', '', '', '', 'Length: 100 m', '', 'Width: 100 m', '', '', '', 'Operator: Air Force', '', 'Commissioned: 2014', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Rezonans-N', ' - (Single (90deg) Module) Radar', 'Radar, Air Search, 3D Long-Range', ' Max Range: 1111.2 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - Cellular 3G ",
+        "url": "http://cmano-db.com/facility/3318/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Emitter [Cellular 3G]', ' - (2GHz, 100W) Non-Detecting Emitter', 'None', ' Max Range: 92.6 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - Cellular GSM ",
+        "url": "http://cmano-db.com/facility/3317/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Emitter [Cellular GSM]', ' - (900MHz / 1.8GHz, 100W) Non-Detecting Emitter', 'None', ' Max Range: 92.6 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - VHF FM Digital Broadcast ",
+        "url": "http://cmano-db.com/facility/3316/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Emitter [VHF FM Digital Broadcast]', ' - (220MHz, 10kW) Non-Detecting Emitter', 'None', ' Max Range: 92.6 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - UHF TV Digital Broadcast ",
+        "url": "http://cmano-db.com/facility/3315/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Emitter [UHF TV Digital Broadcast]', ' - (750MHz, 8kW) Non-Detecting Emitter', 'None', ' Max Range: 92.6 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - UHF TV Analogue Broadcast ",
+        "url": "http://cmano-db.com/facility/3314/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Emitter [UHF TV Analogue Broadcast]', ' - (550MHz, 1MW) Non-Detecting Emitter', 'None', ' Max Range: 92.6 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - VHF FM Analogue Broadcast ",
+        "url": "http://cmano-db.com/facility/3313/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Emitter [VHF FM Analogue Broadcast]', ' - (100MHz, 250kW) Non-Detecting Emitter', 'None', ' Max Range: 92.6 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - HF Broadcast ",
+        "url": "http://cmano-db.com/facility/3312/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Emitter [HF Broadcast]', ' - (10-30MHz, 50MW) Non-Detecting Emitter', 'None', ' Max Range: 92.6 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - TV (VHF-Lo)",
+        "url": "http://cmano-db.com/facility/3311/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'TV Broadcast Emitter [VHF-Lo]', ' - (RF Chann. 2-6, Average Output [20kW]) Non-Detecting Emitter', 'None', ' Max Range: 92.6 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - TV (VHF-Hi)",
+        "url": "http://cmano-db.com/facility/3310/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'TV Broadcast Emitter [VHF-Hi]', ' - (RF Chann. 7-13, Average Output [20kW]) Non-Detecting Emitter', 'None', ' Max Range: 92.6 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - TV (UHF)",
+        "url": "http://cmano-db.com/facility/3309/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'TV Broadcast Emitter [UHF]', ' - (RF Chann. 14-51, Average Output [20kW]) Non-Detecting Emitter', 'None', ' Max Range: 92.6 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - VOR NavAid (Terminal)",
+        "url": "http://cmano-db.com/facility/3308/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'VOR Emitter [Terminal]', ' - (Low Power) Non-Detecting Emitter', 'None', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - VOR NavAid (Low Altitude)",
+        "url": "http://cmano-db.com/facility/3307/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'VOR Emitter [Low Altitude]', ' - (Medium Power) Non-Detecting Emitter', 'None', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - VOR NavAid (High Altitude)",
+        "url": "http://cmano-db.com/facility/3306/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'VOR Emitter [High Altitude]', ' - (High Power) Non-Detecting Emitter', 'None', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - NDB NavAid (Localizer)",
+        "url": "http://cmano-db.com/facility/3305/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'NDB Emitter [Localizer]', ' - (Low Power) Non-Detecting Emitter', 'None', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - NDB NavAid (Approach)",
+        "url": "http://cmano-db.com/facility/3304/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'NDB Emitter [Approach]', ' - (Medium Power) Non-Detecting Emitter', 'None', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - NDB NavAid (En Route)",
+        "url": "http://cmano-db.com/facility/3303/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'NDB Emitter [En Route]', ' - (High Power) Non-Detecting Emitter', 'None', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - CB Radio (HF)",
+        "url": "http://cmano-db.com/facility/3302/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'CB Radio Emitter [Hf]', ' -Non-Detecting Emitter', 'None', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "Antenna Tower - CB Radio (UHF)",
+        "url": "http://cmano-db.com/facility/3301/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Open)', '', 'Crew: 1', '', '', '', 'Length: 2 m', '', 'Width: 2 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'CB Radio Emitter [UHf]', ' -Non-Detecting Emitter', 'None', ' Max Range: 37 km', '', '', '']"
+    }
+]

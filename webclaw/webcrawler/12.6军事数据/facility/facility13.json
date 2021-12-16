@@ -1,0 +1,67 @@
+[
+    {
+        "title": "A/C Hangar (1x Large Aircraft) ",
+        "url": "http://cmano-db.com/facility/3413/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Building (Surface)', '', 'Crew: 0', '', '', '', 'Length: 120 m', '', 'Width: 40 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Hangar (3x Large Aircraft) ",
+        "url": "http://cmano-db.com/facility/3412/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Building (Surface)', '', 'Crew: 0', '', '', '', 'Length: 120 m', '', 'Width: 40 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Hangar (7x Large Aircraft) ",
+        "url": "http://cmano-db.com/facility/3411/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Building (Surface)', '', 'Crew: 0', '', '', '', 'Length: 120 m', '', 'Width: 40 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Camouflaged Revetment (2x Large Aircraft) ",
+        "url": "http://cmano-db.com/facility/3410/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Reveted)', '', 'Crew: 0', '', '', '', 'Length: 30 m', '', 'Width: 60 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Camouflaged Revetment (2x Medium Aircraft) ",
+        "url": "http://cmano-db.com/facility/3409/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Reveted)', '', 'Crew: 0', '', '', '', 'Length: 25 m', '', 'Width: 50 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Camouflaged Revetment (2x Small Aircraft) ",
+        "url": "http://cmano-db.com/facility/3408/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Reveted)', '', 'Crew: 0', '', '', '', 'Length: 20 m', '', 'Width: 40 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Revetment (2x Large Aircraft) ",
+        "url": "http://cmano-db.com/facility/3407/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Reveted)', '', 'Crew: 0', '', '', '', 'Length: 30 m', '', 'Width: 60 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Revetment (2x Medium Aircraft) ",
+        "url": "http://cmano-db.com/facility/3406/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Reveted)', '', 'Crew: 0', '', '', '', 'Length: 25 m', '', 'Width: 50 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "A/C Revetment (2x Small Aircraft) ",
+        "url": "http://cmano-db.com/facility/3405/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Structure (Reveted)', '', 'Crew: 0', '', '', '', 'Length: 20 m', '', 'Width: 40 m', '', '', '', 'Operator: Generic', '', '', '', '', '']"
+    },
+    {
+        "title": "SAM Site (Reveted) ",
+        "url": "http://cmano-db.com/facility/3404/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Building (Reveted)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Generic', '', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '7.62mm MG Burst [20 rnds]', ' -(Ship & Facility) Gun', 'Surface Max: 0.4 km. Land Max: 0.4 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Bty (SR7 122mm MLRS x 6) ",
+        "url": "http://cmano-db.com/facility/3403/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2021', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', 'Type 81/89 122mm Rocket [BM-21 Grad Copy]', ' - Rocket', 'Surface Max: 22.2 km. Land Max: 22.2 km.', 'Fire Dragon 122mm Rocket', ' -(INS/GPS, Laser Guidance) Guided Weapon', 'Surface Max: 22.2 km. Land Max: 22.2 km.', '9M27F 220mm Rocket', ' -(BM-27 HE Rocket) Rocket', 'Surface Max: 22.2 km. Land Max: 40.7 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Bty (155mm/52 SIGMA Self-Propelled Howitzer x 6) ",
+        "url": "http://cmano-db.com/facility/3402/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 2023', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '155mm/52 HE', ' -(Howitzer) Gun', 'Surface Max: 29.6 km. Land Max: 29.6 km.', '', '', '']"
+    },
+    {
+        "title": "Arty Bty (155mm/23 M109A2 [Doher] Self-Propelled Howitzer x 6) ",
+        "url": "http://cmano-db.com/facility/3401/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Mobile Vehicle(s)', '', 'Crew: 1', '', '', '', 'Length: 0 m', '', 'Width: 0 m', '', '', '', 'Operator: Army', '', 'Commissioned: 1993', '', '', '', '', '', '', '', 'Weapons:', '', '', '', '', '155mm/23 HE', ' -(Howitzer) Gun', 'Surface Max: 14.8 km. Land Max: 14.8 km.', '', '', '']"
+    }
+]

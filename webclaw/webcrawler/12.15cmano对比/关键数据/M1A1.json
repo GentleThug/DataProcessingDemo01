@@ -1,0 +1,126 @@
+[
+    {
+        "title": "AAA Bty (90mm M1A1 x 4) ",
+        "url": "http://cmano-db.com/cw/facility/230/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " Mobile Vehicle(s)",
+                "Crew": " 1",
+                "Length": " 0 m",
+                "Width": " 0 m",
+                "Operator": " Army",
+                "Commissioned": " 1941"
+            }
+        ],
+        "Sensors / EW": [
+            "SCR-584 -  Radar\n\t\t\t\t\tRadar, Target Indicator, 2D Surface-to-Air Max Range: 37 km",
+            "AN/TPS-1D -  Radar\n\t\t\t\t\tRadar, Air Search, 3D Long-Range Max Range: 296.3 km"
+        ],
+        "Weapons": [
+            "90mm M117 HE -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 2.8 km.  "
+        ]
+    },
+    {
+        "title": "AAA Bty (120mm M1A1 x 4) ",
+        "url": "http://cmano-db.com/cw/facility/35/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " Mobile Vehicle(s)",
+                "Crew": " 1",
+                "Length": " 0 m",
+                "Width": " 0 m",
+                "Operator": " Army"
+            }
+        ],
+        "Sensors / EW": [
+            "SCR-584 -  Radar\n\t\t\t\t\tRadar, Target Indicator, 2D Surface-to-Air Max Range: 37 km",
+            "AN/TPS-1D -  Radar\n\t\t\t\t\tRadar, Air Search, 3D Long-Range Max Range: 296.3 km"
+        ],
+        "Weapons": [
+            "120mm M-1 AA -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 2.8 km.  "
+        ]
+    },
+    {
+        "title": "Armored Plt (M1A1 Abrams MBT x 4) (59x)",
+        "url": "http://cmano-db.com/facility/2888/",
+        "Country/Type": "Australia",
+        "General data": [
+            {
+                "Type": " Mobile Vehicle(s)",
+                "Crew": " 1",
+                "Length": " 0 m",
+                "Width": " 0 m",
+                "Operator": " Army",
+                "Commissioned": " 2007"
+            }
+        ],
+        "Sensors / EW": [
+            "Generic Gun Director [LLTV] - (2nd Gen, Surface Only, 8x Magnification) Visual\n\t\t\t\t\tLLTV, Weapon Director Max Range: 46.3 km",
+            "Generic Laser Rangefinder for Gun Director - (Surface Only) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 7.4 km",
+            "Generic Gun Director [TV Camera] - (2nd Gen, Surface Only, 8x Magnification) Visual\n\t\t\t\t\tVisual, Weapon Director TV Camera Max Range: 46.3 km"
+        ],
+        "Weapons": [
+            "7.62mm MG Burst [20 rnds] -\n\t\t\t\t(Ship & Facility) Gun\n\t\t\t\tSurface Max: 0.4 km. Land Max: 0.4 km.  ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km.  ",
+            " 120mm M256 APFSDS-T -\n\t\t\t\t Gun\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km.  ",
+            " 120mm M256 HEAT -\n\t\t\t\t Gun\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km.  ",
+            " 120mm M256 HE -\n\t\t\t\t Gun\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km.  "
+        ]
+    },
+    {
+        "title": "Armored Plt (M1A1 Abrams MBT x 3) (1000+)",
+        "url": "http://cmano-db.com/facility/2740/",
+        "Country/Type": "Egypt",
+        "General data": [
+            {
+                "Type": " Mobile Vehicle(s)",
+                "Crew": " 1",
+                "Length": " 0 m",
+                "Width": " 0 m",
+                "Operator": " Army",
+                "Commissioned": " 1992"
+            }
+        ],
+        "Sensors / EW": [
+            "Generic Gun Director [LLTV] - (2nd Gen, Surface Only, 8x Magnification) Visual\n\t\t\t\t\tLLTV, Weapon Director Max Range: 46.3 km",
+            "Generic Laser Rangefinder for Gun Director - (Surface Only) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 7.4 km",
+            "Generic Gun Director [TV Camera] - (2nd Gen, Surface Only, 8x Magnification) Visual\n\t\t\t\t\tVisual, Weapon Director TV Camera Max Range: 46.3 km"
+        ],
+        "Weapons": [
+            "7.62mm MG Burst [20 rnds] -\n\t\t\t\t(Ship & Facility) Gun\n\t\t\t\tSurface Max: 0.4 km. Land Max: 0.4 km.  ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km.  ",
+            " 120mm M256 APFSDS-T -\n\t\t\t\t Gun\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km.  ",
+            " 120mm M256 HEAT -\n\t\t\t\t Gun\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km.  ",
+            " 120mm M256 HE -\n\t\t\t\t Gun\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km.  "
+        ]
+    },
+    {
+        "title": "Armored Plt (M1A1 Abrams MBT x 4) ",
+        "url": "http://cmano-db.com/facility/524/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " Mobile Vehicle(s)",
+                "Crew": " 1",
+                "Length": " 0 m",
+                "Width": " 0 m",
+                "Operator": " Army",
+                "Commissioned": " 1986"
+            }
+        ],
+        "Sensors / EW": [
+            "Generic Gun Director [LLTV] - (2nd Gen, Surface Only, 8x Magnification) Visual\n\t\t\t\t\tLLTV, Weapon Director Max Range: 46.3 km",
+            "Generic Laser Rangefinder for Gun Director - (Surface Only) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 7.4 km",
+            "Generic Gun Director [TV Camera] - (2nd Gen, Surface Only, 8x Magnification) Visual\n\t\t\t\t\tVisual, Weapon Director TV Camera Max Range: 46.3 km"
+        ],
+        "Weapons": [
+            "7.62mm MG Burst [20 rnds] -\n\t\t\t\t(Ship & Facility) Gun\n\t\t\t\tSurface Max: 0.4 km. Land Max: 0.4 km.  ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km.  ",
+            " 120mm M256 APFSDS-T -\n\t\t\t\t Gun\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km.  ",
+            " 120mm M256 HEAT -\n\t\t\t\t Gun\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km.  ",
+            " 120mm M256 HE -\n\t\t\t\t Gun\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km.  "
+        ]
+    }
+]

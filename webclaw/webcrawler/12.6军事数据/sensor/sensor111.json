@@ -1,0 +1,557 @@
+[
+    {
+        "title": "Grave Stone [92N2] (SA-21, ABM Capable?)",
+        "url": "http://cmano-db.com/sensor/4155/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 398.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 2000s', '', '', '', '', '', '', 'Properties: Pulse Doppler Radar (Full LDSD Capability), Interrupted Continuous Wave Illumination', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Grave Stone [92N2]', ' - (SA-21, ABM Capable?) Radar', 'Role: Radar, FCR, Surface-to-Air, Long-Range', ' Max Range: 398.2 km', '', '', '']"
+    },
+    {
+        "title": "AN/APN-239 [RDR 1400C] ",
+        "url": "http://cmano-db.com/sensor/4154/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.6 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/APN-239 [RDR 1400C]', ' -Radar', 'Role: Radar, Surface Search, Medium-Range', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (AA-2b)",
+        "url": "http://cmano-db.com/sensor/4153/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (AA-2b) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-19)",
+        "url": "http://cmano-db.com/sensor/4152/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-19) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "SA-3 TV Camera ",
+        "url": "http://cmano-db.com/sensor/4150/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual, 1st Generation TV Camera (1960s/1970s, TISEO)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SA-3 TV Camera', ' -Visual', 'Role: Visual, Target Tracking and Identification TV Camera', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "Torpedo Seeker (A.184 Mod 1, ASW Only)",
+        "url": "http://cmano-db.com/sensor/4149/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Hull Sonar, Active/Passive', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 1.4 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Torpedo Seeker', ' - (A.184 Mod 1, ASW Only) Hull Sonar, Active/Passive', 'Role: Torpedo Seeker, Active/Passive', ' Max Range: 1.4 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-17)",
+        "url": "http://cmano-db.com/sensor/4148/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 296.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-17) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 296.3 km', '', '', '']"
+    },
+    {
+        "title": "Torpedo Seeker (L5 Mod 1/3/4 [AS-5T], ASW Only)",
+        "url": "http://cmano-db.com/sensor/4145/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Hull Sonar, Active/Passive', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Torpedo Seeker', ' - (L5 Mod 1/3/4 [AS-5T], ASW Only) Hull Sonar, Active/Passive', 'Role: Torpedo Seeker, Active/Passive', ' Max Range: 0.6 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-11)",
+        "url": "http://cmano-db.com/sensor/4144/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-11) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "Torpedo Seeker (USET-80, ASW Only)",
+        "url": "http://cmano-db.com/sensor/4143/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Hull Sonar, Active/Passive', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 2.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Torpedo Seeker', ' - (USET-80, ASW Only) Hull Sonar, Active/Passive', 'Role: Torpedo Seeker, Active/Passive & Wake Homer (WH)', ' Max Range: 2.8 km', '', '', '']"
+    },
+    {
+        "title": "Torpedo Seeker (SET-53M, ASW, Act/Pas)",
+        "url": "http://cmano-db.com/sensor/4142/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Hull Sonar, Passive-Only', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Torpedo Seeker', ' - (SET-53M, ASW, Act/Pas) Hull Sonar, Passive-Only', 'Role: Torpedo Seeker, Passive-Only', ' Max Range: 0.6 km', '', '', '']"
+    },
+    {
+        "title": "Torpedo Seeker (SET-65M, ASW Only)",
+        "url": "http://cmano-db.com/sensor/4141/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Hull Sonar, Active/Passive', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 1.4 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Torpedo Seeker', ' - (SET-65M, ASW Only) Hull Sonar, Active/Passive', 'Role: Torpedo Seeker, Active/Passive', ' Max Range: 1.4 km', '', '', '']"
+    },
+    {
+        "title": "Torpedo Seeker (Yu-4B, ASuW-Only, Act/Pas)",
+        "url": "http://cmano-db.com/sensor/4140/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Hull Sonar, Active/Passive', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 1.4 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Torpedo Seeker', ' - (Yu-4B, ASuW-Only, Act/Pas) Hull Sonar, Active/Passive', 'Role: Torpedo Seeker, Active/Passive', ' Max Range: 1.4 km', '', '', '']"
+    },
+    {
+        "title": "Line-Of-Sight Guidance (Crotale Naval)",
+        "url": "http://cmano-db.com/sensor/4139/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Line-Of-Sight Guidance', ' - (Crotale Naval) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (Aspide SAM, Air and Surface)",
+        "url": "http://cmano-db.com/sensor/4138/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 37 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (Aspide SAM, Air and Surface) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-3a)",
+        "url": "http://cmano-db.com/sensor/4137/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1960s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-3a) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-3b)",
+        "url": "http://cmano-db.com/sensor/4136/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1960s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-3b) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-8a)",
+        "url": "http://cmano-db.com/sensor/4135/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-8a) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-8b)",
+        "url": "http://cmano-db.com/sensor/4134/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-8b) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-15)",
+        "url": "http://cmano-db.com/sensor/4133/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 296.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-15) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 296.3 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SM-1 Blk IV ASuW)",
+        "url": "http://cmano-db.com/sensor/4132/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 296.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SM-1 Blk IV ASuW) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 296.3 km', '', '', '']"
+    },
+    {
+        "title": "AN/SPS-64(V)3 [RM 1220 6X] (20kW, USCG, 2x antenna, RM 1220 6X + RM 1220 6X RM16)",
+        "url": "http://cmano-db.com/sensor/4131/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 37 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/SPS-64(V)3 [RM 1220 6X]', ' - (20kW, USCG, 2x antenna, RM 1220 6X + RM 1220 6X RM16) Radar', 'Role: Radar, Surface Search & Navigation', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "AN/SPS-64(V)2 [RM 1220 6X] (20kW, USCG, 2x antenna, RM 1220 6X + RM 1620)",
+        "url": "http://cmano-db.com/sensor/4130/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 37 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/SPS-64(V)2 [RM 1220 6X]', ' - (20kW, USCG, 2x antenna, RM 1220 6X + RM 1620) Radar', 'Role: Radar, Surface Search & Navigation', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "WBG 96 (Brevel KZO UAV)",
+        "url": "http://cmano-db.com/sensor/4129/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 3rd Generation Imaging (2000s/2010s, Impr LANTIRN, Litening II/III, ATFLIR)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'WBG 96', ' - (Brevel KZO UAV) Infrared', 'Role: Infrared, Surveillance Camera', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "Fox Flat SLAR [Shompol] (MiG-25RBS)",
+        "url": "http://cmano-db.com/sensor/4128/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', 'Properties: Moving Target Indicator (MTI), Pulse-only Radar, Synthetic Aperture Radar (SAR)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Fox Flat SLAR [Shompol]', ' - (MiG-25RBS) Radar', 'Role: SLAR, Side-Looking Airborne Radar', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "SPS-22/33/44/55 Buket [OECM] (Mi-10PP)",
+        "url": "http://cmano-db.com/sensor/4126/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SPS-22/33/44/55 Buket [OECM]', ' - (Mi-10PP) ECM', 'Role: OECM, Offensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "SPS-22/33/44/55 Buket [ESM] (Mi-10PP)",
+        "url": "http://cmano-db.com/sensor/4125/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SPS-22/33/44/55 Buket [ESM]', ' - (Mi-10PP) ESM', 'Role: ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "ORB 32WAS Heracles II ",
+        "url": "http://cmano-db.com/sensor/4124/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 111.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.6 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', 'Properties: Periscope/Surface Search - Fine Range Resolution + Rapid Scan [1980+], Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'ORB 32WAS Heracles II', ' -Radar', 'Role: Radar, Surface Search, Medium-Range', ' Max Range: 111.1 km', '', '', '']"
+    },
+    {
+        "title": "China Type 605 [AN/AQS-13B] ",
+        "url": "http://cmano-db.com/sensor/4123/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Dipping Sonar, Active-Only', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 5.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'China Type 605 [AN/AQS-13B]', ' -Dipping Sonar, Active-Only', 'Role: Dipping Sonar, Active-Only Search & Track', ' Max Range: 5.6 km', '', '', '']"
+    },
+    {
+        "title": "Star Safire II ",
+        "url": "http://cmano-db.com/sensor/4122/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 3rd Generation Imaging (2000s/2010s, Impr LANTIRN, Litening II/III, ATFLIR)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Star Safire II', ' -Infrared', 'Role: Infrared, Surveillance Camera', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "Slot Back [N-001K Mech] (Su-33)",
+        "url": "http://cmano-db.com/sensor/4120/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 166.7 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Pulse Doppler Radar (Full LDSD Capability), Continuous Wave Illumination', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Slot Back [N-001K Mech]', ' - (Su-33) Radar', 'Role: Radar, FCR, Air-to-Air, Medium-Range', ' Max Range: 166.7 km', '', '', '']"
+    },
+    {
+        "title": "Slot Back [N-035E] (Su-35BM)",
+        "url": "http://cmano-db.com/sensor/4119/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 296.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Early 2000s', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Track While Scan (TWS), Pulse Doppler Radar (Full LDSD Capability), Interrupted Continuous Wave Illumination', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Slot Back [N-035E]', ' - (Su-35BM) Radar', 'Role: Radar, FCR, Air-to-Air & Air-to-Surface, Long-Range', ' Max Range: 296.3 km', '', '', '']"
+    },
+    {
+        "title": "Passive Radar Seeker (AA-10 ARM)",
+        "url": "http://cmano-db.com/sensor/4118/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 83.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Passive Radar Seeker', ' - (AA-10 ARM) ESM', 'Role: Weapon Seeker, Anti-Radiation', ' Max Range: 83.3 km', '', '', '']"
+    },
+    {
+        "title": "Long Bow [Zalp-B] (100mm GFCR)",
+        "url": "http://cmano-db.com/sensor/4117/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 9144 m', '', '', '', 'Range Max: 14.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Long Bow [Zalp-B]', ' - (100mm GFCR) Radar', 'Role: Radar, FCR, Weapon Director', ' Max Range: 14.8 km', '', '', '']"
+    },
+    {
+        "title": "IIR Seeker (Hakim)",
+        "url": "http://cmano-db.com/sensor/4116/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Imaging IR (IIR) / Focal Plane Array Seeker', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IIR Seeker', ' - (Hakim) Infrared', 'Role: Weapon Seeker, Imaging IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "EO Seeker (Gabriel, Skorpioen, Hsiung Feng I)",
+        "url": "http://cmano-db.com/sensor/4115/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 27.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual, 1st Generation TV Camera (1960s/1970s, TISEO)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'EO Seeker', ' - (Gabriel, Skorpioen, Hsiung Feng I) Visual', 'Role: Weapon Seeker, TV', ' Max Range: 27.8 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (MIM-14B)",
+        "url": "http://cmano-db.com/sensor/4114/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (MIM-14B) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (Bloodhound 2)",
+        "url": "http://cmano-db.com/sensor/4113/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (Bloodhound 2) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (RIM-2F)",
+        "url": "http://cmano-db.com/sensor/4112/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (RIM-2F) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (RIM-24C)",
+        "url": "http://cmano-db.com/sensor/4111/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (RIM-24C) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (RIM-8J)",
+        "url": "http://cmano-db.com/sensor/4110/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (RIM-8J) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-4)",
+        "url": "http://cmano-db.com/sensor/4109/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-4) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-N-1c)",
+        "url": "http://cmano-db.com/sensor/4108/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-N-1c) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-N-1b)",
+        "url": "http://cmano-db.com/sensor/4107/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-N-1b) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-N-4b)",
+        "url": "http://cmano-db.com/sensor/4106/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-N-4b) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-N-4a)",
+        "url": "http://cmano-db.com/sensor/4105/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-N-4a) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-N-3b)",
+        "url": "http://cmano-db.com/sensor/4104/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-N-3b) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-N-3a)",
+        "url": "http://cmano-db.com/sensor/4103/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-N-3a) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-2f)",
+        "url": "http://cmano-db.com/sensor/4102/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-2f) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-N-7)",
+        "url": "http://cmano-db.com/sensor/4101/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-N-7) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (Sea Dart Mod 2/3)",
+        "url": "http://cmano-db.com/sensor/4100/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (Sea Dart Mod 2/3) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-N-9)",
+        "url": "http://cmano-db.com/sensor/4099/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 37 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-N-9) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-N-12)",
+        "url": "http://cmano-db.com/sensor/4098/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 296.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-N-12) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 296.3 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SM-1 Blk VI/VIA/VIB)",
+        "url": "http://cmano-db.com/sensor/4097/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 296.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SM-1 Blk VI/VIA/VIB) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 296.3 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SM-1 Blk V)",
+        "url": "http://cmano-db.com/sensor/4096/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 296.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SM-1 Blk V) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 296.3 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SM-1 Blk IV)",
+        "url": "http://cmano-db.com/sensor/4095/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 296.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SM-1 Blk IV) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 296.3 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (MIM-23J/K/L/M)",
+        "url": "http://cmano-db.com/sensor/4094/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 46.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (MIM-23J/K/L/M) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (MIM-23E/F/G/H)",
+        "url": "http://cmano-db.com/sensor/4093/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 46.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (MIM-23E/F/G/H) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (MIM-23D)",
+        "url": "http://cmano-db.com/sensor/4092/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 46.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (MIM-23D) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (MIM-23A)",
+        "url": "http://cmano-db.com/sensor/4091/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 46.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1960s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (MIM-23A) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (MIM-23B)",
+        "url": "http://cmano-db.com/sensor/4090/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 46.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (MIM-23B) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (Aspide 2000 SAM)",
+        "url": "http://cmano-db.com/sensor/4089/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 37 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 2000s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (Aspide 2000 SAM) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (Sky Flash Super TEMP Mod, MSDS)",
+        "url": "http://cmano-db.com/sensor/4088/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (Sky Flash Super TEMP Mod, MSDS) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (Sea Wolf Blk 2)",
+        "url": "http://cmano-db.com/sensor/4087/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 2000s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (Sea Wolf Blk 2) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (AA-7c)",
+        "url": "http://cmano-db.com/sensor/4086/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (AA-7c) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (AA-6e)",
+        "url": "http://cmano-db.com/sensor/4085/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (AA-6e) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (AA-6c)",
+        "url": "http://cmano-db.com/sensor/4084/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (AA-6c) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SM-2 Blk III/IIIA/IIIB/IV)",
+        "url": "http://cmano-db.com/sensor/4083/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 296.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SM-2 Blk III/IIIA/IIIB/IV) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 296.3 km', '', '', '']"
+    },
+    {
+        "title": "AN/AAQ-8 ",
+        "url": "http://cmano-db.com/sensor/4082/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/AAQ-8', ' -ECM', 'Role: IRCM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "IR Seeker (Shafrir 2)",
+        "url": "http://cmano-db.com/sensor/4081/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Single Spectral IR', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IR Seeker', ' - (Shafrir 2) Infrared', 'Role: Weapon Seeker, Single Spectral IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IR Seeker (Sky Sword I)",
+        "url": "http://cmano-db.com/sensor/4080/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Dual Spectral IR', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IR Seeker', ' - (Sky Sword I) Infrared', 'Role: Weapon Seeker, Infrared, Dual Spectral IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IR Seeker (AAM-3)",
+        "url": "http://cmano-db.com/sensor/4079/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Dual Spectral IR', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IR Seeker', ' - (AAM-3) Infrared', 'Role: Weapon Seeker, Infrared, Dual Spectral IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IIR Seeker (AAM-5)",
+        "url": "http://cmano-db.com/sensor/4078/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Imaging IR (IIR) / Focal Plane Array Seeker', '', '', '', '', '', '', 'Properties: Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IIR Seeker', ' - (AAM-5) Infrared', 'Role: Weapon Seeker, Imaging IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IR Seeker (Starstreak ATASK)",
+        "url": "http://cmano-db.com/sensor/4077/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Dual Spectral IR', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IR Seeker', ' - (Starstreak ATASK) Infrared', 'Role: Weapon Seeker, Infrared, Dual Spectral IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IR Seeker (MAA-1)",
+        "url": "http://cmano-db.com/sensor/4076/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Single Spectral IR', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IR Seeker', ' - (MAA-1) Infrared', 'Role: Weapon Seeker, Single Spectral IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IIR Seeker (V3E A-Darter)",
+        "url": "http://cmano-db.com/sensor/4075/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Imaging IR (IIR) / Focal Plane Array Seeker', '', '', '', '', '', '', 'Properties: Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IIR Seeker', ' - (V3E A-Darter) Infrared', 'Role: Weapon Seeker, Imaging IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IR Seeker (AIM-9JULI)",
+        "url": "http://cmano-db.com/sensor/4074/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Dual Spectral IR', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IR Seeker', ' - (AIM-9JULI) Infrared', 'Role: Weapon Seeker, Infrared, Dual Spectral IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IR Seeker (Python 4)",
+        "url": "http://cmano-db.com/sensor/4073/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Dual Spectral IR', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IR Seeker', ' - (Python 4) Infrared', 'Role: Weapon Seeker, Infrared, Dual Spectral IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IR Seeker (Python 3)",
+        "url": "http://cmano-db.com/sensor/4072/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Single Spectral IR', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IR Seeker', ' - (Python 3) Infrared', 'Role: Weapon Seeker, Single Spectral IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IIR Seeker (ASRAAM)",
+        "url": "http://cmano-db.com/sensor/4071/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Imaging IR (IIR) / Focal Plane Array Seeker', '', '', '', '', '', '', 'Properties: Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IIR Seeker', ' - (ASRAAM) Infrared', 'Role: Weapon Seeker, Imaging IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IIR Seeker (IRIS-T)",
+        "url": "http://cmano-db.com/sensor/4070/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Imaging IR (IIR) / Focal Plane Array Seeker', '', '', '', '', '', '', 'Properties: Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IIR Seeker', ' - (IRIS-T) Infrared', 'Role: Weapon Seeker, Imaging IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IIR Seeker (NSM)",
+        "url": "http://cmano-db.com/sensor/4069/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Imaging IR (IIR) / Focal Plane Array Seeker', '', '', '', '', '', '', 'Properties: Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IIR Seeker', ' - (NSM) Infrared', 'Role: Weapon Seeker, Imaging IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IR Seeker (SAM-3)",
+        "url": "http://cmano-db.com/sensor/4068/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Dual Spectral IR', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IR Seeker', ' - (SAM-3) Infrared', 'Role: Weapon Seeker, Infrared, Dual Spectral IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IR Seeker (SAM-2)",
+        "url": "http://cmano-db.com/sensor/4067/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Dual Spectral IR', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IR Seeker', ' - (SAM-2) Infrared', 'Role: Weapon Seeker, Infrared, Dual Spectral IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IR Seeker (V3A, V3B)",
+        "url": "http://cmano-db.com/sensor/4066/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Single Spectral IR', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IR Seeker', ' - (V3A, V3B) Infrared', 'Role: Weapon Seeker, Single Spectral IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IR Seeker (V3C Darter, U-Darter)",
+        "url": "http://cmano-db.com/sensor/4065/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Dual Spectral IR', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IR Seeker', ' - (V3C Darter, U-Darter) Infrared', 'Role: Weapon Seeker, Infrared, Dual Spectral IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IR Seeker (SA-18/24)",
+        "url": "http://cmano-db.com/sensor/4064/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Dual Spectral IR', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IR Seeker', ' - (SA-18/24) Infrared', 'Role: Weapon Seeker, Infrared, Dual Spectral IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "IR Seeker (Red Top)",
+        "url": "http://cmano-db.com/sensor/4063/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Seeker, Single Spectral IR', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'IR Seeker', ' - (Red Top) Infrared', 'Role: Weapon Seeker, Single Spectral IR', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "Passive Radar Seeker (AGM-88E)",
+        "url": "http://cmano-db.com/sensor/4062/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 129.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 2010s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Passive Radar Seeker', ' - (AGM-88E) ESM', 'Role: Weapon Seeker, Anti-Radiation', ' Max Range: 129.6 km', '', '', '']"
+    },
+    {
+        "title": "Passive Radar Seeker (AGM-88C)",
+        "url": "http://cmano-db.com/sensor/4061/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 129.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Passive Radar Seeker', ' - (AGM-88C) ESM', 'Role: Weapon Seeker, Anti-Radiation', ' Max Range: 129.6 km', '', '', '']"
+    },
+    {
+        "title": "Passive Radar Seeker (AGM-88B)",
+        "url": "http://cmano-db.com/sensor/4060/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 129.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Passive Radar Seeker', ' - (AGM-88B) ESM', 'Role: Weapon Seeker, Anti-Radiation', ' Max Range: 129.6 km', '', '', '']"
+    },
+    {
+        "title": "Passive Radar Seeker (ALARM II)",
+        "url": "http://cmano-db.com/sensor/4059/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 2000s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Passive Radar Seeker', ' - (ALARM II) ESM', 'Role: Weapon Seeker, Anti-Radiation', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "Passive Radar Seeker (AS-11)",
+        "url": "http://cmano-db.com/sensor/4058/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 240.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Passive Radar Seeker', ' - (AS-11) ESM', 'Role: Weapon Seeker, Anti-Radiation', ' Max Range: 240.8 km', '', '', '']"
+    },
+    {
+        "title": "Passive Radar Seeker (RGM-66D)",
+        "url": "http://cmano-db.com/sensor/4057/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Passive Radar Seeker', ' - (RGM-66D) ESM', 'Role: Weapon Seeker, Anti-Radiation', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "Passive Radar Seeker (ARMAT)",
+        "url": "http://cmano-db.com/sensor/4056/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 101.9 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Passive Radar Seeker', ' - (ARMAT) ESM', 'Role: Weapon Seeker, Anti-Radiation', ' Max Range: 101.9 km', '', '', '']"
+    },
+    {
+        "title": "Active Radar Seeker (ASM MR, YJ-83)",
+        "url": "http://cmano-db.com/sensor/4055/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 9.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 2000s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Active Radar Seeker', ' - (ASM MR, YJ-83) Radar', 'Role: Weapon Seeker, Active Radar', ' Max Range: 9.3 km', '', '', '']"
+    },
+    {
+        "title": "Active Radar Seeker (ASM MR, C-802)",
+        "url": "http://cmano-db.com/sensor/4054/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 9.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Active Radar Seeker', ' - (ASM MR, C-802) Radar', 'Role: Weapon Seeker, Active Radar', ' Max Range: 9.3 km', '', '', '']"
+    },
+    {
+        "title": "Passive Radar Seeker (YJ-83)",
+        "url": "http://cmano-db.com/sensor/4053/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 2000s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Passive Radar Seeker', ' - (YJ-83) ESM', 'Role: Weapon Seeker, Anti-Radiation', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "Passive Radar Seeker (C-802)",
+        "url": "http://cmano-db.com/sensor/4052/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Passive Radar Seeker', ' - (C-802) ESM', 'Role: Weapon Seeker, Anti-Radiation', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "Passive Radar Seeker (ASM-2)",
+        "url": "http://cmano-db.com/sensor/4051/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Passive Radar Seeker', ' - (ASM-2) ESM', 'Role: Weapon Seeker, Anti-Radiation', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "Active Radar Seeker (ASM MR, ASM-1C)",
+        "url": "http://cmano-db.com/sensor/4050/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 9.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Active Radar Seeker', ' - (ASM MR, ASM-1C) Radar', 'Role: Weapon Seeker, Active Radar', ' Max Range: 9.3 km', '', '', '']"
+    },
+    {
+        "title": "Passive Radar Seeker (ASM-1C)",
+        "url": "http://cmano-db.com/sensor/4049/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Passive Radar Seeker', ' - (ASM-1C) ESM', 'Role: Weapon Seeker, Anti-Radiation', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "Passive Radar Seeker (ASM-1)",
+        "url": "http://cmano-db.com/sensor/4048/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Passive Radar Seeker', ' - (ASM-1) ESM', 'Role: Weapon Seeker, Anti-Radiation', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "Active Radar Seeker (ASM MR, ASM-1)",
+        "url": "http://cmano-db.com/sensor/4047/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 9.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Active Radar Seeker', ' - (ASM MR, ASM-1) Radar', 'Role: Weapon Seeker, Active Radar', ' Max Range: 9.3 km', '', '', '']"
+    },
+    {
+        "title": "Active Radar Seeker (ASM MR, Otomat Mk1)",
+        "url": "http://cmano-db.com/sensor/4046/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 9.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Active Radar Seeker', ' - (ASM MR, Otomat Mk1) Radar', 'Role: Weapon Seeker, Active Radar', ' Max Range: 9.3 km', '', '', '']"
+    },
+    {
+        "title": "Passive Radar Seeker (Otomat Mk1)",
+        "url": "http://cmano-db.com/sensor/4045/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Passive Radar Seeker', ' - (Otomat Mk1) ESM', 'Role: Weapon Seeker, Anti-Radiation', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "Active Radar Seeker (ASM MR, SS-N-2c/d, SS-N-7)",
+        "url": "http://cmano-db.com/sensor/4044/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 9.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Active Radar Seeker', ' - (ASM MR, SS-N-2c/d, SS-N-7) Radar', 'Role: Weapon Seeker, Active Radar', ' Max Range: 9.3 km', '', '', '']"
+    },
+    {
+        "title": "Passive Radar Seeker (SS-N-2d/7)",
+        "url": "http://cmano-db.com/sensor/4043/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Passive Radar Seeker', ' - (SS-N-2d/7) ESM', 'Role: Weapon Seeker, Anti-Radiation', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "Active Radar Seeker (ASM MR, SS-N-9)",
+        "url": "http://cmano-db.com/sensor/4042/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 9.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Active Radar Seeker', ' - (ASM MR, SS-N-9) Radar', 'Role: Weapon Seeker, Active Radar', ' Max Range: 9.3 km', '', '', '']"
+    },
+    {
+        "title": "Type 2045 [Type 2054 Suite] ",
+        "url": "http://cmano-db.com/sensor/4041/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Acoustic Intercept (Active Sonar Warning)', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 127.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Type 2045 [Type 2054 Suite]', ' -Acoustic Intercept (Active Sonar Warning)', 'Role: Acoustic Intercept', ' Max Range: 127.8 km', '', '', '']"
+    },
+    {
+        "title": "Active Radar Seeker (ASM MR, Kormoran 1)",
+        "url": "http://cmano-db.com/sensor/4040/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 9.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Active Radar Seeker', ' - (ASM MR, Kormoran 1) Radar', 'Role: Weapon Seeker, Active Radar', ' Max Range: 9.3 km', '', '', '']"
+    }
+]

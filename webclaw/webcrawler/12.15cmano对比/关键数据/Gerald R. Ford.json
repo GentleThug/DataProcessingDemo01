@@ -1,0 +1,138 @@
+[
+    {
+        "title": "CVN 81 Doris Miller [Gerald R. Ford Class] - 2030, -Placeholder",
+        "url": "http://cmano-db.com/ship/3197/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " CVN - Nuclear Powered Aircraft Carrier",
+                "Max Speed": " 35 kt",
+                "Crew": " 4660",
+                "Length": " 333.0 m",
+                "Beam": " 41.0 m",
+                "Draft": " 11.0 m",
+                "Displacement Full": " 100000 t",
+                "Displacement": " 84000 t",
+                "Operator": " Navy",
+                "Commissioned": " 2030",
+                "Propulsion": " 2x A1B Nuclear Reactors"
+            }
+        ],
+        "Sensors / EW": [
+            "AN/SPY-6 EASR - (AESA) Radar\n\t\t\t\t\tRadar, Air & Surface Search, 3D Long-Range Max Range: 463 km",
+            "AN/WLR-1H(V)7 - (AESA) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "AN/SLQ-32(V)6 [ECM] - (Group, 2015, CVN) ECM\n\t\t\t\t\t\tOECM & DECM, Offensive & Defensive ECM Max Range: 0 km",
+            "AN/SLQ-32(V)6 [ESM] - (Group, 2015, CVN) ESM\n\t\t\t\t\t\tELINT Max Range: 926 km",
+            "AN/SPQ-9B+ - (2022) Radar\n\t\t\t\t\tRadar, Target Indicator, 3D Surface-to-Air & Surface-to-Surface Max Range: 46.3 km"
+        ],
+        "Weapons": [
+            "RIM-162H ESSM Blk II -\n\t\t\t\t(2021, Mk29) Guided Weapon\n\t\t\t\tAir Max: 55.6 km. Surface Max: 46.3 km. ",
+            " AN/SLQ-25A Nixie -\n\t\t\t\t Decoy (Towed)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "RIM-116C RAM Blk II -\n\t\t\t\t(2015) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. Surface Max: 18.5 km. ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " 20mm/100 Mk15 Phalanx Blk 1B Burst [300 rnds] -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 1.5 km. Surface Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "CVN 80 Enterprise [Gerald R. Ford Class] - 2027",
+        "url": "http://cmano-db.com/ship/2370/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " CVN - Nuclear Powered Aircraft Carrier",
+                "Max Speed": " 35 kt",
+                "Crew": " 4660",
+                "Length": " 333.0 m",
+                "Beam": " 41.0 m",
+                "Draft": " 11.0 m",
+                "Displacement Full": " 100000 t",
+                "Displacement": " 84000 t",
+                "Operator": " Navy",
+                "Commissioned": " 2027",
+                "Propulsion": " 2x A1B Nuclear Reactors"
+            }
+        ],
+        "Sensors / EW": [
+            "AN/SPY-6 EASR - (AESA) Radar\n\t\t\t\t\tRadar, Air & Surface Search, 3D Long-Range Max Range: 463 km",
+            "AN/WLR-1H(V)7 - (AESA) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "AN/SLQ-32(V)6 [ECM] - (Group, 2015, CVN) ECM\n\t\t\t\t\t\tOECM & DECM, Offensive & Defensive ECM Max Range: 0 km",
+            "AN/SLQ-32(V)6 [ESM] - (Group, 2015, CVN) ESM\n\t\t\t\t\t\tELINT Max Range: 926 km",
+            "AN/SPQ-9B+ - (2022) Radar\n\t\t\t\t\tRadar, Target Indicator, 3D Surface-to-Air & Surface-to-Surface Max Range: 46.3 km"
+        ],
+        "Weapons": [
+            "RIM-162H ESSM Blk II -\n\t\t\t\t(2021, Mk29) Guided Weapon\n\t\t\t\tAir Max: 55.6 km. Surface Max: 46.3 km. ",
+            " AN/SLQ-25A Nixie -\n\t\t\t\t Decoy (Towed)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "RIM-116C RAM Blk II -\n\t\t\t\t(2015) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. Surface Max: 18.5 km. ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " 20mm/100 Mk15 Phalanx Blk 1B Burst [300 rnds] -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 1.5 km. Surface Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "CVN 79 John F. Kennedy [Gerald R. Ford Class] - 2022",
+        "url": "http://cmano-db.com/ship/2369/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " CVN - Nuclear Powered Aircraft Carrier",
+                "Max Speed": " 35 kt",
+                "Crew": " 4660",
+                "Length": " 333.0 m",
+                "Beam": " 41.0 m",
+                "Draft": " 11.0 m",
+                "Displacement Full": " 100000 t",
+                "Displacement": " 84000 t",
+                "Operator": " Navy",
+                "Commissioned": " 2022",
+                "Propulsion": " 2x A1B Nuclear Reactors"
+            }
+        ],
+        "Sensors / EW": [
+            "AN/SPY-6 EASR - (AESA) Radar\n\t\t\t\t\tRadar, Air & Surface Search, 3D Long-Range Max Range: 463 km",
+            "AN/WLR-1H(V)7 - (AESA) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "AN/SLQ-32(V)6 [ECM] - (Group, 2015, CVN) ECM\n\t\t\t\t\t\tOECM & DECM, Offensive & Defensive ECM Max Range: 0 km",
+            "AN/SLQ-32(V)6 [ESM] - (Group, 2015, CVN) ESM\n\t\t\t\t\t\tELINT Max Range: 926 km",
+            "AN/SPQ-9B+ - (2022) Radar\n\t\t\t\t\tRadar, Target Indicator, 3D Surface-to-Air & Surface-to-Surface Max Range: 46.3 km"
+        ],
+        "Weapons": [
+            "RIM-162H ESSM Blk II -\n\t\t\t\t(2021, Mk29) Guided Weapon\n\t\t\t\tAir Max: 55.6 km. Surface Max: 46.3 km. ",
+            " AN/SLQ-25A Nixie -\n\t\t\t\t Decoy (Towed)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "RIM-116C RAM Blk II -\n\t\t\t\t(2015) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. Surface Max: 18.5 km. ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " 20mm/100 Mk15 Phalanx Blk 1B Burst [300 rnds] -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 1.5 km. Surface Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "CVN 78 Gerald R. Ford - 2018",
+        "url": "http://cmano-db.com/ship/506/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " CVN - Nuclear Powered Aircraft Carrier",
+                "Max Speed": " 35 kt",
+                "Crew": " 4660",
+                "Length": " 333.0 m",
+                "Beam": " 41.0 m",
+                "Draft": " 11.0 m",
+                "Displacement Full": " 100000 t",
+                "Displacement": " 84000 t",
+                "Operator": " Navy",
+                "Commissioned": " 2018",
+                "Propulsion": " 2x A1B Nuclear Reactors"
+            }
+        ],
+        "Sensors / EW": [
+            "AN/SPY-4 VSR - (CVN 78 only, AESA) Radar\n\t\t\t\t\tRadar, Air & Surface Search, 3D Long-Range Max Range: 463 km",
+            "AN/WLR-1H(V)7 - (CVN 78 only, AESA) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "AN/SLQ-32(V)6 [ECM] - (Group, 2015, CVN) ECM\n\t\t\t\t\t\tOECM & DECM, Offensive & Defensive ECM Max Range: 0 km",
+            "AN/SLQ-32(V)6 [ESM] - (Group, 2015, CVN) ESM\n\t\t\t\t\t\tELINT Max Range: 926 km",
+            "AN/SPY-3 MFR - (CVN 77/78, AESA) Radar\n\t\t\t\t\tRadar, FCR, Surface-to-Air & Surface-to-Surface, Long-Range Max Range: 324.1 km"
+        ],
+        "Weapons": [
+            " RIM-162D ESSM -\n\t\t\t\t(2004, Mk29) Guided Weapon\n\t\t\t\tAir Max: 55.6 km. Surface Max: 46.3 km. ",
+            " AN/SLQ-25A Nixie -\n\t\t\t\t Decoy (Towed)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "RIM-116C RAM Blk II -\n\t\t\t\t(2015) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. Surface Max: 18.5 km. ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " 20mm/100 Mk15 Phalanx Blk 1B Burst [300 rnds] -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 1.5 km. Surface Max: 1.9 km. "
+        ]
+    }
+]

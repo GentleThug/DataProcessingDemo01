@@ -1,0 +1,2365 @@
+[
+    {
+        "title": "MiG-29UB Fulcrum B - 1994, 6x",
+        "url": "http://cmano-db.com/aircraft/5332/",
+        "Country/Type": "Hungary",
+        "General data": [
+            {
+                "Type": " Trainer",
+                "Crew": " 2",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.7 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1994",
+                "Propulsion": " 2x RD-33",
+                "\n\t\t\t\t\t\tDecommissioned": " 2010\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (OEPS-29, Izdeliye 13Sh) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum C - 1994, 22x",
+        "url": "http://cmano-db.com/aircraft/5331/",
+        "Country/Type": "Hungary",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10900 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1994",
+                "Propulsion": " 2x RD-33",
+                "\n\t\t\t\t\t\tDecommissioned": " 2010\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-203 Gardenya - (OEPS-29, Izdeliye 13Sh) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-019 Rubin] - (OEPS-29, Izdeliye 13Sh) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (OEPS-29, Izdeliye 13Sh) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29KUB Fulcrum D - 2014",
+        "url": "http://cmano-db.com/aircraft/4923/",
+        "Country/Type": "India",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 12.0 m",
+                "Height": " 4.7 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 12000 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Navy",
+                "Commissioned": " 2014",
+                "Propulsion": " 2x RD-33MK"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-M [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-203 Gardenya - (OEPS-29, Izdeliye 13Sh) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-010 Zhuk-M] - (MiG-29M) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air & Air-to-Surface, Medium-Range Max Range: 203.7 km",
+            "SPO-15 Beryoza [L-006] - (MiG-29M) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-M [Laser Rangefinder] - (MiG-29M) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " AA-12 Adder A [R-77, RVV-AE] -\n\t\t\t\t(1999) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "1150 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AS-17 Krypton A [Kh-31A, ASM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 111.1 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " KAB-500Kr TV/EO -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " AS-20 Kayak [Kh-35U Star] -\n\t\t\t\t(2013, GLONASS) Guided Weapon\n\t\t\t\tSurface Max: 259.3 km. Land Max: 259.3 km. ",
+            " AS-17 Krypton C [Kh-31P, ARM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 111.1 km. Land Max: 111.1 km. "
+        ]
+    },
+    {
+        "title": "MiG-29M2 Fulcrum C - 2019",
+        "url": "http://cmano-db.com/aircraft/4868/",
+        "Country/Type": "Egypt",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 2",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 11200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 2019",
+                "Propulsion": " 2x RD-33MK"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-M [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-201 Gardenya - (MiG-29 9.13) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-010 Zhuk-M] - (MiG-29M) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air & Air-to-Surface, Medium-Range Max Range: 203.7 km",
+            "SPO-15 Beryoza [L-006] - (MiG-29M) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-M [Laser Rangefinder] - (MiG-29M) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "1150 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " AA-12 Adder A [R-77, RVV-AE] -\n\t\t\t\t(1999) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            " AS-14 Kedge [Kh-29T] -\n\t\t\t\t(1985) Guided Weapon\n\t\t\t\tSurface Max: 11.1 km. Land Max: 11.1 km. ",
+            "T220 Pod [FLIR, LRMTS + IRST, 12k ft] -\n\t\t\t\t(OLS I-220) Sensor Pod\n",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " KAB-500Kr TV/EO -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "AS-22 [Kh-38MAE] -\n\t\t\t\t(Active Radar) Guided Weapon\n\t\t\t\tSurface Max: 37 km. Land Max: 37 km. ",
+            " AS-17 Krypton D [Kh-31PD, ARM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 203.7 km. Land Max: 203.7 km. ",
+            " AS-17 Krypton B [Kh-31AD, ASM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 203.7 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 2013, S-8K",
+        "url": "http://cmano-db.com/aircraft/4694/",
+        "Country/Type": "Syria",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 2013",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EB Rubin] - (General Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (General Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum C - 2013, 9-13, 10x",
+        "url": "http://cmano-db.com/aircraft/4664/",
+        "Country/Type": "Myanmar",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10900 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 2013",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-203 Gardenya - (OEPS-29, Izdeliye 13Sh) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-019 Rubin] - (OEPS-29, Izdeliye 13Sh) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (OEPS-29, Izdeliye 13Sh) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 2000, 20x",
+        "url": "http://cmano-db.com/aircraft/4663/",
+        "Country/Type": "Myanmar",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 2000",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EB Rubin] - (General Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (General Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1989, 18x",
+        "url": "http://cmano-db.com/aircraft/4599/",
+        "Country/Type": "Bulgaria",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1989",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EB Rubin] - (General Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (General Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. "
+        ]
+    },
+    {
+        "title": "MiG-29SMP Fulcrum C - 2012, 8x + 11x",
+        "url": "http://cmano-db.com/aircraft/4404/",
+        "Country/Type": "Peru",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 11200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 2012",
+                "Propulsion": " 2x RD-33.3"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-201 Gardenya - (MiG-29 9.13) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-019MP] - (MiG-29 9.13) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 111.1 km",
+            "SPO-15 Beryoza [L-006] - (MiG-29 9.13) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (MiG-29 9.13) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "1150 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " AA-12 Adder A [R-77, RVV-AE] -\n\t\t\t\t(1999) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " AS-14 Kedge [Kh-29L] -\n\t\t\t\t(1981) Guided Weapon\n\t\t\t\tSurface Max: 11.1 km. Land Max: 11.1 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1989",
+        "url": "http://cmano-db.com/aircraft/4401/",
+        "Country/Type": "Romania",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1989",
+                "Propulsion": " 2x RD-33",
+                "\n\t\t\t\t\t\tDecommissioned": " 2002\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EB Rubin] - (General Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (General Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. "
+        ]
+    },
+    {
+        "title": "MiG-29KUB Fulcrum D - 2015",
+        "url": "http://cmano-db.com/aircraft/3965/",
+        "Country/Type": "Russia [1992-]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 12.0 m",
+                "Height": " 4.7 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 12000 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Navy",
+                "Commissioned": " 2015",
+                "Propulsion": " 2x RD-33MK"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-M [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-203 Gardenya - (OEPS-29, Izdeliye 13Sh) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-010 Zhuk-M] - (MiG-29M) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air & Air-to-Surface, Medium-Range Max Range: 203.7 km",
+            "SPO-15 Beryoza [L-006] - (MiG-29M) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-M [Laser Rangefinder] - (MiG-29M) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            "1150 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            "AA-12 Adder B [R-77-1, RVV-SD] -\n\t\t\t\t(2015, Izdeliye 170-1) Guided Weapon\n\t\t\t\tAir Max: 111.1 km. ",
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AS-17 Krypton A [Kh-31A, ASM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 111.1 km. ",
+            " AS-20 Kayak [Kh-35U Star] -\n\t\t\t\t(2013, GLONASS) Guided Weapon\n\t\t\t\tSurface Max: 259.3 km. Land Max: 259.3 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " KAB-500Kr TV/EO -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " AS-17 Krypton C [Kh-31P, ARM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 111.1 km. Land Max: 111.1 km. ",
+            "Generic Buddy Store -\n\t\t\t\t Buddy Store\n",
+            " AS-17 Krypton B [Kh-31AD, ASM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 203.7 km. ",
+            " AS-17 Krypton D [Kh-31PD, ARM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 203.7 km. Land Max: 203.7 km. "
+        ]
+    },
+    {
+        "title": "MiG-29KUB Fulcrum D - 2014",
+        "url": "http://cmano-db.com/aircraft/3964/",
+        "Country/Type": "India",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 12.0 m",
+                "Height": " 4.7 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 12000 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 2014",
+                "Propulsion": " 2x RD-33MK"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-M [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-203 Gardenya - (OEPS-29, Izdeliye 13Sh) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-010 Zhuk-M] - (MiG-29M) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air & Air-to-Surface, Medium-Range Max Range: 203.7 km",
+            "SPO-15 Beryoza [L-006] - (MiG-29M) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-M [Laser Rangefinder] - (MiG-29M) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " AA-12 Adder A [R-77, RVV-AE] -\n\t\t\t\t(1999) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "1150 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AS-17 Krypton A [Kh-31A, ASM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 111.1 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " KAB-500Kr TV/EO -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " AS-20 Kayak [Kh-35U Star] -\n\t\t\t\t(2013, GLONASS) Guided Weapon\n\t\t\t\tSurface Max: 259.3 km. Land Max: 259.3 km. ",
+            " AS-17 Krypton C [Kh-31P, ARM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 111.1 km. Land Max: 111.1 km. "
+        ]
+    },
+    {
+        "title": "MiG-29SE Fulcrum C - 2003, 23x",
+        "url": "http://cmano-db.com/aircraft/3757/",
+        "Country/Type": "Sudan",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 11200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 2003",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-201 Gardenya - (MiG-29 9.13) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-019ME Topaz] - (MiG-29 9.13) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 92.6 km",
+            "SPO-15 Beryoza [L-006] - (MiG-29 9.13) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (MiG-29 9.13) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "1150 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1991, 22x",
+        "url": "http://cmano-db.com/aircraft/3717/",
+        "Country/Type": "Germany [FRG/Reunified]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1991",
+                "Propulsion": " 2x RD-33",
+                "\n\t\t\t\t\t\tDecommissioned": " 2002\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EA Rubin] - (Warsaw Pact Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (Warsaw Pact Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1995, Remora Pod upgrade",
+        "url": "http://cmano-db.com/aircraft/3342/",
+        "Country/Type": "Iraq",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1995",
+                "Propulsion": " 2x RD-33",
+                "\n\t\t\t\t\t\tDecommissioned": " 1995\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EB Rubin] - (General Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (General Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "TMV-002 Remora DECM Pod -\n\t\t\t\t(1984, Associated with BF RWR) Sensor Pod\n"
+        ]
+    },
+    {
+        "title": "MiG-29K Fulcrum D - 2015",
+        "url": "http://cmano-db.com/aircraft/3320/",
+        "Country/Type": "Russia [1992-]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 12.0 m",
+                "Height": " 4.7 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 12000 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Navy",
+                "Commissioned": " 2015",
+                "Propulsion": " 2x RD-33MK"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-M [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-203 Gardenya - (OEPS-29, Izdeliye 13Sh) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-010 Zhuk-M] - (MiG-29M) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air & Air-to-Surface, Medium-Range Max Range: 203.7 km",
+            "SPO-15 Beryoza [L-006] - (MiG-29M) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-M [Laser Rangefinder] - (MiG-29M) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            "1150 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            "AA-12 Adder B [R-77-1, RVV-SD] -\n\t\t\t\t(2015, Izdeliye 170-1) Guided Weapon\n\t\t\t\tAir Max: 111.1 km. ",
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AS-17 Krypton A [Kh-31A, ASM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 111.1 km. ",
+            " AS-20 Kayak [Kh-35U Star] -\n\t\t\t\t(2013, GLONASS) Guided Weapon\n\t\t\t\tSurface Max: 259.3 km. Land Max: 259.3 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " KAB-500Kr TV/EO -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " AS-17 Krypton C [Kh-31P, ARM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 111.1 km. Land Max: 111.1 km. ",
+            "Generic Buddy Store -\n\t\t\t\t Buddy Store\n",
+            " AS-17 Krypton B [Kh-31AD, ASM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 203.7 km. ",
+            " AS-17 Krypton D [Kh-31PD, ARM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 203.7 km. Land Max: 203.7 km. "
+        ]
+    },
+    {
+        "title": "MiG-29M2 Fulcrum C - 2013, 24x",
+        "url": "http://cmano-db.com/aircraft/2841/",
+        "Country/Type": "Syria",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 2",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 11200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 2013",
+                "Propulsion": " 2x RD-33MK"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-M [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-201 Gardenya - (MiG-29 9.13) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-010 Zhuk-M] - (MiG-29M) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air & Air-to-Surface, Medium-Range Max Range: 203.7 km",
+            "SPO-15 Beryoza [L-006] - (MiG-29M) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-M [Laser Rangefinder] - (MiG-29M) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "1150 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " AA-12 Adder A [R-77, RVV-AE] -\n\t\t\t\t(1999) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            " AS-14 Kedge [Kh-29T] -\n\t\t\t\t(1985) Guided Weapon\n\t\t\t\tSurface Max: 11.1 km. Land Max: 11.1 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " KAB-500Kr TV/EO -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 2014, MLU",
+        "url": "http://cmano-db.com/aircraft/2840/",
+        "Country/Type": "Poland",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 2014",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EA Rubin] - (Warsaw Pact Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (Warsaw Pact Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29MU1 Fulcrum C - 2013, 9-13",
+        "url": "http://cmano-db.com/aircraft/2613/",
+        "Country/Type": "Ukraine [1992-]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10900 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 2013",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-203 Gardenya - (OEPS-29, Izdeliye 13Sh) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-019-U1 ] - (Ukraine, MiG-29MU1) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 111.1 km",
+            "SPO-15 Beryoza [L-006] - (Ukraine, MiG-29MU1) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (Ukraine, MiG-29MU1) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1988",
+        "url": "http://cmano-db.com/aircraft/2346/",
+        "Country/Type": "North Korea",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.7 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1988",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EB Rubin] - (General Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (General Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1992",
+        "url": "http://cmano-db.com/aircraft/2339/",
+        "Country/Type": "Serbia [1992-]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EB Rubin] - (General Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (General Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29S Fulcrum C - 1992, 9-13S",
+        "url": "http://cmano-db.com/aircraft/2017/",
+        "Country/Type": "Russia [1992-]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 11200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-201 Gardenya - (MiG-29 9.13) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-019M Topaz] - (MiG-29 9.13) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 92.6 km",
+            "SPO-15 Beryoza [L-006] - (MiG-29 9.13) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (MiG-29 9.13) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "1150 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29S Fulcrum C - 2001, 9-13S",
+        "url": "http://cmano-db.com/aircraft/2016/",
+        "Country/Type": "Peru",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 11200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 2001",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-201 Gardenya - (MiG-29 9.13) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-019ME Topaz] - (MiG-29 9.13) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 92.6 km",
+            "SPO-15 Beryoza [L-006] - (MiG-29 9.13) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (MiG-29 9.13) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " AA-12 Adder A [R-77, RVV-AE] -\n\t\t\t\t(1999) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            "1150 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum C - 1999, 9-13",
+        "url": "http://cmano-db.com/aircraft/1658/",
+        "Country/Type": "Algeria",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10900 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1999",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-203 Gardenya - (OEPS-29, Izdeliye 13Sh) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EB Rubin] - (General Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (General Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1995",
+        "url": "http://cmano-db.com/aircraft/1404/",
+        "Country/Type": "Yemen",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.7 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1995",
+                "Propulsion": " 2x RD-33",
+                "\n\t\t\t\t\t\tDecommissioned": " 2015\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EB Rubin] - (General Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (General Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum C - 1992, 9-13",
+        "url": "http://cmano-db.com/aircraft/1402/",
+        "Country/Type": "Ukraine [1992-]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10900 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-203 Gardenya - (OEPS-29, Izdeliye 13Sh) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-019 Rubin] - (OEPS-29, Izdeliye 13Sh) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (OEPS-29, Izdeliye 13Sh) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29UB Fulcrum B - 1984",
+        "url": "http://cmano-db.com/aircraft/1359/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Trainer",
+                "Crew": " 2",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1984",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (OEPS-29, Izdeliye 13Sh) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " AA-8 Aphid [R-60M] -\n\t\t\t\t(1983) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1988",
+        "url": "http://cmano-db.com/aircraft/1353/",
+        "Country/Type": "Yugoslavia [-1992]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1988",
+                "Propulsion": " 2x RD-33",
+                "\n\t\t\t\t\t\tDecommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EB Rubin] - (General Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (General Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29S Fulcrum C - 1996, 9-13S",
+        "url": "http://cmano-db.com/aircraft/1349/",
+        "Country/Type": "Peru",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 11200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1996",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-201 Gardenya - (MiG-29 9.13) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-019ME Topaz] - (MiG-29 9.13) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 92.6 km",
+            "SPO-15 Beryoza [L-006] - (MiG-29 9.13) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (MiG-29 9.13) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "1150 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1987",
+        "url": "http://cmano-db.com/aircraft/1347/",
+        "Country/Type": "Iraq",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1987",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EB Rubin] - (General Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (General Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1990",
+        "url": "http://cmano-db.com/aircraft/1346/",
+        "Country/Type": "Iran",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1990",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EB Rubin] - (General Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (General Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29UPG Fulcrum A - 2013, 62x, MLU",
+        "url": "http://cmano-db.com/aircraft/1185/",
+        "Country/Type": "India",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 2013",
+                "Propulsion": " 2x RD-33.3"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-M [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-203 Gardenya - (OEPS-29, Izdeliye 13Sh) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-010 Zhuk-M] - (MiG-29M) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air & Air-to-Surface, Medium-Range Max Range: 203.7 km",
+            "SPO-15 Beryoza [L-006] - (MiG-29M) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-M [Laser Rangefinder] - (MiG-29M) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-12 Adder A [R-77, RVV-AE] -\n\t\t\t\t(1999) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AS-20 Kayak [Kh-35U Star] -\n\t\t\t\t(2013, GLONASS) Guided Weapon\n\t\t\t\tSurface Max: 259.3 km. Land Max: 259.3 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "1150 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " AS-17 Krypton A [Kh-31A, ASM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 111.1 km. ",
+            " KAB-500Kr TV/EO -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1992",
+        "url": "http://cmano-db.com/aircraft/1050/",
+        "Country/Type": "Russia [1992-]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x RD-33",
+                "\n\t\t\t\t\t\tDecommissioned": " 2013\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "Slot Back [N-019 Rubin] - (OEPS-29, Izdeliye 13Sh) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (OEPS-29, Izdeliye 13Sh) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RN-40 Tactical Bomb [30kT Nuclear] -\n\t\t\t\t(Russia, 8U-64, MiG-23, MiG-27, MiG-29 (9-12)) Bomb\n\t\t\t\tSurface Max: 5.6 km. Land Max: 5.6 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum C - 1992, 9-13",
+        "url": "http://cmano-db.com/aircraft/1049/",
+        "Country/Type": "Russia [1992-]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10900 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x RD-33",
+                "\n\t\t\t\t\t\tDecommissioned": " 2016\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-203 Gardenya - (OEPS-29, Izdeliye 13Sh) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-019 Rubin] - (OEPS-29, Izdeliye 13Sh) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (OEPS-29, Izdeliye 13Sh) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1988",
+        "url": "http://cmano-db.com/aircraft/1002/",
+        "Country/Type": "Syria",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1988",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EB Rubin] - (General Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (General Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29UB Fulcrum B - 1992",
+        "url": "http://cmano-db.com/aircraft/999/",
+        "Country/Type": "Russia [1992-]",
+        "General data": [
+            {
+                "Type": " Trainer",
+                "Crew": " 2",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.7 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (OEPS-29, Izdeliye 13Sh) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29K Fulcrum D - 2014",
+        "url": "http://cmano-db.com/aircraft/920/",
+        "Country/Type": "India",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 12.0 m",
+                "Height": " 4.7 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 12000 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 2014",
+                "Propulsion": " 2x RD-33MK"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-M [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-203 Gardenya - (OEPS-29, Izdeliye 13Sh) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-010 Zhuk-M] - (MiG-29M) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air & Air-to-Surface, Medium-Range Max Range: 203.7 km",
+            "SPO-15 Beryoza [L-006] - (MiG-29M) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-M [Laser Rangefinder] - (MiG-29M) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " AA-12 Adder A [R-77, RVV-AE] -\n\t\t\t\t(1999) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "1150 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AS-17 Krypton A [Kh-31A, ASM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 111.1 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " KAB-500Kr TV/EO -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " AS-20 Kayak [Kh-35U Star] -\n\t\t\t\t(2013, GLONASS) Guided Weapon\n\t\t\t\tSurface Max: 259.3 km. Land Max: 259.3 km. ",
+            " AS-17 Krypton C [Kh-31P, ARM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 111.1 km. Land Max: 111.1 km. "
+        ]
+    },
+    {
+        "title": "MiG-29N Fulcrum A - 1995",
+        "url": "http://cmano-db.com/aircraft/858/",
+        "Country/Type": "Malaysia",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.7 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1995",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "Slot Back [N-019ZM] - (OEPS-29, Izdeliye 13Sh) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 111.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (OEPS-29, Izdeliye 13Sh) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1989",
+        "url": "http://cmano-db.com/aircraft/857/",
+        "Country/Type": "Poland",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1989",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EA Rubin] - (Warsaw Pact Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (Warsaw Pact Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1987",
+        "url": "http://cmano-db.com/aircraft/856/",
+        "Country/Type": "India",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1987",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EB Rubin] - (General Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (General Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29UB Fulcrum B - 1987",
+        "url": "http://cmano-db.com/aircraft/849/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Trainer",
+                "Crew": " 2",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1987",
+                "Propulsion": " 2x RD-33",
+                "\n\t\t\t\t\t\tDecommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (OEPS-29, Izdeliye 13Sh) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1989",
+        "url": "http://cmano-db.com/aircraft/845/",
+        "Country/Type": "Cuba",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1989",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EB Rubin] - (General Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (General Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29SMT Fulcrum C - 2011, 15x, Ex-Algerian",
+        "url": "http://cmano-db.com/aircraft/844/",
+        "Country/Type": "Russia [1992-]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 11200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 2011",
+                "Propulsion": " 2x RD-33.3"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-201 Gardenya - (MiG-29 9.13) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-010 Zhuk-M] - (MiG-29M) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air & Air-to-Surface, Medium-Range Max Range: 203.7 km",
+            "SPO-15 Beryoza [L-006] - (MiG-29M) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (MiG-29M) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "1150 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AS-14 Kedge [Kh-29T] -\n\t\t\t\t(1985) Guided Weapon\n\t\t\t\tSurface Max: 11.1 km. Land Max: 11.1 km. ",
+            " AS-17 Krypton C [Kh-31P, ARM] -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 111.1 km. Land Max: 111.1 km. ",
+            " KAB-500Kr TV/EO -\n\t\t\t\t Guided Weapon\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29S Fulcrum C - 1987, 9-13S",
+        "url": "http://cmano-db.com/aircraft/843/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 11200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1987",
+                "Propulsion": " 2x RD-33",
+                "\n\t\t\t\t\t\tDecommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-201 Gardenya - (MiG-29 9.13) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-019M Topaz] - (MiG-29 9.13) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 92.6 km",
+            "SPO-15 Beryoza [L-006] - (MiG-29 9.13) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (MiG-29 9.13) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "1150 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1987",
+        "url": "http://cmano-db.com/aircraft/842/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1987",
+                "Propulsion": " 2x RD-33",
+                "\n\t\t\t\t\t\tDecommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "Slot Back [N-019 Rubin] - (OEPS-29, Izdeliye 13Sh) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (OEPS-29, Izdeliye 13Sh) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RN-40 Tactical Bomb [30kT Nuclear] -\n\t\t\t\t(Russia, 8U-64, MiG-23, MiG-27, MiG-29 (9-12)) Bomb\n\t\t\t\tSurface Max: 5.6 km. Land Max: 5.6 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum C - 1987, 9-13",
+        "url": "http://cmano-db.com/aircraft/741/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10900 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1987",
+                "Propulsion": " 2x RD-33",
+                "\n\t\t\t\t\t\tDecommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "L-203 Gardenya - (OEPS-29, Izdeliye 13Sh) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Slot Back [N-019 Rubin] - (OEPS-29, Izdeliye 13Sh) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (OEPS-29, Izdeliye 13Sh) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " 1500 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1984",
+        "url": "http://cmano-db.com/aircraft/740/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1984",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "Slot Back [N-019 Rubin] - (OEPS-29, Izdeliye 13Sh) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (OEPS-29, Izdeliye 13Sh) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " AA-8 Aphid [R-60M] -\n\t\t\t\t(1983) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RN-40 Tactical Bomb [30kT Nuclear] -\n\t\t\t\t(Russia, 8U-64, MiG-23, MiG-27, MiG-29 (9-12)) Bomb\n\t\t\t\tSurface Max: 5.6 km. Land Max: 5.6 km. "
+        ]
+    },
+    {
+        "title": "MiG-29N Fulcrum A - 1999, AA-12",
+        "url": "http://cmano-db.com/aircraft/647/",
+        "Country/Type": "Malaysia",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1999",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "Slot Back [N-019ZM] - (OEPS-29, Izdeliye 13Sh) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 111.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (OEPS-29, Izdeliye 13Sh) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-12 Adder A [R-77, RVV-AE] -\n\t\t\t\t(1999) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1992",
+        "url": "http://cmano-db.com/aircraft/347/",
+        "Country/Type": "Ukraine [1992-]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x RD-33"
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "Slot Back [N-019 Rubin] - (OEPS-29, Izdeliye 13Sh) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "OLS-K [Laser Rangefinder] - (OEPS-29, Izdeliye 13Sh) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "BetAB-500SP CB [12 x Anti-Runway Penetrator Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tLand Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-ZAB [117 x ZAB-2.5SM Incendiary] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-13B 122mm Rocket [Penetrator] -\n\t\t\t\t(1984) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-24B 240mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "FAB-100M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-62 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MiG-29 Fulcrum A - 1989",
+        "url": "http://cmano-db.com/aircraft/253/",
+        "Country/Type": "Germany [DDR, -1990]",
+        "General data": [
+            {
+                "Type": " Multirole (Fighter/Attack)",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 920 kt",
+                "Wingspan": " 11.4 m",
+                "Height": " 4.73 m",
+                "Length": " 17.3 m",
+                "Max Payload": " 0 kg",
+                "Empty Weight": " 10200 kg",
+                "Max Weight": " 18500 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1989",
+                "Propulsion": " 2x RD-33",
+                "\n\t\t\t\t\t\tDecommissioned": " 1990\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "OLS-K [IRST] - (OEPS-29, Izdeliye 13Sh) Infrared\n\t\t\t\t\tIRST, Imaging Infrared Search and Track Max Range: 74.1 km",
+            "SPO-15 Beryoza [L-006] - (OEPS-29, Izdeliye 13Sh) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Slot Back [N-019EA Rubin] - (Warsaw Pact Export) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Short-Range Max Range: 74.1 km",
+            "OLS-K [Laser Rangefinder] - (Warsaw Pact Export) Laser Rangefinder\n\t\t\t\t\tLaser Rangefinder for Weapon Director Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-11 Archer [R-73] -\n\t\t\t\t(1986) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. ",
+            " AA-10 Alamo A [R-27R, MR TSARH] -\n\t\t\t\t(1984) Guided Weapon\n\t\t\t\tAir Max: 59.3 km. ",
+            " OFAB-100-120 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-250M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            " FAB-500M-54 GPB -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RBK-500-PTAB CB [268 x PTAB-1M Anti-Tank Bomblets] -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-5K 57mm Rocket -\n\t\t\t\t Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-8KO 80mm Rocket [HEAT] -\n\t\t\t\t(1985) Rocket\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            " OFAB-250-270 Frag -\n\t\t\t\t Bomb\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "MSP-418-K (2010+?, Export?, Compact jamming pod for MiG-29)",
+        "url": "http://cmano-db.com/sensor/5086/",
+        "Country/Type": "ECM",
+        "General data": [
+            {
+                "Type": " ECM",
+                "Altitude Max": " 0 m",
+                "Range Max": " 0 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0 km",
+                "Generation": " Late 2000s"
+            }
+        ],
+        "Sensors / EW": [
+            "MSP-418-K - (2010+?, Export?, Compact jamming pod for MiG-29) ECM\n\t\t\t\t\tRole: DECM, Defensive ECM Max Range: 0 km"
+        ]
+    },
+    {
+        "title": "Slot Back [N-010 Zhuk-M] (MiG-29M)",
+        "url": "http://cmano-db.com/sensor/4830/",
+        "Country/Type": "Radar",
+        "General data": [
+            {
+                "Type": " Radar",
+                "Altitude Max": " 0 m",
+                "Range Max": " 203.7 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0.4 km",
+                "Generation": " Late 1990s"
+            }
+        ],
+        "Properties": [
+            "Properties: Identification Friend or Foe (IFF) [Side Info], Pulse Doppler Radar (Full LDSD Capability), Continuous Wave Illumination"
+        ],
+        "Sensors / EW": [
+            "Slot Back [N-010 Zhuk-M] - (MiG-29M) Radar\n\t\t\t\t\tRole: Radar, FCR, Air-to-Air & Air-to-Surface, Medium-Range Max Range: 203.7 km"
+        ]
+    },
+    {
+        "title": "Slot Back [N-019-U1 ] (Ukraine, MiG-29MU1)",
+        "url": "http://cmano-db.com/sensor/4337/",
+        "Country/Type": "Radar",
+        "General data": [
+            {
+                "Type": " Radar",
+                "Altitude Max": " 0 m",
+                "Range Max": " 111.1 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0.2 km",
+                "Generation": " Early 2010s"
+            }
+        ],
+        "Properties": [
+            "Properties: Identification Friend or Foe (IFF) [Side Info], Pulse Doppler Radar (Full LDSD Capability), Continuous Wave Illumination"
+        ],
+        "Sensors / EW": [
+            "Slot Back [N-019-U1 ] - (Ukraine, MiG-29MU1) Radar\n\t\t\t\t\tRole: Radar, FCR, Air-to-Air, Medium-Range Max Range: 111.1 km"
+        ]
+    },
+    {
+        "title": "L-201 Gardenya (MiG-29 9.13)",
+        "url": "http://cmano-db.com/sensor/845/",
+        "Country/Type": "ECM",
+        "General data": [
+            {
+                "Type": " ECM",
+                "Altitude Max": " 0 m",
+                "Range Max": " 0 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0 km",
+                "Generation": " Late 1980s"
+            }
+        ],
+        "Sensors / EW": [
+            "L-201 Gardenya - (MiG-29 9.13) ECM\n\t\t\t\t\tRole: DECM, Defensive ECM Max Range: 0 km"
+        ]
+    },
+    {
+        "title": "Slot Back [N-010 Zhuk] (Cancelled, MiG-29M)",
+        "url": "http://cmano-db.com/sensor/658/",
+        "Country/Type": "Radar",
+        "General data": [
+            {
+                "Type": " Radar",
+                "Altitude Max": " 0 m",
+                "Range Max": " 203.7 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0.4 km",
+                "Generation": " Late 1990s"
+            }
+        ],
+        "Properties": [
+            "Properties: Identification Friend or Foe (IFF) [Side Info], Pulse Doppler Radar (Full LDSD Capability), Continuous Wave Illumination"
+        ],
+        "Sensors / EW": [
+            "Slot Back [N-010 Zhuk] - (Cancelled, MiG-29M) Radar\n\t\t\t\t\tRole: Radar, FCR, Air-to-Air & Air-to-Surface, Medium-Range Max Range: 203.7 km"
+        ]
+    },
+    {
+        "title": "RN-40 Tactical Bomb [30kT Nuclear] (Russia, 8U-64, MiG-23, MiG-27, MiG-29 (9-12))",
+        "url": "http://cmano-db.com/weapon/1694/",
+        "Country/Type": "Bomb",
+        "General data": [
+            {
+                "Type": " Bomb",
+                "Weight": " 250.0 kg",
+                "Length": " 4.0 m",
+                "Span": " 0.5 m",
+                "Diameter": " 0.0",
+                "Generation": " None"
+            }
+        ],
+        "Properties": [
+            "Targets: Surface Vessel, Land Structure - Soft, Land Structure - Hardened, Runway, Mobile Target - Soft, Mobile Target - Hardened"
+        ],
+        "Weapons": [
+            "RN-40 Tactical Bomb [30kT Nuclear] -\n\t\t\t\t(Russia, 8U-64, MiG-23, MiG-27, MiG-29 (9-12)) Bomb\n\t\t\t\tSurface Max: 5.6 km. Land Max: 5.6 km.  "
+        ]
+    }
+]

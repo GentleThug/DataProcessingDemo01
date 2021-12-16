@@ -1,0 +1,10 @@
+[
+  {
+    "年代": {
+      "二战前": "ufo.asp?classify=aircraft&era=%E4%BA%8C%E6%88%98%E5%89%8D",
+      "二战期间": "ufo.asp?classify=aircraft&era=%E4%BA%8C%E6%88%98%E6%9C%9F%E9%97%B4",
+      "二战后至冷战期间": "ufo.asp?classify=aircraft&era=%E4%BA%8C%E6%88%98%E5%90%8E%E8%87%B3%E5%86%B7%E6%88%98%E6%9C%9F%E9%97%B4",
+      "冷战后至今": "ufo.asp?classify=aircraft&era=%E5%86%B7%E6%88%98%E5%90%8E%E8%87%B3%E4%BB%8A"
+    }
+  }
+]

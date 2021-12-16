@@ -1,0 +1,452 @@
+[
+    {
+        "title": "CVN 71 Theodore Roosevelt [Nimitz Class] - 2015, Anti-Torpedo Torpedo",
+        "url": "http://cmano-db.com/ship/2721/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " CVN - Nuclear Powered Aircraft Carrier",
+                "Max Speed": " 35 kt",
+                "Crew": " 5680",
+                "Length": " 332.9 m",
+                "Beam": " 40.8 m",
+                "Draft": " 11.0 m",
+                "Displacement Full": " 100000 t",
+                "Displacement": " 84000 t",
+                "Operator": " Navy",
+                "Commissioned": " 2015",
+                "Propulsion": " 2x A4W Nuclear Reactors"
+            }
+        ],
+        "Sensors / EW": [
+            "AN/WLR-1H(V)7 -  ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "LN-66LP - (AN/SPS-59, 10kW) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 59.3 km",
+            "AN/SLQ-32(V)4 [ECM] - (Group) ECM\n\t\t\t\t\t\tOECM & DECM, Offensive & Defensive ECM Max Range: 0 km",
+            "AN/SLQ-32(V)4 [ESM] - (Group) ESM\n\t\t\t\t\t\tELINT Max Range: 926 km",
+            "AN/SPS-67(V)1 - (1982) Radar\n\t\t\t\t\tRadar, Surface Search & Navigation Max Range: 64.8 km",
+            "AN/SPS-49(V)5 NTU - (1982) Radar\n\t\t\t\t\tRadar, Air Search, 2D Long-Range Max Range: 463 km",
+            "AN/SPS-48E NTU - (1988) Radar\n\t\t\t\t\tRadar, Air Search, 3D Long-Range Max Range: 407.4 km",
+            "AN/SPQ-9B - (2001) Radar\n\t\t\t\t\tRadar, Target Indicator, 3D Surface-to-Air & Surface-to-Surface Max Range: 46.3 km",
+            "AN/SPN-43C - (1994) Radar\n\t\t\t\t\tRadar, Shipboard Air Traffic Control (SATC) Max Range: 129.6 km",
+            "Mk95 [EO] - (Mk6 Mod 0, Mk91 FCS) Visual\n\t\t\t\t\t\tVisual, Target Tracking and Identification TV Camera Max Range: 148.2 km",
+            "Mk95 [Radar] - (MFCR, Mk91 FCS) Radar\n\t\t\t\t\t\tRadar Illuminator, Medium-Range Max Range: 118.5 km",
+            "Torpedo Warning System - (2019, Assoc w CAT) TASS, Passive-Only Towed Array Sonar System\n\t\t\t\t\tTASS, Passive Torpedo Warning Towed Array Sonar System Max Range: 27.8 km"
+        ],
+        "Weapons": [
+            " RIM-162D ESSM -\n\t\t\t\t(2004, Mk29) Guided Weapon\n\t\t\t\tAir Max: 55.6 km. Surface Max: 46.3 km. ",
+            " 20mm/100 Mk15 Phalanx Blk 1B Burst [300 rnds] -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 1.5 km. Surface Max: 1.9 km. ",
+            " AN/SLQ-25A Nixie -\n\t\t\t\t Decoy (Towed)\n\t\t\t\tSurface Max: 1.9 km. ",
+            " RIM-116B RAM Blk I -\n\t\t\t\t(2001) Guided Weapon\n\t\t\t\tAir Max: 11.1 km. Surface Max: 11.1 km. ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. ",
+            "Anti-torpedo Torpedo [Countermeasure Anti-Torpedo] -\n\t\t\t\t(2019) Torpedo\n\t\t\t\tSubsurface Max: 7.4 km. "
+        ]
+    },
+    {
+        "title": "CVN 71 Theodore Roosevelt [Nimitz Class] - 2020, 171mm CAT removed",
+        "url": "http://cmano-db.com/ship/2587/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " CVN - Nuclear Powered Aircraft Carrier",
+                "Max Speed": " 35 kt",
+                "Crew": " 5680",
+                "Length": " 332.9 m",
+                "Beam": " 40.8 m",
+                "Draft": " 11.0 m",
+                "Displacement Full": " 100000 t",
+                "Displacement": " 84000 t",
+                "Operator": " Navy",
+                "Commissioned": " 2020",
+                "Propulsion": " 2x A4W Nuclear Reactors"
+            }
+        ],
+        "Sensors / EW": [
+            "AN/WLR-1H(V)7 -  ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "LN-66LP - (AN/SPS-59, 10kW) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 59.3 km",
+            "AN/SLQ-32(V)4 [ECM] - (Group) ECM\n\t\t\t\t\t\tOECM & DECM, Offensive & Defensive ECM Max Range: 0 km",
+            "AN/SLQ-32(V)4 [ESM] - (Group) ESM\n\t\t\t\t\t\tELINT Max Range: 926 km",
+            "AN/SPS-67(V)1 - (1982) Radar\n\t\t\t\t\tRadar, Surface Search & Navigation Max Range: 64.8 km",
+            "AN/SPS-49(V)5 NTU - (1982) Radar\n\t\t\t\t\tRadar, Air Search, 2D Long-Range Max Range: 463 km",
+            "AN/SPS-48E NTU - (1988) Radar\n\t\t\t\t\tRadar, Air Search, 3D Long-Range Max Range: 407.4 km",
+            "AN/SPQ-9B - (2001) Radar\n\t\t\t\t\tRadar, Target Indicator, 3D Surface-to-Air & Surface-to-Surface Max Range: 46.3 km",
+            "AN/SPN-43C - (1994) Radar\n\t\t\t\t\tRadar, Shipboard Air Traffic Control (SATC) Max Range: 129.6 km",
+            "Mk95 [EO] - (Mk6 Mod 0, Mk91 FCS) Visual\n\t\t\t\t\t\tVisual, Target Tracking and Identification TV Camera Max Range: 148.2 km",
+            "Mk95 [Radar] - (MFCR, Mk91 FCS) Radar\n\t\t\t\t\t\tRadar Illuminator, Medium-Range Max Range: 118.5 km"
+        ],
+        "Weapons": [
+            " RIM-162D ESSM -\n\t\t\t\t(2004, Mk29) Guided Weapon\n\t\t\t\tAir Max: 55.6 km. Surface Max: 46.3 km. ",
+            " 20mm/100 Mk15 Phalanx Blk 1B Burst [300 rnds] -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 1.5 km. Surface Max: 1.9 km. ",
+            " AN/SLQ-25A Nixie -\n\t\t\t\t Decoy (Towed)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "RIM-116C RAM Blk II -\n\t\t\t\t(2015) Guided Weapon\n\t\t\t\tAir Max: 18.5 km. Surface Max: 18.5 km. ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "CVN 71 Theodore Roosevelt [Nimitz Class] - 2012",
+        "url": "http://cmano-db.com/ship/1984/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " CVN - Nuclear Powered Aircraft Carrier",
+                "Max Speed": " 35 kt",
+                "Crew": " 5680",
+                "Length": " 332.9 m",
+                "Beam": " 40.8 m",
+                "Draft": " 11.0 m",
+                "Displacement Full": " 100000 t",
+                "Displacement": " 84000 t",
+                "Operator": " Navy",
+                "Commissioned": " 2012",
+                "Propulsion": " 2x A4W Nuclear Reactors"
+            }
+        ],
+        "Sensors / EW": [
+            "AN/WLR-1H(V)7 -  ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "LN-66LP - (AN/SPS-59, 10kW) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 59.3 km",
+            "AN/SLQ-32(V)4 [ECM] - (Group) ECM\n\t\t\t\t\t\tOECM & DECM, Offensive & Defensive ECM Max Range: 0 km",
+            "AN/SLQ-32(V)4 [ESM] - (Group) ESM\n\t\t\t\t\t\tELINT Max Range: 926 km",
+            "AN/SPS-67(V)1 - (1982) Radar\n\t\t\t\t\tRadar, Surface Search & Navigation Max Range: 64.8 km",
+            "AN/SPS-49(V)5 NTU - (1982) Radar\n\t\t\t\t\tRadar, Air Search, 2D Long-Range Max Range: 463 km",
+            "AN/SPS-48E NTU - (1988) Radar\n\t\t\t\t\tRadar, Air Search, 3D Long-Range Max Range: 407.4 km",
+            "AN/SPQ-9B - (2001) Radar\n\t\t\t\t\tRadar, Target Indicator, 3D Surface-to-Air & Surface-to-Surface Max Range: 46.3 km",
+            "AN/SPN-43C - (1994) Radar\n\t\t\t\t\tRadar, Shipboard Air Traffic Control (SATC) Max Range: 129.6 km",
+            "Mk95 [EO] - (Mk6 Mod 0, Mk91 FCS) Visual\n\t\t\t\t\t\tVisual, Target Tracking and Identification TV Camera Max Range: 148.2 km",
+            "Mk95 [Radar] - (MFCR, Mk91 FCS) Radar\n\t\t\t\t\t\tRadar Illuminator, Medium-Range Max Range: 118.5 km"
+        ],
+        "Weapons": [
+            " RIM-162D ESSM -\n\t\t\t\t(2004, Mk29) Guided Weapon\n\t\t\t\tAir Max: 55.6 km. Surface Max: 46.3 km. ",
+            " 20mm/100 Mk15 Phalanx Blk 1B Burst [300 rnds] -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 1.5 km. Surface Max: 1.9 km. ",
+            " AN/SLQ-25A Nixie -\n\t\t\t\t Decoy (Towed)\n\t\t\t\tSurface Max: 1.9 km. ",
+            " RIM-116B RAM Blk I -\n\t\t\t\t(2001) Guided Weapon\n\t\t\t\tAir Max: 11.1 km. Surface Max: 11.1 km. ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "CVN 71 Theodore Roosevelt [Nimitz Class] - 1992",
+        "url": "http://cmano-db.com/ship/1667/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " CVN - Nuclear Powered Aircraft Carrier",
+                "Max Speed": " 35 kt",
+                "Crew": " 5680",
+                "Length": " 332.9 m",
+                "Beam": " 40.8 m",
+                "Draft": " 11.0 m",
+                "Displacement Full": " 100000 t",
+                "Displacement": " 84000 t",
+                "Operator": " Navy",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x A4W Nuclear Reactors"
+            }
+        ],
+        "Sensors / EW": [
+            "AN/WLR-1H(V)3 -  ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "LN-66LP - (AN/SPS-59, 10kW) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 59.3 km",
+            "Mk23 TAS - (1982, Mk91 FCS, SWY-1) Radar\n\t\t\t\t\tRadar, Target Indicator, 2D Surface-to-Air & Surface-to-Surface Max Range: 203.7 km",
+            "AN/SPS-67(V)1 - (1982) Radar\n\t\t\t\t\tRadar, Surface Search & Navigation Max Range: 64.8 km",
+            "AN/SPS-49(V)5 NTU - (1982) Radar\n\t\t\t\t\tRadar, Air Search, 2D Long-Range Max Range: 463 km",
+            "AN/SPS-48E NTU - (1988) Radar\n\t\t\t\t\tRadar, Air Search, 3D Long-Range Max Range: 407.4 km",
+            "AN/SPN-43B - (1984) Radar\n\t\t\t\t\tRadar, Shipboard Air Traffic Control (SATC) Max Range: 129.6 km",
+            "Mk95 [EO] - (Mk6 Mod 0, Mk91 FCS) Visual\n\t\t\t\t\t\tVisual, Target Tracking and Identification TV Camera Max Range: 148.2 km",
+            "Mk95 [Radar] - (MFCR, Mk91 FCS) Radar\n\t\t\t\t\t\tRadar Illuminator, Medium-Range Max Range: 118.5 km",
+            "AN/SLQ-17 [ECM] - (Group, SLQ-29) ECM\n\t\t\t\t\t\tOECM & DECM, Offensive & Defensive ECM Max Range: 0 km",
+            "AN/SLQ-17 [ESM] - (Group, SLQ-29) ESM\n\t\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km"
+        ],
+        "Weapons": [
+            " RIM-7M Sea Sparrow -\n\t\t\t\t(1985) Guided Weapon\n\t\t\t\tAir Max: 25.9 km. Surface Max: 25.9 km. ",
+            "20mm/85 Mk15 Phalanx Blk 0 Burst [200 rnds] -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 1.5 km. ",
+            " Mk216 Sea Gnat Chaff [Distraction] -\n\t\t\t\t(1988) Decoy (Expendable)\n\t\t\t\tSurface Max: 1.9 km. ",
+            " Mk214 Sea Gnat Chaff [Seduction] -\n\t\t\t\t(1987) Decoy (Expendable)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "Mk186 TORCH Flare [Seduction] -\n\t\t\t\t(1979) Decoy (Expendable)\n\t\t\t\tSurface Max: 1.9 km. ",
+            " AN/SLQ-25 Nixie -\n\t\t\t\t Decoy (Towed)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "CVN 71 Theodore Roosevelt [Nimitz Class] - 2007",
+        "url": "http://cmano-db.com/ship/1215/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " CVN - Nuclear Powered Aircraft Carrier",
+                "Max Speed": " 35 kt",
+                "Crew": " 5680",
+                "Length": " 332.9 m",
+                "Beam": " 40.8 m",
+                "Draft": " 11.0 m",
+                "Displacement Full": " 100000 t",
+                "Displacement": " 84000 t",
+                "Operator": " Navy",
+                "Commissioned": " 2007",
+                "Propulsion": " 2x A4W Nuclear Reactors",
+                "\n\t\t\t\t\t\tDecommissioned": " 2009\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "AN/WLR-1H(V)7 -  ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "LN-66LP - (AN/SPS-59, 10kW) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 59.3 km",
+            "AN/SLQ-32(V)4 [ECM] - (Group) ECM\n\t\t\t\t\t\tOECM & DECM, Offensive & Defensive ECM Max Range: 0 km",
+            "AN/SLQ-32(V)4 [ESM] - (Group) ESM\n\t\t\t\t\t\tELINT Max Range: 926 km",
+            "AN/SPS-67(V)1 - (1982) Radar\n\t\t\t\t\tRadar, Surface Search & Navigation Max Range: 64.8 km",
+            "AN/SPS-49(V)5 NTU - (1982) Radar\n\t\t\t\t\tRadar, Air Search, 2D Long-Range Max Range: 463 km",
+            "AN/SPS-48E NTU - (1988) Radar\n\t\t\t\t\tRadar, Air Search, 3D Long-Range Max Range: 407.4 km",
+            "AN/SPQ-9B - (2001) Radar\n\t\t\t\t\tRadar, Target Indicator, 3D Surface-to-Air & Surface-to-Surface Max Range: 46.3 km",
+            "AN/SPN-43C - (1994) Radar\n\t\t\t\t\tRadar, Shipboard Air Traffic Control (SATC) Max Range: 129.6 km",
+            "Mk95 [EO] - (Mk6 Mod 0, Mk91 FCS) Visual\n\t\t\t\t\t\tVisual, Target Tracking and Identification TV Camera Max Range: 148.2 km",
+            "Mk95 [Radar] - (MFCR, Mk91 FCS) Radar\n\t\t\t\t\t\tRadar Illuminator, Medium-Range Max Range: 118.5 km"
+        ],
+        "Weapons": [
+            " RIM-7P Sea Sparrow -\n\t\t\t\t(1994) Guided Weapon\n\t\t\t\tAir Max: 25.9 km. Surface Max: 25.9 km. ",
+            " 20mm/100 Mk15 Phalanx Blk 1B Burst [300 rnds] -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 1.5 km. Surface Max: 1.9 km. ",
+            " AN/SLQ-25A Nixie -\n\t\t\t\t Decoy (Towed)\n\t\t\t\tSurface Max: 1.9 km. ",
+            " RIM-116B RAM Blk I -\n\t\t\t\t(2001) Guided Weapon\n\t\t\t\tAir Max: 11.1 km. Surface Max: 11.1 km. ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "CVN 71 Theodore Roosevelt [Nimitz Class] - 2005",
+        "url": "http://cmano-db.com/ship/1108/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " CVN - Nuclear Powered Aircraft Carrier",
+                "Max Speed": " 35 kt",
+                "Crew": " 5680",
+                "Length": " 332.8 m",
+                "Beam": " 40.8 m",
+                "Draft": " 11.0 m",
+                "Displacement Full": " 100000 t",
+                "Displacement": " 84000 t",
+                "Operator": " Navy",
+                "Commissioned": " 2005",
+                "Propulsion": " 2x A4W Nuclear Reactors"
+            }
+        ],
+        "Sensors / EW": [
+            "AN/WLR-1H(V)7 -  ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "LN-66LP - (AN/SPS-59, 10kW) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 59.3 km",
+            "AN/SLQ-32(V)4 [ECM] - (Group) ECM\n\t\t\t\t\t\tOECM & DECM, Offensive & Defensive ECM Max Range: 0 km",
+            "AN/SLQ-32(V)4 [ESM] - (Group) ESM\n\t\t\t\t\t\tELINT Max Range: 926 km",
+            "Mk23 TAS - (1982, Mk91 FCS, SWY-1) Radar\n\t\t\t\t\tRadar, Target Indicator, 2D Surface-to-Air & Surface-to-Surface Max Range: 203.7 km",
+            "AN/SPS-67(V)1 - (1982) Radar\n\t\t\t\t\tRadar, Surface Search & Navigation Max Range: 64.8 km",
+            "AN/SPS-49(V)5 NTU - (1982) Radar\n\t\t\t\t\tRadar, Air Search, 2D Long-Range Max Range: 463 km",
+            "AN/SPS-48E NTU - (1988) Radar\n\t\t\t\t\tRadar, Air Search, 3D Long-Range Max Range: 407.4 km",
+            "AN/SPN-43C - (1994) Radar\n\t\t\t\t\tRadar, Shipboard Air Traffic Control (SATC) Max Range: 129.6 km",
+            "Mk95 [EO] - (Mk6 Mod 0, Mk91 FCS) Visual\n\t\t\t\t\t\tVisual, Target Tracking and Identification TV Camera Max Range: 148.2 km",
+            "Mk95 [Radar] - (MFCR, Mk91 FCS) Radar\n\t\t\t\t\t\tRadar Illuminator, Medium-Range Max Range: 118.5 km"
+        ],
+        "Weapons": [
+            " RIM-7P Sea Sparrow -\n\t\t\t\t(1994) Guided Weapon\n\t\t\t\tAir Max: 25.9 km. Surface Max: 25.9 km. ",
+            " 20mm/85 Mk15 Phalanx Blk 1 Burst [300 rnds] -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 1.5 km. ",
+            " AN/SLQ-25A Nixie -\n\t\t\t\t Decoy (Towed)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "CVN 71 Theodore Roosevelt [Nimitz Class] - 2000",
+        "url": "http://cmano-db.com/ship/1074/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " CVN - Nuclear Powered Aircraft Carrier",
+                "Max Speed": " 35 kt",
+                "Crew": " 5680",
+                "Length": " 332.9 m",
+                "Beam": " 40.8 m",
+                "Draft": " 11.0 m",
+                "Displacement Full": " 100000 t",
+                "Displacement": " 84000 t",
+                "Operator": " Navy",
+                "Commissioned": " 2000",
+                "Propulsion": " 2x A4W Nuclear Reactors"
+            }
+        ],
+        "Sensors / EW": [
+            "AN/WLR-1H(V)5 -  ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "LN-66LP - (AN/SPS-59, 10kW) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 59.3 km",
+            "AN/SLQ-32(V)4 [ECM] - (Group) ECM\n\t\t\t\t\t\tOECM & DECM, Offensive & Defensive ECM Max Range: 0 km",
+            "AN/SLQ-32(V)4 [ESM] - (Group) ESM\n\t\t\t\t\t\tELINT Max Range: 926 km",
+            "Mk23 TAS - (1982, Mk91 FCS, SWY-1) Radar\n\t\t\t\t\tRadar, Target Indicator, 2D Surface-to-Air & Surface-to-Surface Max Range: 203.7 km",
+            "AN/SPS-67(V)1 - (1982) Radar\n\t\t\t\t\tRadar, Surface Search & Navigation Max Range: 64.8 km",
+            "AN/SPS-49(V)5 NTU - (1982) Radar\n\t\t\t\t\tRadar, Air Search, 2D Long-Range Max Range: 463 km",
+            "AN/SPS-48E NTU - (1988) Radar\n\t\t\t\t\tRadar, Air Search, 3D Long-Range Max Range: 407.4 km",
+            "AN/SPN-43C - (1994) Radar\n\t\t\t\t\tRadar, Shipboard Air Traffic Control (SATC) Max Range: 129.6 km",
+            "Mk95 [EO] - (Mk6 Mod 0, Mk91 FCS) Visual\n\t\t\t\t\t\tVisual, Target Tracking and Identification TV Camera Max Range: 148.2 km",
+            "Mk95 [Radar] - (MFCR, Mk91 FCS) Radar\n\t\t\t\t\t\tRadar Illuminator, Medium-Range Max Range: 118.5 km"
+        ],
+        "Weapons": [
+            " RIM-7P Sea Sparrow -\n\t\t\t\t(1994) Guided Weapon\n\t\t\t\tAir Max: 25.9 km. Surface Max: 25.9 km. ",
+            " 20mm/85 Mk15 Phalanx Blk 1 Burst [300 rnds] -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 1.5 km. ",
+            " Mk216 Sea Gnat Chaff [Distraction] -\n\t\t\t\t(1988) Decoy (Expendable)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "Mk245 GIANT Flare -\n\t\t\t\t(1997, DM19A1) Decoy (Expendable)\n\t\t\t\tSurface Max: 1.9 km. ",
+            " Mk214 Sea Gnat Chaff [Seduction] -\n\t\t\t\t(1987) Decoy (Expendable)\n\t\t\t\tSurface Max: 1.9 km. ",
+            " AN/SLQ-25A Nixie -\n\t\t\t\t Decoy (Towed)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "CVN 71 Theodore Roosevelt [Nimitz Class] - 1994",
+        "url": "http://cmano-db.com/ship/914/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " CVN - Nuclear Powered Aircraft Carrier",
+                "Max Speed": " 35 kt",
+                "Crew": " 5680",
+                "Length": " 332.9 m",
+                "Beam": " 40.8 m",
+                "Draft": " 11.0 m",
+                "Displacement Full": " 100000 t",
+                "Displacement": " 84000 t",
+                "Operator": " Navy",
+                "Commissioned": " 1994",
+                "Propulsion": " 2x A4W Nuclear Reactors"
+            }
+        ],
+        "Sensors / EW": [
+            "AN/WLR-1H(V)3 -  ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "LN-66LP - (AN/SPS-59, 10kW) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 59.3 km",
+            "Mk23 TAS - (1982, Mk91 FCS, SWY-1) Radar\n\t\t\t\t\tRadar, Target Indicator, 2D Surface-to-Air & Surface-to-Surface Max Range: 203.7 km",
+            "AN/SPS-67(V)1 - (1982) Radar\n\t\t\t\t\tRadar, Surface Search & Navigation Max Range: 64.8 km",
+            "AN/SPS-49(V)5 NTU - (1982) Radar\n\t\t\t\t\tRadar, Air Search, 2D Long-Range Max Range: 463 km",
+            "AN/SPS-48E NTU - (1988) Radar\n\t\t\t\t\tRadar, Air Search, 3D Long-Range Max Range: 407.4 km",
+            "AN/SPN-43C - (1994) Radar\n\t\t\t\t\tRadar, Shipboard Air Traffic Control (SATC) Max Range: 129.6 km",
+            "Mk95 [EO] - (Mk6 Mod 0, Mk91 FCS) Visual\n\t\t\t\t\t\tVisual, Target Tracking and Identification TV Camera Max Range: 148.2 km",
+            "Mk95 [Radar] - (MFCR, Mk91 FCS) Radar\n\t\t\t\t\t\tRadar Illuminator, Medium-Range Max Range: 118.5 km",
+            "AN/SLQ-17 [ECM] - (Group, SLQ-29) ECM\n\t\t\t\t\t\tOECM & DECM, Offensive & Defensive ECM Max Range: 0 km",
+            "AN/SLQ-17 [ESM] - (Group, SLQ-29) ESM\n\t\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km"
+        ],
+        "Weapons": [
+            " RIM-7P Sea Sparrow -\n\t\t\t\t(1994) Guided Weapon\n\t\t\t\tAir Max: 25.9 km. Surface Max: 25.9 km. ",
+            " 20mm/85 Mk15 Phalanx Blk 1 Burst [300 rnds] -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 1.5 km. ",
+            " Mk216 Sea Gnat Chaff [Distraction] -\n\t\t\t\t(1988) Decoy (Expendable)\n\t\t\t\tSurface Max: 1.9 km. ",
+            " Mk214 Sea Gnat Chaff [Seduction] -\n\t\t\t\t(1987) Decoy (Expendable)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "Mk186 TORCH Flare [Seduction] -\n\t\t\t\t(1979) Decoy (Expendable)\n\t\t\t\tSurface Max: 1.9 km. ",
+            " AN/SLQ-25 Nixie -\n\t\t\t\t Decoy (Towed)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "CVN 71 Theodore Roosevelt [Nimitz Class] - 1998",
+        "url": "http://cmano-db.com/ship/454/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " CVN - Nuclear Powered Aircraft Carrier",
+                "Max Speed": " 35 kt",
+                "Crew": " 5680",
+                "Length": " 332.9 m",
+                "Beam": " 40.8 m",
+                "Draft": " 11.0 m",
+                "Displacement Full": " 100000 t",
+                "Displacement": " 84000 t",
+                "Operator": " Navy",
+                "Commissioned": " 1998",
+                "Propulsion": " 2x A4W Nuclear Reactors"
+            }
+        ],
+        "Sensors / EW": [
+            "AN/WLR-1H(V)5 -  ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "LN-66LP - (AN/SPS-59, 10kW) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 59.3 km",
+            "AN/SLQ-32(V)4 [ECM] - (Group) ECM\n\t\t\t\t\t\tOECM & DECM, Offensive & Defensive ECM Max Range: 0 km",
+            "AN/SLQ-32(V)4 [ESM] - (Group) ESM\n\t\t\t\t\t\tELINT Max Range: 926 km",
+            "Mk23 TAS - (1982, Mk91 FCS, SWY-1) Radar\n\t\t\t\t\tRadar, Target Indicator, 2D Surface-to-Air & Surface-to-Surface Max Range: 203.7 km",
+            "AN/SPS-67(V)1 - (1982) Radar\n\t\t\t\t\tRadar, Surface Search & Navigation Max Range: 64.8 km",
+            "AN/SPS-49(V)5 NTU - (1982) Radar\n\t\t\t\t\tRadar, Air Search, 2D Long-Range Max Range: 463 km",
+            "AN/SPS-48E NTU - (1988) Radar\n\t\t\t\t\tRadar, Air Search, 3D Long-Range Max Range: 407.4 km",
+            "AN/SPN-43C - (1994) Radar\n\t\t\t\t\tRadar, Shipboard Air Traffic Control (SATC) Max Range: 129.6 km",
+            "Mk95 [EO] - (Mk6 Mod 0, Mk91 FCS) Visual\n\t\t\t\t\t\tVisual, Target Tracking and Identification TV Camera Max Range: 148.2 km",
+            "Mk95 [Radar] - (MFCR, Mk91 FCS) Radar\n\t\t\t\t\t\tRadar Illuminator, Medium-Range Max Range: 118.5 km"
+        ],
+        "Weapons": [
+            " RIM-7P Sea Sparrow -\n\t\t\t\t(1994) Guided Weapon\n\t\t\t\tAir Max: 25.9 km. Surface Max: 25.9 km. ",
+            " 20mm/85 Mk15 Phalanx Blk 1 Burst [300 rnds] -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 1.5 km. ",
+            " Mk216 Sea Gnat Chaff [Distraction] -\n\t\t\t\t(1988) Decoy (Expendable)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "Mk245 GIANT Flare -\n\t\t\t\t(1997, DM19A1) Decoy (Expendable)\n\t\t\t\tSurface Max: 1.9 km. ",
+            " Mk214 Sea Gnat Chaff [Seduction] -\n\t\t\t\t(1987) Decoy (Expendable)\n\t\t\t\tSurface Max: 1.9 km. ",
+            " AN/SLQ-25 Nixie -\n\t\t\t\t Decoy (Towed)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "CVN 71 Theodore Roosevelt [Nimitz Class] - 2003",
+        "url": "http://cmano-db.com/ship/381/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " CVN - Nuclear Powered Aircraft Carrier",
+                "Max Speed": " 35 kt",
+                "Crew": " 5680",
+                "Length": " 332.9 m",
+                "Beam": " 40.8 m",
+                "Draft": " 11.0 m",
+                "Displacement Full": " 100000 t",
+                "Displacement": " 84000 t",
+                "Operator": " Navy",
+                "Commissioned": " 2003",
+                "Propulsion": " 2x A4W Nuclear Reactors"
+            }
+        ],
+        "Sensors / EW": [
+            "AN/WLR-1H(V)5 -  ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "LN-66LP - (AN/SPS-59, 10kW) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 59.3 km",
+            "AN/SLQ-32(V)4 [ECM] - (Group) ECM\n\t\t\t\t\t\tOECM & DECM, Offensive & Defensive ECM Max Range: 0 km",
+            "AN/SLQ-32(V)4 [ESM] - (Group) ESM\n\t\t\t\t\t\tELINT Max Range: 926 km",
+            "Mk23 TAS - (1982, Mk91 FCS, SWY-1) Radar\n\t\t\t\t\tRadar, Target Indicator, 2D Surface-to-Air & Surface-to-Surface Max Range: 203.7 km",
+            "AN/SPS-67(V)1 - (1982) Radar\n\t\t\t\t\tRadar, Surface Search & Navigation Max Range: 64.8 km",
+            "AN/SPS-49(V)5 NTU - (1982) Radar\n\t\t\t\t\tRadar, Air Search, 2D Long-Range Max Range: 463 km",
+            "AN/SPS-48E NTU - (1988) Radar\n\t\t\t\t\tRadar, Air Search, 3D Long-Range Max Range: 407.4 km",
+            "AN/SPN-43C - (1994) Radar\n\t\t\t\t\tRadar, Shipboard Air Traffic Control (SATC) Max Range: 129.6 km",
+            "Mk95 [EO] - (Mk6 Mod 0, Mk91 FCS) Visual\n\t\t\t\t\t\tVisual, Target Tracking and Identification TV Camera Max Range: 148.2 km",
+            "Mk95 [Radar] - (MFCR, Mk91 FCS) Radar\n\t\t\t\t\t\tRadar Illuminator, Medium-Range Max Range: 118.5 km"
+        ],
+        "Weapons": [
+            " RIM-7P Sea Sparrow -\n\t\t\t\t(1994) Guided Weapon\n\t\t\t\tAir Max: 25.9 km. Surface Max: 25.9 km. ",
+            " 20mm/85 Mk15 Phalanx Blk 1 Burst [300 rnds] -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 1.5 km. ",
+            " AN/SLQ-25A Nixie -\n\t\t\t\t Decoy (Towed)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "12.7mm/50 MG Burst [10 rnds] -\n\t\t\t\t(Facility/Ship, No Anti-Air Capability) Gun\n\t\t\t\tSurface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    },
+    {
+        "title": "CVN 71 Theodore Roosevelt [Nimitz Class] - 1986",
+        "url": "http://cmano-db.com/ship/37/",
+        "Country/Type": "United States",
+        "General data": [
+            {
+                "Type": " CVN - Nuclear Powered Aircraft Carrier",
+                "Max Speed": " 35 kt",
+                "Crew": " 5680",
+                "Length": " 332.8 m",
+                "Beam": " 40.8 m",
+                "Draft": " 11.0 m",
+                "Displacement Full": " 100000 t",
+                "Displacement": " 84000 t",
+                "Operator": " Navy",
+                "Commissioned": " 1986",
+                "Propulsion": " 2x A4W Nuclear Reactors"
+            }
+        ],
+        "Sensors / EW": [
+            "AN/WLR-1H(V)3 -  ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "AN/SPS-48C - (1978) Radar\n\t\t\t\t\tRadar, Air Search, 3D Long-Range Max Range: 407.4 km",
+            "LN-66LP - (AN/SPS-59, 10kW) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 59.3 km",
+            "Mk23 TAS - (1982, Mk91 FCS, SWY-1) Radar\n\t\t\t\t\tRadar, Target Indicator, 2D Surface-to-Air & Surface-to-Surface Max Range: 203.7 km",
+            "AN/SPS-67(V)1 - (1982) Radar\n\t\t\t\t\tRadar, Surface Search & Navigation Max Range: 64.8 km",
+            "AN/SPS-49(V)5 NTU - (1982) Radar\n\t\t\t\t\tRadar, Air Search, 2D Long-Range Max Range: 463 km",
+            "AN/SPN-43B - (1984) Radar\n\t\t\t\t\tRadar, Shipboard Air Traffic Control (SATC) Max Range: 129.6 km",
+            "Mk95 [EO] - (Mk6 Mod 0, Mk91 FCS) Visual\n\t\t\t\t\t\tVisual, Target Tracking and Identification TV Camera Max Range: 148.2 km",
+            "Mk95 [Radar] - (MFCR, Mk91 FCS) Radar\n\t\t\t\t\t\tRadar Illuminator, Medium-Range Max Range: 118.5 km",
+            "AN/SLQ-17 [ECM] - (Group, SLQ-29) ECM\n\t\t\t\t\t\tOECM & DECM, Offensive & Defensive ECM Max Range: 0 km",
+            "AN/SLQ-17 [ESM] - (Group, SLQ-29) ESM\n\t\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km"
+        ],
+        "Weapons": [
+            " RIM-7M Sea Sparrow -\n\t\t\t\t(1985) Guided Weapon\n\t\t\t\tAir Max: 25.9 km. Surface Max: 25.9 km. ",
+            "20mm/85 Mk15 Phalanx Blk 0 Burst [200 rnds] -\n\t\t\t\t Gun\n\t\t\t\tAir Max: 1.5 km. ",
+            "Mk186 TORCH Flare [Seduction] -\n\t\t\t\t(1979) Decoy (Expendable)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "Mk182 SRBOC Chaff [Seduction] -\n\t\t\t\t(1979) Decoy (Expendable)\n\t\t\t\tSurface Max: 1.9 km. ",
+            " AN/SLQ-25 Nixie -\n\t\t\t\t Decoy (Towed)\n\t\t\t\tSurface Max: 1.9 km. ",
+            "7.62mm MG Burst [20 rnds] -\n\t\t\t\t(Ship & Facility) Gun\n\t\t\t\tSurface Max: 0.4 km. Land Max: 0.4 km. "
+        ]
+    }
+]

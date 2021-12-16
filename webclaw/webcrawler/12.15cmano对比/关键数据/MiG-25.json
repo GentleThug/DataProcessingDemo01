@@ -1,0 +1,1651 @@
+[
+    {
+        "title": "MiG-25PD Foxbat E - 1980",
+        "url": "http://cmano-db.com/cw/aircraft/3059/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Defence Troops [PVO]",
+                "Commissioned": " 1980",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "High Lark 4 [RP-25MN Sapfir-25] - (MiG-25) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 166.7 km",
+            "IRST [TP-26Sh1] - (MiG-25PD) Infrared\n\t\t\t\t\tIRST, Non-Imaging Infrared Seach and Track Max Range: 74.1 km"
+        ],
+        "Weapons / Loadouts": [
+            "AA-8 Aphid [R-60] -\n\t\t\t\t(1974) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. ",
+            "AA-6 Acrid C [R-40RD, SARH] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            "AA-6 Acrid D [R-40TD, IR] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25RBS Foxbat D - 1976, SLAR",
+        "url": "http://cmano-db.com/cw/aircraft/1320/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 39830 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1976",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Kub] - (MiG-25, Tu-22RDK) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "Fox Flat SLAR [Sabla] - (MiG-25RBS) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25RBS) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25RB Foxbat B - 1972, Bomb",
+        "url": "http://cmano-db.com/cw/aircraft/1319/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 41200 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1972",
+                "Propulsion": " 2x R-15BD-300",
+                "Decommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Generic Visual Reconnaissance Camera - (4x Magnification) Visual\n\t\t\t\t\tVisual, Reconnaissance Frame Camera Max Range: 9.3 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "SRS-4B Romb - (MiG-25RB, Izdeliyie 30) ESM\n\t\t\t\t\tELINT Max Range: 926 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            "RN-40 Tactical Bomb [30kT Nuclear] -\n\t\t\t\t(Russia, 8U-64, MiG-23, MiG-27, MiG-29 (9-12)) Bomb\n\t\t\t\tSurface Max: 5.6 km. Land Max: 5.6 km. ",
+            "FAB-500M-62T GPB -\n\t\t\t\t(Heat-Insulated) Bomb\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. "
+        ]
+    },
+    {
+        "title": "MiG-25RBK Foxbat B - 1976, SLAR",
+        "url": "http://cmano-db.com/cw/aircraft/1318/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 39830 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1976",
+                "Propulsion": " 2x R-15BD-300",
+                "Decommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Kub] - (MiG-25, Tu-22RDK) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "SLAR [Kub-3M] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25, NATO Name?) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25PDS Foxbat E - 1980, Upgraded MiG-25P, No Droptanks",
+        "url": "http://cmano-db.com/cw/aircraft/1317/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Defence Troops [PVO]",
+                "Commissioned": " 1980",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "High Lark 4 [RP-25MN Sapfir-25] - (MiG-25) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 166.7 km",
+            "IRST [TP-26Sh1] - (MiG-25PD) Infrared\n\t\t\t\t\tIRST, Non-Imaging Infrared Seach and Track Max Range: 74.1 km"
+        ],
+        "Weapons / Loadouts": [
+            "AA-8 Aphid [R-60] -\n\t\t\t\t(1974) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. ",
+            "AA-6 Acrid C [R-40RD, SARH] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            "AA-6 Acrid D [R-40TD, IR] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. "
+        ]
+    },
+    {
+        "title": "MiG-25P Foxbat A - 1972",
+        "url": "http://cmano-db.com/cw/aircraft/1316/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Defence Troops [PVO]",
+                "Commissioned": " 1972",
+                "Propulsion": " 2x R-15B-300",
+                "Decommissioned": " 1983\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Fox Fire [RP-SA Smerch-A3] - (MiG-25P) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 111.1 km"
+        ],
+        "Weapons / Loadouts": [
+            "AA-6 Acrid A [R-40R, SARH] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. ",
+            "AA-6 Acrid B [R-40T, IR] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. "
+        ]
+    },
+    {
+        "title": "MiG-25RBT Foxbat B - 1992, SLAR",
+        "url": "http://cmano-db.com/aircraft/4924/",
+        "Country/Type": "Bulgaria",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 39830 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 1995\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Tangazh] - (MiG-25RBT) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "SLAR [Virazh] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25, NATO Name?) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25PDS Foxbat E - 1980, Upgraded MiG-25P, No Droptanks",
+        "url": "http://cmano-db.com/aircraft/3034/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Defence Troops [PVO]",
+                "Commissioned": " 1980",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "High Lark 4 [RP-25MN Sapfir-25] - (MiG-25) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 166.7 km",
+            "IRST [TP-26Sh1] - (MiG-25PD) Infrared\n\t\t\t\t\tIRST, Non-Imaging Infrared Search and Track Max Range: 74.1 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-6 Acrid D [R-40TD, IR] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            "AA-6 Acrid C [R-40RD, SARH] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            " AA-8 Aphid [R-60] -\n\t\t\t\t(1974) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. "
+        ]
+    },
+    {
+        "title": "MiG-25PD Foxbat E - 1980",
+        "url": "http://cmano-db.com/aircraft/3011/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Defence Troops [PVO]",
+                "Commissioned": " 1980",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "High Lark 4 [RP-25MN Sapfir-25] - (MiG-25) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 166.7 km",
+            "IRST [TP-26Sh1] - (MiG-25PD) Infrared\n\t\t\t\t\tIRST, Non-Imaging Infrared Search and Track Max Range: 74.1 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-6 Acrid D [R-40TD, IR] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            "AA-6 Acrid C [R-40RD, SARH] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-8 Aphid [R-60] -\n\t\t\t\t(1974) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. "
+        ]
+    },
+    {
+        "title": "MiG-25RBT Foxbat B - 1992, SLAR",
+        "url": "http://cmano-db.com/aircraft/2645/",
+        "Country/Type": "Ukraine [1992-]",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 39830 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 1995\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Tangazh] - (MiG-25RBT) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "SLAR [Virazh] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25, NATO Name?) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25RBT Foxbat B - 1992, SLAR",
+        "url": "http://cmano-db.com/aircraft/2644/",
+        "Country/Type": "Russia [1992-]",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 39830 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Tangazh] - (MiG-25RBT) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "SLAR [Virazh] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25, NATO Name?) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25RBS Foxbat D - 1992, SLAR",
+        "url": "http://cmano-db.com/aircraft/2643/",
+        "Country/Type": "Ukraine [1992-]",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 39830 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 1995\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Kub] - (MiG-25, Tu-22RDK) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "Fox Flat SLAR [Shompol] - (MiG-25RBS) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25RBS) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25RBS Foxbat D - 1992, SLAR",
+        "url": "http://cmano-db.com/aircraft/2642/",
+        "Country/Type": "Russia [1992-]",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 39830 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Kub] - (MiG-25, Tu-22RDK) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "Fox Flat SLAR [Shompol] - (MiG-25RBS) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25RBS) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25PDS Foxbat E - 1992",
+        "url": "http://cmano-db.com/aircraft/2641/",
+        "Country/Type": "Ukraine [1992-]",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 1994\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "High Lark 4 [RP-25MN Sapfir-25] - (MiG-25) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 166.7 km",
+            "IRST [TP-26Sh1] - (MiG-25PD) Infrared\n\t\t\t\t\tIRST, Non-Imaging Infrared Search and Track Max Range: 74.1 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-6 Acrid D [R-40TD, IR] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            "AA-6 Acrid C [R-40RD, SARH] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            " AA-8 Aphid [R-60M] -\n\t\t\t\t(1983) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. "
+        ]
+    },
+    {
+        "title": "MiG-25RB Foxbat B - 1992, Bomb",
+        "url": "http://cmano-db.com/aircraft/2434/",
+        "Country/Type": "Russia [1992-]",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 41200 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Generic Visual Reconnaissance Camera - (4x Magnification) Visual\n\t\t\t\t\tVisual, Reconnaissance Frame Camera Max Range: 9.3 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "SRS-4B Romb - (MiG-25RB, Izdeliyie 30) ESM\n\t\t\t\t\tELINT Max Range: 926 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " FAB-500M-62T GPB -\n\t\t\t\t(Heat-Insulated) Bomb\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "RN-40 Tactical Bomb [30kT Nuclear] -\n\t\t\t\t(Russia, 8U-64, MiG-23, MiG-27, MiG-29 (9-12)) Bomb\n\t\t\t\tSurface Max: 5.6 km. Land Max: 5.6 km. "
+        ]
+    },
+    {
+        "title": "MiG-25PDS Foxbat E - 1984, Upgraded MiG-25P, No Droptanks",
+        "url": "http://cmano-db.com/aircraft/2433/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Defence Troops [PVO]",
+                "Commissioned": " 1984",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "High Lark 4 [RP-25MN Sapfir-25] - (MiG-25) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 166.7 km",
+            "IRST [TP-26Sh1] - (MiG-25PD) Infrared\n\t\t\t\t\tIRST, Non-Imaging Infrared Search and Track Max Range: 74.1 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-6 Acrid D [R-40TD, IR] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            "AA-6 Acrid C [R-40RD, SARH] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            " AA-8 Aphid [R-60M] -\n\t\t\t\t(1983) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. "
+        ]
+    },
+    {
+        "title": "MiG-25PDS Foxbat E - 1992",
+        "url": "http://cmano-db.com/aircraft/2432/",
+        "Country/Type": "Russia [1992-]",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "High Lark 4 [RP-25MN Sapfir-25] - (MiG-25) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 166.7 km",
+            "IRST [TP-26Sh1] - (MiG-25PD) Infrared\n\t\t\t\t\tIRST, Non-Imaging Infrared Search and Track Max Range: 74.1 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-6 Acrid D [R-40TD, IR] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            "AA-6 Acrid C [R-40RD, SARH] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            " AA-8 Aphid [R-60M] -\n\t\t\t\t(1983) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. "
+        ]
+    },
+    {
+        "title": "MiG-25RBS Foxbat D - 1976, SLAR",
+        "url": "http://cmano-db.com/aircraft/2414/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 39830 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1976",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Kub] - (MiG-25, Tu-22RDK) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "Fox Flat SLAR [Sabla] - (MiG-25RBS) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25RBS) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25PD Foxbat E - 1992",
+        "url": "http://cmano-db.com/aircraft/2377/",
+        "Country/Type": "Russia [1992-]",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "High Lark 4 [RP-25MN Sapfir-25] - (MiG-25) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 166.7 km",
+            "IRST [TP-26Sh1] - (MiG-25PD) Infrared\n\t\t\t\t\tIRST, Non-Imaging Infrared Search and Track Max Range: 74.1 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-6 Acrid D [R-40TD, IR] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            "AA-6 Acrid C [R-40RD, SARH] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            " AA-8 Aphid [R-60M] -\n\t\t\t\t(1983) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. ",
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25P Foxbat A - 1986, 30x",
+        "url": "http://cmano-db.com/aircraft/2235/",
+        "Country/Type": "Libya",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1986",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "Fox Fire [RP-SA Smerch-A3] - (MiG-25P) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 111.1 km",
+            "SPO-15 Beryoza [L-006] - (MiG-25P) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-6 Acrid A [R-40R, SARH] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. ",
+            " AA-6 Acrid B [R-40T, IR] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. ",
+            " AA-8 Aphid [R-60] -\n\t\t\t\t(1974) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. "
+        ]
+    },
+    {
+        "title": "MiG-25RBT Foxbat B - 1986, SLAR",
+        "url": "http://cmano-db.com/aircraft/2234/",
+        "Country/Type": "Iraq",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 39830 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1986",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 2003\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Tangazh] - (MiG-25RBT) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "SLAR [Virazh] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25, NATO Name?) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25P Foxbat A - 1986, 20x",
+        "url": "http://cmano-db.com/aircraft/2233/",
+        "Country/Type": "Iraq",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1986",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 2003\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "Fox Fire [RP-SA Smerch-A3] - (MiG-25P) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 111.1 km",
+            "SPO-15 Beryoza [L-006] - (MiG-25P) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-6 Acrid A [R-40R, SARH] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. ",
+            " AA-6 Acrid B [R-40T, IR] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. ",
+            " AA-8 Aphid [R-60] -\n\t\t\t\t(1974) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. "
+        ]
+    },
+    {
+        "title": "MiG-25BM Foxbat F - 1992",
+        "url": "http://cmano-db.com/aircraft/2138/",
+        "Country/Type": "Russia [1992-]",
+        "General data": [
+            {
+                "Type": " Wild Weasel",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.0 m",
+                "Length": " 22.7 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1992",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "Generic OECM [Advanced] - (1980s) ECM\n\t\t\t\t\tOECM, Offensive ECM Max Range: 0 km",
+            "Little Owl [Sych-M] - (1980s) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air & Air-to-Surface, Short-Range Max Range: 74.1 km",
+            "SPS-151/152/153 Lyutik - (MiG-25BM) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Emitter Location System [Jaguar] - (MiG-25BM AS-11 Targeting) ESM\n\t\t\t\t\tEmitter Locator (For ARM Missiles) Max Range: 222.2 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AS-11 Kilter [Kh-58U, ARM, Semi-Ballistic] -\n\t\t\t\t(MiG-25BM) Guided Weapon\n\t\t\t\tSurface Max: 240.8 km. Land Max: 240.8 km. "
+        ]
+    },
+    {
+        "title": "MiG-25RB Foxbat B - 1981, 8x",
+        "url": "http://cmano-db.com/aircraft/1401/",
+        "Country/Type": "Syria",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 41200 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1981",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "SLAR [Kub-3M] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25, NATO Name?) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Generic Visual Reconnaissance Camera - (4x Magnification) Visual\n\t\t\t\t\tVisual, Reconnaissance Frame Camera Max Range: 9.3 km",
+            "SRS-4B Romb - (MiG-25RB, Izdeliyie 30) ESM\n\t\t\t\t\tELINT Max Range: 926 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " FAB-500M-62T GPB -\n\t\t\t\t(Heat-Insulated) Bomb\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "RN-40 Tactical Bomb [30kT Nuclear] -\n\t\t\t\t(Russia, 8U-64, MiG-23, MiG-27, MiG-29 (9-12)) Bomb\n\t\t\t\tSurface Max: 5.6 km. Land Max: 5.6 km. "
+        ]
+    },
+    {
+        "title": "MiG-25RB Foxbat B - 1981, 5x",
+        "url": "http://cmano-db.com/aircraft/1400/",
+        "Country/Type": "Libya",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 41200 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1981",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "SLAR [Kub-3M] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25, NATO Name?) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Generic Visual Reconnaissance Camera - (4x Magnification) Visual\n\t\t\t\t\tVisual, Reconnaissance Frame Camera Max Range: 9.3 km",
+            "SRS-4B Romb - (MiG-25RB, Izdeliyie 30) ESM\n\t\t\t\t\tELINT Max Range: 926 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " FAB-500M-62T GPB -\n\t\t\t\t(Heat-Insulated) Bomb\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. "
+        ]
+    },
+    {
+        "title": "MiG-25RB Foxbat B - 1982, 4x",
+        "url": "http://cmano-db.com/aircraft/1399/",
+        "Country/Type": "Algeria",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 41200 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1982",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "SLAR [Kub-3M] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25, NATO Name?) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Generic Visual Reconnaissance Camera - (4x Magnification) Visual\n\t\t\t\t\tVisual, Reconnaissance Frame Camera Max Range: 9.3 km",
+            "SRS-4B Romb - (MiG-25RB, Izdeliyie 30) ESM\n\t\t\t\t\tELINT Max Range: 926 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " FAB-500M-62T GPB -\n\t\t\t\t(Heat-Insulated) Bomb\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. "
+        ]
+    },
+    {
+        "title": "MiG-25P Foxbat A - 1981, 30x",
+        "url": "http://cmano-db.com/aircraft/1364/",
+        "Country/Type": "Syria",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1981",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Fox Fire [RP-SA Smerch-A3] - (MiG-25P) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 111.1 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-6 Acrid A [R-40R, SARH] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. ",
+            " AA-6 Acrid B [R-40T, IR] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. ",
+            " AA-8 Aphid [R-60] -\n\t\t\t\t(1974) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. "
+        ]
+    },
+    {
+        "title": "MiG-25P Foxbat A - 1981, 20x",
+        "url": "http://cmano-db.com/aircraft/1363/",
+        "Country/Type": "Iraq",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1981",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Fox Fire [RP-SA Smerch-A3] - (MiG-25P) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 111.1 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-6 Acrid A [R-40R, SARH] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. ",
+            " AA-6 Acrid B [R-40T, IR] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. ",
+            " AA-8 Aphid [R-60] -\n\t\t\t\t(1974) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. "
+        ]
+    },
+    {
+        "title": "MiG-25RB Foxbat B - 1984, 6x",
+        "url": "http://cmano-db.com/aircraft/1362/",
+        "Country/Type": "India",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 41200 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1984",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 2005\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "SLAR [Kub-3M] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25, NATO Name?) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Generic Visual Reconnaissance Camera - (4x Magnification) Visual\n\t\t\t\t\tVisual, Reconnaissance Frame Camera Max Range: 9.3 km",
+            "SRS-4B Romb - (MiG-25RB, Izdeliyie 30) ESM\n\t\t\t\t\tELINT Max Range: 926 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " FAB-500M-62T GPB -\n\t\t\t\t(Heat-Insulated) Bomb\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. "
+        ]
+    },
+    {
+        "title": "MiG-25P Foxbat A - 1983, 16x",
+        "url": "http://cmano-db.com/aircraft/1361/",
+        "Country/Type": "Algeria",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1983",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Fox Fire [RP-SA Smerch-A3] - (MiG-25P) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 111.1 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-6 Acrid A [R-40R, SARH] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. ",
+            " AA-6 Acrid B [R-40T, IR] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. ",
+            " AA-8 Aphid [R-60] -\n\t\t\t\t(1974) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. "
+        ]
+    },
+    {
+        "title": "MiG-25P Foxbat A - 1972",
+        "url": "http://cmano-db.com/aircraft/1222/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Defence Troops [PVO]",
+                "Commissioned": " 1972",
+                "Propulsion": " 2x R-15B-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 1983\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Fox Fire [RP-SA Smerch-A3] - (MiG-25P) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 111.1 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-6 Acrid A [R-40R, SARH] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. ",
+            " AA-6 Acrid B [R-40T, IR] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. "
+        ]
+    },
+    {
+        "title": "MiG-25RBF Foxbat D - 1981, SLAR, Bomb",
+        "url": "http://cmano-db.com/aircraft/989/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 41200 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1981",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Shar] - (MiG-25RBF) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "SLAR [Kub-3M] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25, NATO Name?) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " FAB-500M-62T GPB -\n\t\t\t\t(Heat-Insulated) Bomb\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. "
+        ]
+    },
+    {
+        "title": "MiG-25RBS Foxbat D - 1982, SLAR",
+        "url": "http://cmano-db.com/aircraft/988/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 39830 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1982",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Kub] - (MiG-25, Tu-22RDK) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "Fox Flat SLAR [Shompol] - (MiG-25RBS) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25RBS) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25RBK Foxbat B - 1976, SLAR",
+        "url": "http://cmano-db.com/aircraft/987/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 39830 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1976",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Kub] - (MiG-25, Tu-22RDK) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "SLAR [Kub-3M] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25, NATO Name?) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25RBT Foxbat B - 1984, SLAR",
+        "url": "http://cmano-db.com/aircraft/986/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 39830 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1984",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Tangazh] - (MiG-25RBT) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "SLAR [Virazh] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25, NATO Name?) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25P Foxbat A - 1981, 30x",
+        "url": "http://cmano-db.com/aircraft/840/",
+        "Country/Type": "Libya",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1981",
+                "Propulsion": " 2x R-15BD-300"
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Fox Fire [RP-SA Smerch-A3] - (MiG-25P) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 111.1 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AA-6 Acrid A [R-40R, SARH] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. ",
+            " AA-6 Acrid B [R-40T, IR] -\n\t\t\t\t Guided Weapon\n\t\t\t\tAir Max: 55.6 km. ",
+            " AA-8 Aphid [R-60] -\n\t\t\t\t(1974) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. "
+        ]
+    },
+    {
+        "title": "MiG-25BM Foxbat F - 1988",
+        "url": "http://cmano-db.com/aircraft/466/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Wild Weasel",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.0 m",
+                "Length": " 22.7 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1988",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "Generic OECM [Advanced] - (1980s) ECM\n\t\t\t\t\tOECM, Offensive ECM Max Range: 0 km",
+            "Little Owl [Sych-M] - (1980s) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air & Air-to-Surface, Short-Range Max Range: 74.1 km",
+            "SPS-151/152/153 Lyutik - (MiG-25BM) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "Emitter Location System [Jaguar] - (MiG-25BM AS-11 Targeting) ESM\n\t\t\t\t\tEmitter Locator (For ARM Missiles) Max Range: 222.2 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " AS-11 Kilter [Kh-58U, ARM, Semi-Ballistic] -\n\t\t\t\t(MiG-25BM) Guided Weapon\n\t\t\t\tSurface Max: 240.8 km. Land Max: 240.8 km. "
+        ]
+    },
+    {
+        "title": "MiG-25RBSh Foxbat D - 1982, SLAR",
+        "url": "http://cmano-db.com/aircraft/440/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 39830 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1982",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Kub] - (MiG-25, Tu-22RDK) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "SLAR [Tompol] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25, NATO Name?) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25PD Foxbat E - 1984",
+        "url": "http://cmano-db.com/aircraft/227/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Fighter",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 14.0 m",
+                "Height": " 6.3 m",
+                "Length": " 19.75 m",
+                "Max Payload": " 3000 kg",
+                "Empty Weight": " 20020 kg",
+                "Max Weight": " 36720 kg",
+                "Operator": " Air Defence Troops [PVO]",
+                "Commissioned": " 1984",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "High Lark 4 [RP-25MN Sapfir-25] - (MiG-25) Radar\n\t\t\t\t\tRadar, FCR, Air-to-Air, Medium-Range Max Range: 166.7 km",
+            "IRST [TP-26Sh1] - (MiG-25PD) Infrared\n\t\t\t\t\tIRST, Non-Imaging Infrared Search and Track Max Range: 74.1 km"
+        ],
+        "Weapons / Loadouts": [
+            " AA-6 Acrid D [R-40TD, IR] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            "AA-6 Acrid C [R-40RD, SARH] -\n\t\t\t\t(1980) Guided Weapon\n\t\t\t\tAir Max: 83.3 km. ",
+            " AA-8 Aphid [R-60M] -\n\t\t\t\t(1983) Guided Weapon\n\t\t\t\tAir Max: 9.3 km. ",
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n"
+        ]
+    },
+    {
+        "title": "MiG-25RB Foxbat B - 1972, Bomb",
+        "url": "http://cmano-db.com/aircraft/226/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 41200 kg",
+                "Operator": " Frontal Aviation [VVS]",
+                "Commissioned": " 1972",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "SPO-3 Sirena-3 -  ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Generic Visual Reconnaissance Camera - (4x Magnification) Visual\n\t\t\t\t\tVisual, Reconnaissance Frame Camera Max Range: 9.3 km",
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km",
+            "SRS-4B Romb - (MiG-25RB, Izdeliyie 30) ESM\n\t\t\t\t\tELINT Max Range: 926 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " FAB-500M-62T GPB -\n\t\t\t\t(Heat-Insulated) Bomb\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. ",
+            "RN-40 Tactical Bomb [30kT Nuclear] -\n\t\t\t\t(Russia, 8U-64, MiG-23, MiG-27, MiG-29 (9-12)) Bomb\n\t\t\t\tSurface Max: 5.6 km. Land Max: 5.6 km. "
+        ]
+    },
+    {
+        "title": "MiG-25RB Foxbat B - 1981, 8x, SPS-141M",
+        "url": "http://cmano-db.com/aircraft/200/",
+        "Country/Type": "Iraq",
+        "General data": [
+            {
+                "Type": " Recon",
+                "Crew": " 1",
+                "Min Speed": " 350 kt",
+                "Max Speed": " 1350 kt",
+                "Wingspan": " 13.4 m",
+                "Height": " 6.3 m",
+                "Length": " 21.6 m",
+                "Max Payload": " 4000 kg",
+                "Empty Weight": " 20755 kg",
+                "Max Weight": " 41200 kg",
+                "Operator": " Air Force",
+                "Commissioned": " 1981",
+                "Propulsion": " 2x R-15BD-300",
+                "\n\t\t\t\t\t\tDecommissioned": " 2003\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "SLAR [Kub-3M] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tSLAR, Side-Looking Airborne Radar Max Range: 74.1 km",
+            "SPO-3 Sirena-3 - (MiG-25, NATO Name?) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Generic Visual Reconnaissance Camera - (4x Magnification) Visual\n\t\t\t\t\tVisual, Reconnaissance Frame Camera Max Range: 9.3 km",
+            "SRS-4B Romb - (MiG-25RB, Izdeliyie 30) ESM\n\t\t\t\t\tELINT Max Range: 926 km",
+            "SPS-141M Siren - (Internal, Anti-HAWK, MiG-23, -25, -27) ECM\n\t\t\t\t\tDECM, Defensive ECM Max Range: 0 km"
+        ],
+        "Weapons / Loadouts": [
+            "5280 liter Drop Tank -\n\t\t\t\t Drop Tank\n",
+            " FAB-500M-62T GPB -\n\t\t\t\t(Heat-Insulated) Bomb\n\t\t\t\tSurface Max: 3.7 km. Land Max: 3.7 km. "
+        ]
+    },
+    {
+        "title": "Emitter Location System [Jaguar] (MiG-25BM AS-11 Targeting)",
+        "url": "http://cmano-db.com/sensor/4302/",
+        "Country/Type": "ESM",
+        "General data": [
+            {
+                "Type": " ESM",
+                "Altitude Max": " 0 m",
+                "Range Max": " 222.2 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0 km",
+                "Generation": " Early 1990s"
+            }
+        ],
+        "Sensors / EW": [
+            "Emitter Location System [Jaguar] - (MiG-25BM AS-11 Targeting) ESM\n\t\t\t\t\tRole: Emitter Locator (For ARM Missiles) Max Range: 222.2 km"
+        ]
+    },
+    {
+        "title": "Fox Flat SLAR [Shompol] (MiG-25RBS)",
+        "url": "http://cmano-db.com/sensor/4128/",
+        "Country/Type": "Radar",
+        "General data": [
+            {
+                "Type": " Radar",
+                "Altitude Max": " 0 m",
+                "Range Max": " 74.1 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0.4 km",
+                "Generation": " Early 1980s"
+            }
+        ],
+        "Properties": [
+            "Properties: Moving Target Indicator (MTI), Pulse-only Radar, Synthetic Aperture Radar (SAR)"
+        ],
+        "Sensors / EW": [
+            "Fox Flat SLAR [Shompol] - (MiG-25RBS) Radar\n\t\t\t\t\tRole: SLAR, Side-Looking Airborne Radar Max Range: 74.1 km"
+        ]
+    },
+    {
+        "title": "SPS-151/152/153 Lyutik (MiG-25BM)",
+        "url": "http://cmano-db.com/sensor/3110/",
+        "Country/Type": "ECM",
+        "General data": [
+            {
+                "Type": " ECM",
+                "Altitude Max": " 0 m",
+                "Range Max": " 0 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0 km",
+                "Generation": " Late 1970s"
+            }
+        ],
+        "Sensors / EW": [
+            "SPS-151/152/153 Lyutik - (MiG-25BM) ECM\n\t\t\t\t\tRole: DECM, Defensive ECM Max Range: 0 km"
+        ]
+    },
+    {
+        "title": "IRST [TP-26Sh1] (MiG-25PD)",
+        "url": "http://cmano-db.com/sensor/2745/",
+        "Country/Type": "Infrared",
+        "General data": [
+            {
+                "Type": " Infrared",
+                "Altitude Max": " 0 m",
+                "Range Max": " 74.1 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0 km",
+                "Generation": " Infrared, Non-Imaging"
+            }
+        ],
+        "Properties": [
+            "Properties: Continuous Tracking Capability [Visual]"
+        ],
+        "Sensors / EW": [
+            "IRST [TP-26Sh1] - (MiG-25PD) Infrared\n\t\t\t\t\tRole: IRST, Non-Imaging Infrared Search and Track Max Range: 74.1 km"
+        ]
+    },
+    {
+        "title": "SRS-9 Virzh (MiG-25RBV, Izdeliyie 31)",
+        "url": "http://cmano-db.com/sensor/2056/",
+        "Country/Type": "ESM",
+        "General data": [
+            {
+                "Type": " ESM",
+                "Altitude Max": " 0 m",
+                "Range Max": " 926 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0 km",
+                "Generation": " Late 1970s"
+            }
+        ],
+        "Sensors / EW": [
+            "SRS-9 Virzh - (MiG-25RBV, Izdeliyie 31) ESM\n\t\t\t\t\tRole: ELINT Max Range: 926 km"
+        ]
+    },
+    {
+        "title": "SRS-4B Romb (MiG-25RB, Izdeliyie 30)",
+        "url": "http://cmano-db.com/sensor/2043/",
+        "Country/Type": "ESM",
+        "General data": [
+            {
+                "Type": " ESM",
+                "Altitude Max": " 0 m",
+                "Range Max": " 926 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0 km",
+                "Generation": " Early 1970s"
+            }
+        ],
+        "Sensors / EW": [
+            "SRS-4B Romb - (MiG-25RB, Izdeliyie 30) ESM\n\t\t\t\t\tRole: ELINT Max Range: 926 km"
+        ]
+    },
+    {
+        "title": "SPS-151/152 (MiG-25RB)",
+        "url": "http://cmano-db.com/sensor/1958/",
+        "Country/Type": "ECM",
+        "General data": [
+            {
+                "Type": " ECM",
+                "Altitude Max": " 0 m",
+                "Range Max": " 0 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0 km",
+                "Generation": " Late 1970s"
+            }
+        ],
+        "Sensors / EW": [
+            "SPS-151/152 - (MiG-25RB) ECM\n\t\t\t\t\tRole: DECM, Defensive ECM Max Range: 0 km"
+        ]
+    },
+    {
+        "title": "High Lark 4 [RP-25MN Sapfir-25] (MiG-25)",
+        "url": "http://cmano-db.com/sensor/592/",
+        "Country/Type": "Radar",
+        "General data": [
+            {
+                "Type": " Radar",
+                "Altitude Max": " 0 m",
+                "Range Max": " 166.7 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0.4 km",
+                "Generation": " Late 1970s"
+            }
+        ],
+        "Properties": [
+            "Properties: Pulse Doppler Radar (Limited LDSD Capability), Continuous Wave Illumination"
+        ],
+        "Sensors / EW": [
+            "High Lark 4 [RP-25MN Sapfir-25] - (MiG-25) Radar\n\t\t\t\t\tRole: Radar, FCR, Air-to-Air, Medium-Range Max Range: 166.7 km"
+        ]
+    },
+    {
+        "title": "Fox Fire [RP-SA Smerch-A3] (MiG-25P)",
+        "url": "http://cmano-db.com/sensor/591/",
+        "Country/Type": "Radar",
+        "General data": [
+            {
+                "Type": " Radar",
+                "Altitude Max": " 0 m",
+                "Range Max": " 111.1 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0.4 km",
+                "Generation": " Late 1960s"
+            }
+        ],
+        "Properties": [
+            "Properties: Pulse-only Radar, Continuous Wave Illumination"
+        ],
+        "Sensors / EW": [
+            "Fox Fire [RP-SA Smerch-A3] - (MiG-25P) Radar\n\t\t\t\t\tRole: Radar, FCR, Air-to-Air, Medium-Range Max Range: 111.1 km"
+        ]
+    },
+    {
+        "title": "SLAR [Virazh] (MiG-25, NATO Name?)",
+        "url": "http://cmano-db.com/sensor/506/",
+        "Country/Type": "Radar",
+        "General data": [
+            {
+                "Type": " Radar",
+                "Altitude Max": " 0 m",
+                "Range Max": " 74.1 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0.4 km",
+                "Generation": " Late 1970s"
+            }
+        ],
+        "Properties": [
+            "Properties: Moving Target Indicator (MTI), Pulse-only Radar, Synthetic Aperture Radar (SAR)"
+        ],
+        "Sensors / EW": [
+            "SLAR [Virazh] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tRole: SLAR, Side-Looking Airborne Radar Max Range: 74.1 km"
+        ]
+    },
+    {
+        "title": "SLAR [Kub-3M] (MiG-25, NATO Name?)",
+        "url": "http://cmano-db.com/sensor/499/",
+        "Country/Type": "Radar",
+        "General data": [
+            {
+                "Type": " Radar",
+                "Altitude Max": " 0 m",
+                "Range Max": " 74.1 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0.4 km",
+                "Generation": " Late 1970s"
+            }
+        ],
+        "Properties": [
+            "Properties: Moving Target Indicator (MTI), Pulse-only Radar, Synthetic Aperture Radar (SAR)"
+        ],
+        "Sensors / EW": [
+            "SLAR [Kub-3M] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tRole: SLAR, Side-Looking Airborne Radar Max Range: 74.1 km"
+        ]
+    },
+    {
+        "title": "Fox Flat SLAR [Sabla] (MiG-25RBS)",
+        "url": "http://cmano-db.com/sensor/497/",
+        "Country/Type": "Radar",
+        "General data": [
+            {
+                "Type": " Radar",
+                "Altitude Max": " 0 m",
+                "Range Max": " 74.1 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0.4 km",
+                "Generation": " Late 1970s"
+            }
+        ],
+        "Properties": [
+            "Properties: Moving Target Indicator (MTI), Pulse-only Radar, Synthetic Aperture Radar (SAR)"
+        ],
+        "Sensors / EW": [
+            "Fox Flat SLAR [Sabla] - (MiG-25RBS) Radar\n\t\t\t\t\tRole: SLAR, Side-Looking Airborne Radar Max Range: 74.1 km"
+        ]
+    },
+    {
+        "title": "SLAR [Tompol] (MiG-25, NATO Name?)",
+        "url": "http://cmano-db.com/sensor/496/",
+        "Country/Type": "Radar",
+        "General data": [
+            {
+                "Type": " Radar",
+                "Altitude Max": " 0 m",
+                "Range Max": " 74.1 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0.4 km",
+                "Generation": " Late 1970s"
+            }
+        ],
+        "Properties": [
+            "Properties: Moving Target Indicator (MTI), Pulse-only Radar, Synthetic Aperture Radar (SAR)"
+        ],
+        "Sensors / EW": [
+            "SLAR [Tompol] - (MiG-25, NATO Name?) Radar\n\t\t\t\t\tRole: SLAR, Side-Looking Airborne Radar Max Range: 74.1 km"
+        ]
+    },
+    {
+        "title": "ELINT [Tangazh] (MiG-25RBT)",
+        "url": "http://cmano-db.com/sensor/491/",
+        "Country/Type": "ESM",
+        "General data": [
+            {
+                "Type": " ESM",
+                "Altitude Max": " 0 m",
+                "Range Max": " 926 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0 km",
+                "Generation": " Early 1970s"
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Tangazh] - (MiG-25RBT) ESM\n\t\t\t\t\tRole: ELINT Max Range: 926 km"
+        ]
+    },
+    {
+        "title": "ELINT [Kub] (MiG-25, Tu-22RDK)",
+        "url": "http://cmano-db.com/sensor/490/",
+        "Country/Type": "ESM",
+        "General data": [
+            {
+                "Type": " ESM",
+                "Altitude Max": " 0 m",
+                "Range Max": " 926 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0 km",
+                "Generation": " Early 1970s"
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Kub] - (MiG-25, Tu-22RDK) ESM\n\t\t\t\t\tRole: ELINT Max Range: 926 km"
+        ]
+    },
+    {
+        "title": "ELINT [Shar] (MiG-25RBF)",
+        "url": "http://cmano-db.com/sensor/487/",
+        "Country/Type": "ESM",
+        "General data": [
+            {
+                "Type": " ESM",
+                "Altitude Max": " 0 m",
+                "Range Max": " 926 km",
+                "Altitude Min": " 0 m",
+                "Range Min": " 0 km",
+                "Generation": " Early 1970s"
+            }
+        ],
+        "Sensors / EW": [
+            "ELINT [Shar] - (MiG-25RBF) ESM\n\t\t\t\t\tRole: ELINT Max Range: 926 km"
+        ]
+    },
+    {
+        "title": "AS-11 Kilter [Kh-58U, ARM, Semi-Ballistic] (MiG-25BM)",
+        "url": "http://cmano-db.com/weapon/638/",
+        "Country/Type": "Guided Weapon",
+        "General data": [
+            {
+                "Type": " Guided Weapon",
+                "Weight": " 640.0 kg",
+                "Length": " 4.81 m",
+                "Span": " 1.45 m",
+                "Diameter": " 0.38",
+                "Generation": " None"
+            }
+        ],
+        "Properties": [
+            "Targets: Radar"
+        ],
+        "Sensors / EW": [
+            "Passive Radar Seeker - (AS-11) ESM\n\t\t\t\t\tWeapon Seeker, Anti-Radiation Max Range: 240.8 km"
+        ],
+        "Weapons": [
+            " AS-11 Kilter [Kh-58U, ARM, Semi-Ballistic] -\n\t\t\t\t(MiG-25BM) Guided Weapon\n\t\t\t\tSurface Max: 240.8 km. Land Max: 240.8 km.  "
+        ]
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "title": "J/NOLQ-2 [ECM] (Kongo)",
+        "url": "http://cmano-db.com/sensor/1117/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'J/NOLQ-2 [ECM]', ' - (Kongo) ECM', 'Role: OECM & DECM, Offensive & Defensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "J/NOLR-6 (Assoc w OLR-3)",
+        "url": "http://cmano-db.com/sensor/1116/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'J/NOLR-6', ' - (Assoc w OLR-3) ESM', 'Role: ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "AN/ALR-62(V)4 TTWS Compass Sail (EF-111A)",
+        "url": "http://cmano-db.com/sensor/1114/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 222.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/ALR-62(V)4 TTWS Compass Sail', ' - (EF-111A) ESM', 'Role: RWR, Radar Warning Receiver', ' Max Range: 222.2 km', '', '', '']"
+    },
+    {
+        "title": "J/OLT-3 (Assoc w NOLR-6)",
+        "url": "http://cmano-db.com/sensor/1113/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'J/OLT-3', ' - (Assoc w NOLR-6) ECM', 'Role: OECM & DECM, Offensive & Defensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "Rim Hat [Kremlin-2] ",
+        "url": "http://cmano-db.com/sensor/1112/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 222.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Rim Hat [Kremlin-2]', ' -ESM', 'Role: RWR, Radar Warning Receiver', ' Max Range: 222.2 km', '', '', '']"
+    },
+    {
+        "title": "Rum Tub [MP-404] (Pair, OTH Targeting, Assoc w Side Globes/Bell Nip)",
+        "url": "http://cmano-db.com/sensor/1111/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Rum Tub [MP-404]', ' - (Pair, OTH Targeting, Assoc w Side Globes/Bell Nip) ESM', 'Role: ELINT w/ OTH Targeting', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "UAT-12 Sceptre XL (Upgraded, Albion)",
+        "url": "http://cmano-db.com/sensor/1110/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'UAT-12 Sceptre XL', ' - (Upgraded, Albion) ESM', 'Role: ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "UAT-8 Sceptre XL (Upgraded, Invincible)",
+        "url": "http://cmano-db.com/sensor/1109/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'UAT-8 Sceptre XL', ' - (Upgraded, Invincible) ESM', 'Role: ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "Side Globes [MP-403 Gorzuf] (Radome Pair, 1967)",
+        "url": "http://cmano-db.com/sensor/1108/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Side Globes [MP-403 Gorzuf]', ' - (Radome Pair, 1967) ECM', 'Role: OECM & DECM, Offensive & Defensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "Squid Head [MRP-25] (Bald Head + Rim Hat RWR Element)",
+        "url": "http://cmano-db.com/sensor/1107/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 222.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Squid Head [MRP-25]', ' - (Bald Head + Rim Hat RWR Element) ESM', 'Role: RWR, Radar Warning Receiver', ' Max Range: 222.2 km', '', '', '']"
+    },
+    {
+        "title": "Stop Light B [Nakat] (Golf Ball)",
+        "url": "http://cmano-db.com/sensor/1106/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 222.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Stop Light B [Nakat]', ' - (Golf Ball) ESM', 'Role: RWR, Radar Warning Receiver', ' Max Range: 222.2 km', '', '', '']"
+    },
+    {
+        "title": "Top Hat A [Krab-11] (Anti-Surface)",
+        "url": "http://cmano-db.com/sensor/1105/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1960s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Top Hat A [Krab-11]', ' - (Anti-Surface) ECM', 'Role: OECM, Offensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "Type 670 [ESM] ",
+        "url": "http://cmano-db.com/sensor/1104/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Type 670 [ESM]', ' -ESM', 'Role: ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "Type 670 (Group, 1983)",
+        "url": "http://cmano-db.com/sensor/1103/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Type 670 [ECM]', ' - (1983, RCM-3) ECM', 'OECM & DECM, Offensive & Defensive ECM', ' Max Range: 0 km', 'Type 670 [ESM]', ' - (1983, RCM-3) ESM', 'ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "Type 675 [ESM] ",
+        "url": "http://cmano-db.com/sensor/1102/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Type 675 [ESM]', ' -ESM', 'Role: ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "Type 675 (Group)",
+        "url": "http://cmano-db.com/sensor/1101/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Type 675 [ECM]', ' - (Group) ECM', 'OECM & DECM, Offensive & Defensive ECM', ' Max Range: 0 km', 'Type 675 [ESM]', ' - (Group) ESM', 'ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "PS-011/A (S7B, Draken)",
+        "url": "http://cmano-db.com/sensor/1099/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 37 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', 'Properties: Pulse-only Radar, Continuous Wave Illumination', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'PS-011/A', ' - (S7B, Draken) Radar', 'Role: Radar, FCR, Air-to-Air, Short-Range', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "Wine Flask [MP-405] ",
+        "url": "http://cmano-db.com/sensor/1098/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Wine Flask [MP-405]', ' -ECM', 'Role: OECM & DECM, Offensive & Defensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "Wine Glass [MP-407] (Ex-Football B, Assoc w Half Hat or Bell Bash)",
+        "url": "http://cmano-db.com/sensor/1097/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Wine Glass [MP-407]', ' - (Ex-Football B, Assoc w Half Hat or Bell Bash) ECM', 'Role: OECM & DECM, Offensive & Defensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "EN/Mk9500 Regulus [Comms Monitor] ",
+        "url": "http://cmano-db.com/sensor/1096/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 2000s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'EN/Mk9500 Regulus [Comms Monitor]', ' -ESM', 'Role: COMINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "AN/SLQ-32(V)2 (Group, 1983)",
+        "url": "http://cmano-db.com/sensor/1095/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/SLQ-32(V)2 [ESM]', ' - (Group, 1983) ESM', 'ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "AN/SLQ-32(V)5 [ESM] ",
+        "url": "http://cmano-db.com/sensor/1094/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/SLQ-32(V)5 [ESM]', ' -ESM', 'Role: ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "AN/SLQ-32(V)4 [ECM] ",
+        "url": "http://cmano-db.com/sensor/1093/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/SLQ-32(V)4 [ECM]', ' -ECM', 'Role: OECM & DECM, Offensive & Defensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "SPS-5 Fasol [OECM] (Su-24MP)",
+        "url": "http://cmano-db.com/sensor/1092/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SPS-5 Fasol [OECM]', ' - (Su-24MP) ECM', 'Role: OECM, Offensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "SPS-5 Fasol [OECM] (Tu-22, Noise Jammer)",
+        "url": "http://cmano-db.com/sensor/1091/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SPS-5 Fasol [OECM]', ' - (Tu-22, Noise Jammer) ECM', 'Role: OECM, Offensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "W-120 ",
+        "url": "http://cmano-db.com/sensor/1090/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 111.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.6 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'W-120', ' -Radar', 'Role: Radar, FCR, Surface-to-Air, Medium-Range', ' Max Range: 111.1 km', '', '', '']"
+    },
+    {
+        "title": "9LV200 Mk2 (Group, PE 727 Radar, 9LV223, 225, 228, 249, ArtE-726)",
+        "url": "http://cmano-db.com/sensor/1089/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', '9LV200 Mk2 [Radar]', ' - (Group, PE 727 Radar, 9LV223, 225, 228, 249, ArtE-726) Radar', 'Radar, FCR, Weapon Director', ' Max Range: 14.8 km', '9LV200 Mk2 [TV Camera]', ' - (Group, PE 727 Radar, 9LV223, 225, 228, 249, ArtE-726) Visual', 'Visual, Weapon Director TV Camera', ' Max Range: 148.2 km', '9LV200 Mk2 [IR]', ' - (Group, PE 727 Radar, 9LV223, 225, 228, 249, ArtE-726) Infrared', 'Infrared, Weapon Director Camera', ' Max Range: 148.2 km', '9LV200 Mk2 [Laser Rangefinder]', ' - (Group, PE 727 Radar, 9LV223, 225, 228, 249, ArtE-726) Laser Rangefinder', 'Laser Rangefinder for Weapon Director', ' Max Range: 7.4 km', '', '', '']"
+    },
+    {
+        "title": "WM.27 ",
+        "url": "http://cmano-db.com/sensor/1088/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 9144 m', '', '', '', 'Range Max: 118.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Track While Scan (TWS), Pulse Doppler Radar (Full LDSD Capability)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'WM.27', ' -Radar', 'Role: Radar, FCR, Surface-to-Surface w/ Torpedo', ' Max Range: 118.5 km', '', '', '']"
+    },
+    {
+        "title": "WM.25 (Low-Level AD, Missile FCS)",
+        "url": "http://cmano-db.com/sensor/1087/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 9144 m', '', '', '', 'Range Max: 118.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Track While Scan (TWS), Pulse Doppler Radar (Full LDSD Capability), Continuous Wave Illumination', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'WM.25', ' - (Low-Level AD, Missile FCS) Radar', 'Role: Radar Illuminator, Long-Range', ' Max Range: 118.5 km', '', '', '']"
+    },
+    {
+        "title": "WM.22 (Gun FCS, Larger Ships)",
+        "url": "http://cmano-db.com/sensor/1086/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 9144 m', '', '', '', 'Range Max: 59.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'WM.22', ' - (Gun FCS, Larger Ships) Radar', 'Role: Radar, FCR, Weapon Director', ' Max Range: 59.3 km', '', '', '']"
+    },
+    {
+        "title": "Sea Giraffe 50 HC (1984)",
+        "url": "http://cmano-db.com/sensor/1085/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 10058 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.7 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', 'Properties: Moving Target Indicator (MTI), Pulse Doppler Radar (Full LDSD Capability)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Sea Giraffe 50 HC', ' - (1984) Radar', 'Role: Radar, Target Indicator, 3D Surface-to-Air', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "AN/ALR-62 TTWS Compass Sail ",
+        "url": "http://cmano-db.com/sensor/1084/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 222.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/ALR-62 TTWS Compass Sail', ' -ESM', 'Role: RWR, Radar Warning Receiver', ' Max Range: 222.2 km', '', '', '']"
+    },
+    {
+        "title": "Bell Crown (Datalink antenna)",
+        "url": "http://cmano-db.com/sensor/1083/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: None', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 1481.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: None', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Bell Crown', ' - (Datalink antenna) None', 'Role: None', ' Max Range: 1481.6 km', '', '', '']"
+    },
+    {
+        "title": "Shahine Radar Tracker (Castor IIC?)",
+        "url": "http://cmano-db.com/sensor/1082/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 5182 m', '', '', '', 'Range Max: 29.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', 'Properties: Moving Target Indicator (MTI), Pulse Doppler Radar (Full LDSD Capability), Weapon FCR (No CW Illumination)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Shahine Radar Tracker', ' - (Castor IIC?) Radar', 'Role: Radar, FCR, Surface-to-Air, Short-Range', ' Max Range: 29.6 km', '', '', '']"
+    },
+    {
+        "title": "ARBB 33 (Group)",
+        "url": "http://cmano-db.com/sensor/1081/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'ARBB 33 [ECM]', ' - (Group) ECM', 'OECM & DECM, Offensive & Defensive ECM', ' Max Range: 0 km', 'ARBB 33 [RWR]', ' - (Group) ESM', 'RWR, Radar Warning Receiver', ' Max Range: 222.2 km', '', '', '']"
+    },
+    {
+        "title": "Generic Spotlight ",
+        "url": "http://cmano-db.com/sensor/1080/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0.9 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic Spotlight', ' -Visual', 'Role: Visual, Searchlight', ' Max Range: 0.9 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (A/MIM-7M/P)",
+        "url": "http://cmano-db.com/sensor/1079/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (A/MIM-7M/P) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "AN/ALQ-167 (Yellow Veil/Peril)",
+        "url": "http://cmano-db.com/sensor/1078/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/ALQ-167', ' - (Yellow Veil/Peril) ECM', 'Role: DECM, Defensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "AN/AQS-13F (SH-60F)",
+        "url": "http://cmano-db.com/sensor/1077/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Dipping Sonar, Active/Passive', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 7.4 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/AQS-13F', ' - (SH-60F) Dipping Sonar, Active/Passive', 'Role: Dipping Sonar, Active/Passive Search & Track', ' Max Range: 7.4 km', '', '', '']"
+    },
+    {
+        "title": "AN/ASQ-81(V)2 (SH-3H, SH-2D)",
+        "url": "http://cmano-db.com/sensor/1076/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: MAD', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 1.9 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/ASQ-81(V)2', ' - (SH-3H, SH-2D) MAD', 'Role: MAD', ' Max Range: 1.9 km', '', '', '']"
+    },
+    {
+        "title": "AN/APS-137(V)1 ISAR (S-3B)",
+        "url": "http://cmano-db.com/sensor/1075/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 370.4 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', 'Properties: Periscope/Surface Search - Fine Range Resolution + Rapid Scan [1980+], Track While Scan (TWS), Moving Target Indicator (MTI), Pulse-only Radar, Synthetic Aperture Radar (SAR)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/APS-137(V)1 ISAR', ' - (S-3B) Radar', 'Role: Radar, Surface Search, Long-Range', ' Max Range: 370.4 km', '', '', '']"
+    },
+    {
+        "title": "AN/ALR-76 ",
+        "url": "http://cmano-db.com/sensor/1074/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/ALR-76', ' -ESM', 'Role: ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "OR-236/AA (OR-5008/AA)",
+        "url": "http://cmano-db.com/sensor/1073/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 2nd Generation Imaging (1980s/1990s, LANTIRN, Litening)r)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'OR-236/AA', ' - (OR-5008/AA) Infrared', 'Role: Infrared, Surveillance Camera', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "Top Bow [Zalp-M2] (152mm GFCR)",
+        "url": "http://cmano-db.com/sensor/1072/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 37 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1950s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Top Bow [Zalp-M2]', ' - (152mm GFCR) Radar', 'Role: Radar, FCR, Weapon Director', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "AN/APG-66(V)3 MLU ",
+        "url": "http://cmano-db.com/sensor/1071/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 111.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1990s', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Track While Scan (TWS), Moving Target Indicator (MTI), Pulse Doppler Radar (Full LDSD Capability), Continuous Wave Illumination', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/APG-66(V)3 MLU', ' -Radar', 'Role: Radar, FCR, Air-to-Air & Air-to-Surface, Medium-Range', ' Max Range: 111.1 km', '', '', '']"
+    },
+    {
+        "title": "AN/WLR-18 Classic Salmon (Assoc w AN/WSQ-5)",
+        "url": "http://cmano-db.com/sensor/1070/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/WLR-18 Classic Salmon', ' - (Assoc w AN/WSQ-5) ESM', 'Role: COMINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "Mk92 Mod 2 CAS (GFCS, WM.28)",
+        "url": "http://cmano-db.com/sensor/1069/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 118.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Track While Scan (TWS), Pulse Doppler Radar (Full LDSD Capability), Weapon FCR (No CW Illumination)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Mk92 Mod 2 CAS', ' - (GFCS, WM.28) Radar', 'Role: Radar, FCR, Weapon Director', ' Max Range: 118.5 km', '', '', '']"
+    },
+    {
+        "title": "Tee Plinth ",
+        "url": "http://cmano-db.com/sensor/1068/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual, 1st Generation TV Camera (1960s/1970s, TISEO)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Tee Plinth', ' -Visual', 'Role: Visual, Surveillance TV Camera', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "Tin Man ",
+        "url": "http://cmano-db.com/sensor/1067/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 55.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual, 2nd Generation TV Camera (1980s/1990s, AXX-1 TCS)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Tin Man', ' -Visual', 'Role: Visual, Surveillance TV Camera', ' Max Range: 55.6 km', '', '', '']"
+    },
+    {
+        "title": "WM.22 Optronic ",
+        "url": "http://cmano-db.com/sensor/1066/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual, 1st Generation TV Camera (1960s/1970s, TISEO)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'WM.22 Optronic', ' -Visual', 'Role: Visual, Weapon Director & Target Tracking and Identification TV Camera', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "UAT-7 Sceptre XL (Upgraded, Type 23)",
+        "url": "http://cmano-db.com/sensor/1065/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'UAT-7 Sceptre XL', ' - (Upgraded, Type 23) ESM', 'Role: ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "China Type 726 Fin Curve [Decca 707 Copy] ",
+        "url": "http://cmano-db.com/sensor/1064/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 37 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'China Type 726 Fin Curve [Decca 707 Copy]', ' -Radar', 'Role: Radar, Surface Search & Navigation', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "3RM-20 (AN/SPS-63)",
+        "url": "http://cmano-db.com/sensor/1063/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', '3RM-20', ' - (AN/SPS-63) Radar', 'Role: Radar, Surface Search, Short-Range', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "RAN-11L/X ",
+        "url": "http://cmano-db.com/sensor/1062/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 46.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', 'Properties: Moving Target Indicator (MTI), Pulse Doppler Radar (Full LDSD Capability)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'RAN-11L/X', ' -Radar', 'Role: Radar, Target Indicator, 2D Surface-to-Air & Surface-to-Surface', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "W-160 ",
+        "url": "http://cmano-db.com/sensor/1061/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 19812 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Pulse Doppler Radar (Full LDSD Capability)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'W-160', ' -Radar', 'Role: Radar, Air & Surface Search, 3D Short-Range', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "HR-76 (H-930 Mod 2 GFCS)",
+        "url": "http://cmano-db.com/sensor/1060/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 9144 m', '', '', '', 'Range Max: 27.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Early 1950s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'HR-76', ' - (H-930 Mod 2 GFCS) Radar', 'Role: Radar, FCR, Weapon Director', ' Max Range: 27.8 km', '', '', '']"
+    },
+    {
+        "title": "China Type 343 Wasp Head (Group, 100mm FCS)",
+        "url": "http://cmano-db.com/sensor/1059/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'China Type 343 Sun Visor [Radar]', ' - (Group, 100mm FCS) Radar', 'Radar, FCR, Weapon Director', ' Max Range: 27.8 km', 'China Type 343 Wasp Head [Visual Director]', ' - (Group, 100mm FCS) Visual', 'Visual, Weapon Director TV Camera', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "China Type 347 (GFCR, 100mm, EFR-1, Rice Lamp)",
+        "url": "http://cmano-db.com/sensor/1058/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 37 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Continuous Tracking Capability [Target Tracking Radar], Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'China Type 347', ' - (GFCR, 100mm, EFR-1, Rice Lamp) Radar', 'Role: Radar, FCR, Weapon Director', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "Round Ball (GFCR, 30mm, 37mm)",
+        "url": "http://cmano-db.com/sensor/1057/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 9144 m', '', '', '', 'Range Max: 14.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Round Ball', ' - (GFCR, 30mm, 37mm) Radar', 'Role: Radar, FCR, Weapon Director', ' Max Range: 14.8 km', '', '', '']"
+    },
+    {
+        "title": "TRS 3033 Triton S ",
+        "url": "http://cmano-db.com/sensor/1056/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 46.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.6 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Moving Target Indicator (MTI), Pulse Doppler Radar (Full LDSD Capability)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'TRS 3033 Triton S', ' -Radar', 'Role: Radar, Target Indicator, 2D Surface-to-Air & Surface-to-Surface', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "NRBA-51 TACAN ",
+        "url": "http://cmano-db.com/sensor/1055/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'NRBA-51 TACAN', ' -Radar', 'Role: Radar, Air Traffic Control (ATC)', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "NAJA Turret [EO/Laser] (Group, 1977, DMAb)",
+        "url": "http://cmano-db.com/sensor/1054/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: None', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'NAJA [Optronic]', ' - (Group, 1977, DMAb) Visual', 'Visual, Weapon Director TV Camera', ' Max Range: 74.1 km', 'NAJA [Laser Rangefinder]', ' - (Group, 1977, DMAb) Laser Rangefinder', 'Laser Rangefinder for Weapon Director', ' Max Range: 7.4 km', '', '', '']"
+    },
+    {
+        "title": "Egg Cup (100mm GFCR)",
+        "url": "http://cmano-db.com/sensor/1053/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 9144 m', '', '', '', 'Range Max: 14.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Egg Cup', ' - (100mm GFCR) Radar', 'Role: Radar, FCR, Weapon Director', ' Max Range: 14.8 km', '', '', '']"
+    },
+    {
+        "title": "EN/Mk9500 Regulus [Comms Jammer] ",
+        "url": "http://cmano-db.com/sensor/1052/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 2000s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'EN/Mk9500 Regulus [Comms Jammer]', ' -ECM', 'Role: Communications Jammer', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "NAJA [Optronic] ",
+        "url": "http://cmano-db.com/sensor/1051/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual, 1st Generation TV Camera (1960s/1970s, TISEO)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'NAJA [Optronic]', ' -Visual', 'Role: Visual, Weapon Director TV Camera', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "Generic OECM [Advanced] (1980s)",
+        "url": "http://cmano-db.com/sensor/1050/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic OECM [Advanced]', ' - (1980s) ECM', 'Role: OECM, Offensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "Generic ESM [Average] (1980s)",
+        "url": "http://cmano-db.com/sensor/1049/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic ESM [Average]', ' - (1980s) ESM', 'Role: ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "Generic OECM [Average] (1970s)",
+        "url": "http://cmano-db.com/sensor/1048/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic OECM [Average]', ' - (1970s) ECM', 'Role: OECM, Offensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "Generic ESM [Simple] (1970s)",
+        "url": "http://cmano-db.com/sensor/1047/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic ESM [Simple]', ' - (1970s) ESM', 'Role: ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "Generic OECM [Simple] (1970s, CW Jamming)",
+        "url": "http://cmano-db.com/sensor/1046/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic OECM [Simple]', ' - (1970s, CW Jamming) ECM', 'Role: OECM, Offensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "J/HLQ-101 (P-2J)",
+        "url": "http://cmano-db.com/sensor/1045/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'J/HLQ-101', ' - (P-2J) ESM', 'Role: ELINT', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "J/OLR-9B ",
+        "url": "http://cmano-db.com/sensor/1044/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 222.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'J/OLR-9B', ' -ESM', 'Role: RWR, Radar Warning Receiver', ' Max Range: 222.2 km', '', '', '']"
+    },
+    {
+        "title": "AN/BPS-15A ",
+        "url": "http://cmano-db.com/sensor/1043/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 166.7 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/BPS-15A', ' -Radar', 'Role: Radar, Surface Search, Medium-Range', ' Max Range: 166.7 km', '', '', '']"
+    },
+    {
+        "title": "Quad Loop DF ",
+        "url": "http://cmano-db.com/sensor/1042/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ESM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 926 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Quad Loop DF', ' -ESM', 'Role: HF/DF', ' Max Range: 926 km', '', '', '']"
+    },
+    {
+        "title": "GSA 7 Sea Archer Mk1 [TV/IR/Laser RF] (Group, 1987)",
+        "url": "http://cmano-db.com/sensor/1041/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'GSA 7 Sea Archer [TV]', ' - (Group, 1987) Visual', 'Visual, Weapon Director TV Camera', ' Max Range: 185.2 km', 'GSA 7 Sea Archer [Laser Rangefinder]', ' - (Group, 1987) Laser Rangefinder', 'Laser Rangefinder for Weapon Director', ' Max Range: 7.4 km', 'GSA 7 Sea Archer [IR]', ' - (Group, 1987) Infrared', 'Infrared, Weapon Director Camera', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "Mk51 [Mk115 MFCS] ",
+        "url": "http://cmano-db.com/sensor/1040/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 37 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Early 1960s', '', '', '', '', '', '', 'Properties: Pulse Doppler Radar (Full LDSD Capability), Continuous Wave Illumination', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Mk51 [Mk115 MFCS]', ' -Radar', 'Role: Radar Illuminator, Medium-Range', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "Mk51 ",
+        "url": "http://cmano-db.com/sensor/1039/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 27.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Mk51', ' -Visual', 'Role: Visual, Optical Sight', ' Max Range: 27.8 km', '', '', '']"
+    },
+    {
+        "title": "SPS-6 Los (Tu-16)",
+        "url": "http://cmano-db.com/sensor/1038/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SPS-6 Los', ' - (Tu-16) ECM', 'Role: OECM, Offensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "PN-621 [Scanter] (1985)",
+        "url": "http://cmano-db.com/sensor/1037/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 46.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'PN-621 [Scanter]', ' - (1985) Radar', 'Role: Radar, Surface Search & Navigation', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "J/OPS-20 ",
+        "url": "http://cmano-db.com/sensor/1036/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 46.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'J/OPS-20', ' -Radar', 'Role: Radar, Surface Search & Navigation', ' Max Range: 46.3 km', '', '', '']"
+    },
+    {
+        "title": "Mirador IV (Crotale ACU (Acquisition and Co-ordination Unit))",
+        "url": "http://cmano-db.com/sensor/1035/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 7620 m', '', '', '', 'Range Max: 18.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Track While Scan (TWS), Pulse Doppler Radar (Full LDSD Capability)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Mirador IV', ' - (Crotale ACU (Acquisition and Co-ordination Unit)) Radar', 'Role: Radar, Target Indicator, 2D Surface-to-Air', ' Max Range: 18.5 km', '', '', '']"
+    },
+    {
+        "title": "EDIR (Crotale IR)",
+        "url": "http://cmano-db.com/sensor/1034/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Infrared', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Infrared, 2nd Generation Imaging (1980s/1990s, LANTIRN, Litening)r)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'EDIR', ' - (Crotale IR) Infrared', 'Role: Infrared, Target Tracking and Identification Camera', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "Crotale TV Tracker ",
+        "url": "http://cmano-db.com/sensor/1033/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual, 1st Generation TV Camera (1960s/1970s, TISEO)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Crotale TV Tracker', ' -Visual', 'Role: Visual, Target Tracking and Identification TV Camera', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "Half Bow [Zalp] (100mm GFCR)",
+        "url": "http://cmano-db.com/sensor/1032/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 9144 m', '', '', '', 'Range Max: 14.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Half Bow [Zalp]', ' - (100mm GFCR) Radar', 'Role: Radar, FCR, Weapon Director', ' Max Range: 14.8 km', '', '', '']"
+    },
+    {
+        "title": "Active Radar Seeker (AAM MR, AIM-120A/B)",
+        "url": "http://cmano-db.com/sensor/1031/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 9.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', 'Properties: Pulse Doppler Radar (Full LDSD Capability)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Active Radar Seeker', ' - (AAM MR, AIM-120A/B) Radar', 'Role: Weapon Seeker, Active Radar', ' Max Range: 9.3 km', '', '', '']"
+    },
+    {
+        "title": "AN/ALQ-162 Shadowbox II ",
+        "url": "http://cmano-db.com/sensor/1030/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/ALQ-162 Shadowbox II', ' -ECM', 'Role: DECM, Defensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "Torpedo Seeker (Stingray Sonar Mod 0)",
+        "url": "http://cmano-db.com/sensor/1029/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Hull Sonar, Active/Passive', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 1.9 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Torpedo Seeker', ' - (Stingray Sonar Mod 0) Hull Sonar, Active/Passive', 'Role: Torpedo Seeker, Active/Passive', ' Max Range: 1.9 km', '', '', '']"
+    },
+    {
+        "title": "Torpedo Seeker (Tp 43 Passive Anti-Submarine, Small-Caliber)",
+        "url": "http://cmano-db.com/sensor/1028/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Hull Sonar, Passive-Only', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0.9 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', 'Properties: Shallow Water Capable (Partial)', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Torpedo Seeker', ' - (Tp 43 Passive Anti-Submarine, Small-Caliber) Hull Sonar, Passive-Only', 'Role: Torpedo Seeker, Passive-Only Shallow Water', ' Max Range: 0.9 km', '', '', '']"
+    },
+    {
+        "title": "Torpedo Seeker (L4 [AS-4T], ASW)",
+        "url": "http://cmano-db.com/sensor/1027/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Hull Sonar, Active/Passive', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 1.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1960s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Torpedo Seeker', ' - (L4 [AS-4T], ASW) Hull Sonar, Active/Passive', 'Role: Torpedo Seeker, Active/Passive', ' Max Range: 1.1 km', '', '', '']"
+    },
+    {
+        "title": "Torpedo Seeker (Tp 611)",
+        "url": "http://cmano-db.com/sensor/1026/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Hull Sonar, Active/Passive', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0.9 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Torpedo Seeker', ' - (Tp 611) Hull Sonar, Active/Passive', 'Role: Torpedo Seeker, Active/Passive', ' Max Range: 0.9 km', '', '', '']"
+    },
+    {
+        "title": "Generic LLTV (2nd Gen, Weapon Director & Target Tracking And Identification)",
+        "url": "http://cmano-db.com/sensor/1025/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: LLTV, 2nd Generation (1980s/1990s)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], LLTV / NVG / CCD (Night-Capable) / Searchlight [Visual Night-Capable]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic LLTV', ' - (2nd Gen, Weapon Director & Target Tracking And Identification) Visual', 'Role: LLTV, Weapon Director & Target Tracking and Identification', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "Mk95 [Radar] (MFCR, Mk91 FCS)",
+        "url": "http://cmano-db.com/sensor/1024/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 118.5 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', 'Properties: Pulse Doppler Radar (Full LDSD Capability), Continuous Wave Illumination', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Mk95 [Radar]', ' - (MFCR, Mk91 FCS) Radar', 'Role: Radar Illuminator, Medium-Range', ' Max Range: 118.5 km', '', '', '']"
+    },
+    {
+        "title": "Mk95 [EO] (Mk6 Mod 0, Mk91 FCS)",
+        "url": "http://cmano-db.com/sensor/1023/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual, 2nd Generation TV Camera (1980s/1990s, AXX-1 TCS)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Mk95 [EO]', ' - (Mk6 Mod 0, Mk91 FCS) Visual', 'Role: Visual, Target Tracking and Identification TV Camera', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "GSA 7 Sea Archer Mk1 [TV/Laser] (Group, UK)",
+        "url": "http://cmano-db.com/sensor/1022/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Sensor Group', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Not Applicable (N/A)', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'GSA 7 Sea Archer [TV]', ' - (Group, UK) Visual', 'Visual, Weapon Director TV Camera', ' Max Range: 185.2 km', 'GSA 7 Sea Archer [Laser Rangefinder]', ' - (Group, UK) Laser Rangefinder', 'Laser Rangefinder for Weapon Director', ' Max Range: 7.4 km', '', '', '']"
+    },
+    {
+        "title": "SPS-63/66/68 Azaliya [OECM] (Mi-8PPA)",
+        "url": "http://cmano-db.com/sensor/1021/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: ECM', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SPS-63/66/68 Azaliya [OECM]', ' - (Mi-8PPA) ECM', 'Role: OECM, Offensive ECM', ' Max Range: 0 km', '', '', '']"
+    },
+    {
+        "title": "Generic Optical Sight (Anti-Air & Surface)",
+        "url": "http://cmano-db.com/sensor/1020/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 27.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Generic Optical Sight', ' - (Anti-Air & Surface) Visual', 'Role: Visual, Optical Sight', ' Max Range: 27.8 km', '', '', '']"
+    },
+    {
+        "title": "RTN-10X (Orion 10X) + RTN-12 Sirio CW (1973, MFCS)",
+        "url": "http://cmano-db.com/sensor/1019/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 9144 m', '', '', '', 'Range Max: 37 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', 'Properties: Pulse Doppler Radar (Full LDSD Capability), Continuous Wave Illumination', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'RTN-10X (Orion 10X) + RTN-12 Sirio CW', ' - (1973, MFCS) Radar', 'Role: Radar Illuminator, Medium-Range', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "TRS 3100 Calypso III [DRUA 33C] ",
+        "url": "http://cmano-db.com/sensor/1018/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 30480 m', '', '', '', 'Range Max: 37 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.4 km', '', 'Generation: Early 1960s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'TRS 3100 Calypso III [DRUA 33C]', ' -Radar', 'Role: Radar, Target Indicator, 2D Surface-to-Air & Surface-to-Surface', ' Max Range: 37 km', '', '', '']"
+    },
+    {
+        "title": "ZW.03 ",
+        "url": "http://cmano-db.com/sensor/1017/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 1981 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1950s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'ZW.03', ' -Radar', 'Role: Radar, Air & Surface Search, 3D Short-Range', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "M.45 (GFCS, M40)",
+        "url": "http://cmano-db.com/sensor/1016/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 9144 m', '', '', '', 'Range Max: 29.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'M.45', ' - (GFCS, M40) Radar', 'Role: Radar, FCR, Weapon Director', ' Max Range: 29.6 km', '', '', '']"
+    }
+]

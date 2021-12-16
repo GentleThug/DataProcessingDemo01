@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Grave Stone [92N2] (SA-21, ABM Capable?)",
+        "url": "http://cmano-db.com/sensor/4155/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 398.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.2 km', '', 'Generation: Late 2000s', '', '', '', '', '', '', 'Properties: Pulse Doppler Radar (Full LDSD Capability), Interrupted Continuous Wave Illumination', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Grave Stone [92N2]', ' - (SA-21, ABM Capable?) Radar', 'Role: Radar, FCR, Surface-to-Air, Long-Range', ' Max Range: 398.2 km', '', '', '']"
+    },
+    {
+        "title": "AN/APN-239 [RDR 1400C] ",
+        "url": "http://cmano-db.com/sensor/4154/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Radar', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0.6 km', '', 'Generation: Early 1990s', '', '', '', '', '', '', 'Properties: Pulse-only Radar', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'AN/APN-239 [RDR 1400C]', ' -Radar', 'Role: Radar, Surface Search, Medium-Range', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (AA-2b)",
+        "url": "http://cmano-db.com/sensor/4153/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (AA-2b) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-19)",
+        "url": "http://cmano-db.com/sensor/4152/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 148.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-19) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 148.2 km', '', '', '']"
+    },
+    {
+        "title": "SA-3 TV Camera ",
+        "url": "http://cmano-db.com/sensor/4150/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Visual', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 74.1 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Visual, 1st Generation TV Camera (1960s/1970s, TISEO)', '', '', '', '', '', '', 'Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual]', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SA-3 TV Camera', ' -Visual', 'Role: Visual, Target Tracking and Identification TV Camera', ' Max Range: 74.1 km', '', '', '']"
+    },
+    {
+        "title": "Torpedo Seeker (A.184 Mod 1, ASW Only)",
+        "url": "http://cmano-db.com/sensor/4149/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Hull Sonar, Active/Passive', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 1.4 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Torpedo Seeker', ' - (A.184 Mod 1, ASW Only) Hull Sonar, Active/Passive', 'Role: Torpedo Seeker, Active/Passive', ' Max Range: 1.4 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-17)",
+        "url": "http://cmano-db.com/sensor/4148/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 296.3 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1990s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-17) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 296.3 km', '', '', '']"
+    },
+    {
+        "title": "Torpedo Seeker (L5 Mod 1/3/4 [AS-5T], ASW Only)",
+        "url": "http://cmano-db.com/sensor/4145/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Hull Sonar, Active/Passive', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1970s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Torpedo Seeker', ' - (L5 Mod 1/3/4 [AS-5T], ASW Only) Hull Sonar, Active/Passive', 'Role: Torpedo Seeker, Active/Passive', ' Max Range: 0.6 km', '', '', '']"
+    },
+    {
+        "title": "SARH Seeker (SA-11)",
+        "url": "http://cmano-db.com/sensor/4144/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Semi-Active', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 185.2 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'SARH Seeker', ' - (SA-11) Semi-Active', 'Role: Weapon Seeker, Semi-Active Radar Homing (SARH)', ' Max Range: 185.2 km', '', '', '']"
+    },
+    {
+        "title": "Torpedo Seeker (USET-80, ASW Only)",
+        "url": "http://cmano-db.com/sensor/4143/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Hull Sonar, Active/Passive', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 2.8 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Early 1980s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Torpedo Seeker', ' - (USET-80, ASW Only) Hull Sonar, Active/Passive', 'Role: Torpedo Seeker, Active/Passive & Wake Homer (WH)', ' Max Range: 2.8 km', '', '', '']"
+    },
+    {
+        "title": "Torpedo Seeker (SET-53M, ASW, Act/Pas)",
+        "url": "http://cmano-db.com/sensor/4142/",
+        "content": "['', '', '', '', 'General data:', '', '', '', '', '', '', 'Type: Hull Sonar, Passive-Only', '', 'Altitude Max: 0 m', '', '', '', 'Range Max: 0.6 km', '', 'Altitude Min: 0 m', '', '', '', 'Range Min: 0 km', '', 'Generation: Late 1960s', '', '', '', '', '', '', '', 'Sensors / EW:', '', '', '', '', 'Torpedo Seeker', ' - (SET-53M, ASW, Act/Pas) Hull Sonar, Passive-Only', 'Role: Torpedo Seeker, Passive-Only', ' Max Range: 0.6 km', '', '', '']"
+    }
+]
