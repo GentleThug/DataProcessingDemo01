@@ -9,9 +9,9 @@
 import json
 
 if __name__ == '__main__':
-    with open('cmano_cw/aircraft_cw全部3838.json', 'r', encoding='utf-8') as f:
+    with open('cmano_cw/submarine_cw全部519.json', 'r', encoding='utf-8') as f:
         file1 = json.load(f)
-    with open('cmano_db/aircraft全部5231.json', 'r', encoding='utf-8') as f:
+    with open('cmano_db/submarine全部646.json', 'r', encoding='utf-8') as f:
         file2 = json.load(f)
     count = 0
     con = []
@@ -24,15 +24,14 @@ if __name__ == '__main__':
                 # print(file2[j]['title'] )
             if file1[i]['title'] == file2[j]['title']:
                 # print( file1[i]['title'] ,file2[j]['title'])
-                # con.append(file1[i])
-                # con.append(file2[j])
+                con.append(file1[i])
+                con.append(file2[j])
 
                 if file1[i]['Country/Type'] == file2[j]['Country/Type']:
                     pass
                 else:
                     print(file1[i]['title'])
-                    con.append(file1[i])
-                    con.append(file2[j])
+
                     # con["Country/Type"] = '相同'
 
                 #
@@ -49,6 +48,6 @@ if __name__ == '__main__':
                 break
             # data.append(con)
     # print(count)
-    with open('cmano_db_cw/aircraft国家重复数据' + str(len(con)//2) + '.json', 'w', encoding='utf-8') as f:
+    with open('cmano_db_cw/submarine重复数据' + str(len(con)//2) + '.json', 'w', encoding='utf-8') as f:
         json.dump(con, f, indent=4, ensure_ascii=False)
     # print(json.dumps(con, indent=4, ensure_ascii=False))

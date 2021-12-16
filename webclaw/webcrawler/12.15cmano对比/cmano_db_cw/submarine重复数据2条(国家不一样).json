@@ -1,0 +1,128 @@
+[
+    {
+        "title": "PL-613V Whiskey V - 1973",
+        "url": "http://cmano-db.com/cw/submarine/401/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " SS - Attack/Fleet Submarine ",
+                "Max Depth": " -170 m",
+                "Commissioned": " 1973",
+                "Length": " 76.0 m",
+                "Beam": " 6.3 m",
+                "Draft": " 4.6 m",
+                "Crew": " 52",
+                "Displacement": " 1048 t",
+                "Propulsion": " Electric Motors",
+                "Decommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "Stop Light A [Nakat] - (Golf Ball) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Snoop Plate [Flag] - (Golf Ball) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 46.3 km",
+            "Stag Ear [Tamir-11/11M] - (Submarine, MG-11) Hull Sonar, Active-Only\n\t\t\t\t\tHull Sonar, Active-Only Attack Max Range: 3.7 km",
+            "Park Lamp - (Submarine, MG-11) ESM\n\t\t\t\t\tHF/DF Max Range: 926 km",
+            "Trout Cheek [MG-10 Feniks] - (Whiskey) Hull Sonar, Passive-Only\n\t\t\t\t\tHull Sonar, Passive-Only Search Max Range: 3.7 km"
+        ],
+        "Weapons": [
+            "53-65K WH -\n\t\t\t\t(1972, Submarine, Widely Used) Torpedo\n\t\t\t\tSurface Max: 7.4 km. ",
+            "53-65N Gyro [NATO 53-68N, 20kT Nuclear] -\n\t\t\t\t(1971, Submarine) Torpedo\n\t\t\t\tSurface Max: 7.4 km. ",
+            "SET-65M Enot-2 [NATO ET-80A[76]] -\n\t\t\t\t(1973, Submarine) Torpedo\n\t\t\t\tSubsurface Max: 7.4 km. "
+        ]
+    },
+    {
+        "title": "PL-613V Whiskey V - 1973",
+        "url": "http://cmano-db.com/submarine/319/",
+        "Country/Type": "Albania",
+        "General data": [
+            {
+                "Type": " SS - Attack/Fleet Submarine ",
+                "Max Depth": " -170 m",
+                "Commissioned": " 1973",
+                "Length": " 76.0 m",
+                "Beam": " 6.3 m",
+                "Draft": " 4.6 m",
+                "Crew": " 52",
+                "Displacement": " 1048 t",
+                "Propulsion": " Diesels",
+                "Max Speed": " 18 kt",
+                "Decommissioned": " 1989"
+            }
+        ],
+        "Sensors / EW": [
+            "Stop Light A [Nakat] - (Golf Ball) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Snoop Plate [Flag] - (Golf Ball) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 46.3 km",
+            "Stag Ear [Tamir-11/11M] - (Submarine, MG-11) Hull Sonar, Active-Only\n\t\t\t\t\tHull Sonar, Active-Only Attack Max Range: 3.7 km",
+            "Park Lamp - (Submarine, MG-11) ESM\n\t\t\t\t\tHF/DF Max Range: 926 km",
+            "Trout Cheek [MG-10 Feniks] - (Whiskey) Hull Sonar, Passive-Only\n\t\t\t\t\tHull Sonar, Passive-Only Search Max Range: 3.7 km",
+            "Generic Submarine Periscope, Optical - (1940s/50s, 1x/6x Zoom) Visual\n\t\t\t\t\tVisual, Surveillance Periscope Max Range: 27.8 km"
+        ],
+        "Weapons": [
+            " 53-65K WH -\n\t\t\t\t(1972, Submarine, Widely Used) Torpedo\n\t\t\t\tSurface Max: 7.4 km. ",
+            "53-65N Gyro [NATO 53-68N, 20kT Nuclear] -\n\t\t\t\t(1971, Submarine) Torpedo\n\t\t\t\tSurface Max: 7.4 km. ",
+            "SET-65M Enot-2 [NATO ET-80A[76]] -\n\t\t\t\t(1973, Submarine) Torpedo\n\t\t\t\tSubsurface Max: 7.4 km. "
+        ]
+    },
+    {
+        "title": "PL-633 Romeo - 1973",
+        "url": "http://cmano-db.com/cw/submarine/251/",
+        "Country/Type": "Soviet Union [-1991]",
+        "General data": [
+            {
+                "Type": " SS - Attack/Fleet Submarine ",
+                "Max Depth": " -270 m",
+                "Commissioned": " 1973",
+                "Length": " 76.7 m",
+                "Beam": " 6.7 m",
+                "Draft": " 7.5 m",
+                "Crew": " 52",
+                "Displacement": " 1328 t",
+                "Propulsion": " Electric Motors",
+                "Decommissioned": " 1991\t\t\t\t\t  "
+            }
+        ],
+        "Sensors / EW": [
+            "Stop Light B [Nakat] - (Golf Ball) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Snoop Plate [Flag] - (Golf Ball) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 46.3 km",
+            "Pike Jaw [MG-200 Arktika] - (Attack Sonar) Hull Sonar, Active-Only\n\t\t\t\t\tHull Sonar, Active-Only Attack Max Range: 3.7 km",
+            "Acoustic Intercept [MG-23 Svet-M] - (Romeo, Foxtrot, MG-200 Arktika Suite) Acoustic Intercept (Active Sonar Warning)\n\t\t\t\t\tAcoustic Intercept Max Range: 27.8 km",
+            "Trout Cheek [MG-10M Feniks-M] - (With Svet Acoustic Intercept, November, Romeo, Foxtrot) Hull Sonar, Active/Passive\n\t\t\t\t\tHull Sonar, Active/Passive Search Max Range: 18.5 km"
+        ],
+        "Weapons": [
+            "53-65K WH -\n\t\t\t\t(1972, Submarine, Widely Used) Torpedo\n\t\t\t\tSurface Max: 7.4 km. ",
+            "53-65N Gyro [NATO 53-68N, 20kT Nuclear] -\n\t\t\t\t(1971, Submarine) Torpedo\n\t\t\t\tSurface Max: 7.4 km. ",
+            "SET-65M Enot-2 [NATO ET-80A[76]] -\n\t\t\t\t(1973, Submarine) Torpedo\n\t\t\t\tSubsurface Max: 7.4 km. "
+        ]
+    },
+    {
+        "title": "PL-633 Romeo - 1973",
+        "url": "http://cmano-db.com/submarine/340/",
+        "Country/Type": "Bulgaria",
+        "General data": [
+            {
+                "Type": " SS - Attack/Fleet Submarine ",
+                "Max Depth": " -270 m",
+                "Commissioned": " 1973",
+                "Length": " 76.7 m",
+                "Beam": " 6.7 m",
+                "Draft": " 7.5 m",
+                "Crew": " 52",
+                "Displacement": " 1328 t",
+                "Propulsion": " Diesels",
+                "Max Speed": " 15 kt",
+                "Decommissioned": " 2007"
+            }
+        ],
+        "Sensors / EW": [
+            "Stop Light B [Nakat] - (Golf Ball) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Snoop Plate [Flag] - (Golf Ball) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 46.3 km",
+            "Pike Jaw [MG-200 Arktika] - (Attack Sonar) Hull Sonar, Active-Only\n\t\t\t\t\tHull Sonar, Active-Only Attack Max Range: 3.7 km",
+            "Acoustic Intercept [MG-23 Svet-M] - (Romeo, Foxtrot, MG-200 Arktika Suite) Acoustic Intercept (Active Sonar Warning)\n\t\t\t\t\tAcoustic Intercept Max Range: 27.8 km",
+            "Trout Cheek [MG-10M Feniks-M] - (With Svet Acoustic Intercept, November, Romeo, Foxtrot) Hull Sonar, Active/Passive\n\t\t\t\t\tHull Sonar, Active/Passive Search Max Range: 18.5 km",
+            "Generic Submarine Periscope, Optical - (1970s, 1.5x/8x Zoom) Visual\n\t\t\t\t\tVisual, Surveillance Periscope Max Range: 41.7 km"
+        ],
+        "Weapons": [
+            "SAET-60M WH -\n\t\t\t\t(1970, Submarine) Torpedo\n\t\t\t\tSurface Max: 5.6 km. "
+        ]
+    }
+]
