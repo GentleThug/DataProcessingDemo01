@@ -1,0 +1,58 @@
+[
+    {
+        "title": "MiG-21UM Mongol B - 1980, 2x, MiG-21MF Trainer",
+        "url": "http://cmano-db.com/cw/aircraft/4104/",
+        "Country/Type": "Zambia",
+        "General data": [
+            {
+                "Type": "Trainer",
+                "Crew": "2",
+                "Wingspan": "7.2 m",
+                "Height": "4.1 m",
+                "Length": "14.1 m",
+                "Max Payload": "0 kg",
+                "Empty Weight": "5350 kg",
+                "Max Weight": "9661 kg",
+                "Operator": "Air Force",
+                "Commissioned": "1980",
+                "Propulsion": "1x R-13F-300"
+            }
+        ],
+        "Sensors / EW": [
+            "Jay Bird [RP-22M Sapfir-22] -  Radar Radar, FCR, Air-to-Air, Short-Range Max Range: 29.6 km",
+            "SPO-10 Sirena-3M -  ESM RWR, Radar Warning Receiver Max Range: 222.2 km"
+        ],
+        "Weapons / Loadouts": [
+            "490 liter Drop Tank -  Drop Tank ",
+            "800 liter Drop Tank -  Drop Tank ",
+            "AA-2a Atoll [R-3S] - (1963) Guided Weapon Air Max: 7.4 km. ",
+            "FAB-250M-54 GPB -  Bomb Surface Max: 1.9 km. Land Max: 1.9 km. ",
+            "FAB-500M-54 GPB -  Bomb Surface Max: 1.9 km. Land Max: 1.9 km. ",
+            "OFAB-100-120 Frag -  Bomb Surface Max: 1.9 km. Land Max: 1.9 km. ",
+            "OFAB-250-270 Frag -  Bomb Surface Max: 1.9 km. Land Max: 1.9 km. ",
+            "S-24B 240mm Rocket -  Rocket Surface Max: 3.7 km. Land Max: 3.7 km. ",
+            "S-5K 57mm Rocket -  Rocket Surface Max: 3.7 km. Land Max: 3.7 km. "
+        ]
+    },
+    {
+        "title": "MiG-21MF Fishbed J - 1980, 16x, 15x by 1990",
+        "url": "http://cmano-db.com/cw/aircraft/4103/",
+        "Country/Type": "Zambia",
+        "General data": [
+            {
+                "Type": "Fighter",
+                "Crew": "1",
+                "666": "1",
+                "Wingspan": "7.2 m",
+                "Height": "4.1 m",
+                "Length": "14.1 m",
+                "Max Payload": "0 kg",
+                "Empty Weight": "5350 kg",
+                "Max Weight": "9661 kg",
+                "Operator": "Air Force",
+                "Commissioned": "1980",
+                "Propulsion": "1x R-13F-300"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2743 @@
+[
+    {
+        "number": 1,
+        "title": "S 20 Humaita [Oberon Class] - 1974, 3x",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "17 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-200 m",
+                    "Commissioned": "1974",
+                    "Length": "90.0 m",
+                    "Beam": "8.1 m",
+                    "Draft": "5.5 m",
+                    "Crew": "69",
+                    "Displacement": "2030 t",
+                    "Propulsion": "2x Electric Motors",
+                    "Decommissioned": "1999"
+                }
+            }
+        ]
+    },
+    {
+        "number": 2,
+        "title": "410 Pasopati [PL-613V Whiskey V] - 1959, 1x",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "18 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-170 m",
+                    "Commissioned": "1959",
+                    "Length": "76.0 m",
+                    "Beam": "6.3 m",
+                    "Draft": "4.6 m",
+                    "Crew": "52",
+                    "Displacement": "1048 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    },
+                    "Decommissioned": "1990"
+                }
+            }
+        ]
+    },
+    {
+        "number": 3,
+        "title": "S 21 Intrepido [Cosmos SX-506 Class] - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "7 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSM - Midget Submarine",
+                    "Max Depth": "-40 m",
+                    "Commissioned": "1973",
+                    "Length": "23.0 m",
+                    "Beam": "2.02 m",
+                    "Draft": "4.0 m",
+                    "Crew": "5",
+                    "Displacement": "75 t",
+                    "Propulsion": {
+                        "冷战": "Diesels",
+                        "cmano": "Electric Motors"
+                    },
+                    "Decommissioned": "2013"
+                }
+            }
+        ]
+    },
+    {
+        "number": 4,
+        "title": "S-1 [Cosmos SX-404 Class] - 1970, 2x",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "7 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSM - Midget Submarine",
+                    "Max Depth": "-40 m",
+                    "Commissioned": "1970",
+                    "Length": "18.02 m",
+                    "Beam": "1.98 m",
+                    "Draft": "3.0 m",
+                    "Crew": "4",
+                    "Displacement": "35 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "number": 5,
+        "title": "Cosmos SX-404/B Class - 1974, 6x",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "7 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSM - Midget Submarine",
+                    "Max Depth": "-40 m",
+                    "Commissioned": "1974",
+                    "Length": "18.02 m",
+                    "Beam": "1.98 m",
+                    "Draft": "3.0 m",
+                    "Crew": "4",
+                    "Displacement": "35 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "number": 6,
+        "title": "SSN 685 Glenard P. Lipscomb - 1978",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "23 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-400 m",
+                    "Commissioned": "1978",
+                    "Length": "111.0 m",
+                    "Beam": "9.8 m",
+                    "Draft": "8.8 m",
+                    "Crew": "121",
+                    "Displacement": "5906 t",
+                    "Propulsion": "1x S5W Nuclear Reactor, Turbo-Electric Transmission"
+                }
+            }
+        ]
+    },
+    {
+        "number": 7,
+        "title": "SSBN 627 James Madison - 1978, Poseidon C3",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "21 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSBN - Nuclear Powered Ballistic Missile Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1978",
+                    "Length": "129.6 m",
+                    "Beam": "10.0 m",
+                    "Draft": "9.6 m",
+                    "Crew": "143",
+                    "Displacement": "7370 t",
+                    "Propulsion": "1x S5W Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 8,
+        "title": "S 613 L Indomptable [Le Redoutable Class] - 1978, 2x, M20",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "25 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSBN - Nuclear Powered Ballistic Missile Submarine",
+                    "Max Depth": "-250 m",
+                    "Commissioned": "1978",
+                    "Length": "128.0 m",
+                    "Beam": "10.6 m",
+                    "Draft": "10.0 m",
+                    "Crew": "145",
+                    "Displacement": "6500 t",
+                    "Propulsion": "1x Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 9,
+        "title": "P 821 Heroj - 1969",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "16 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-210 m",
+                    "Commissioned": "1969",
+                    "Length": "50.4 m",
+                    "Beam": "7.2 m",
+                    "Draft": "5.0 m",
+                    "Crew": "28",
+                    "Displacement": "614 t",
+                    "Propulsion": {
+                        "冷战": "Diesels",
+                        "cmano": "Electric Motors"
+                    },
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 10,
+        "title": "Type 035 Ming - 1977, 3x, Flawed, Retired 1980s",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "18 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-250 m",
+                    "Commissioned": "1977",
+                    "Length": "76.0 m",
+                    "Beam": "7.6 m",
+                    "Draft": "5.1 m",
+                    "Crew": "55",
+                    "Displacement": "1584 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 11,
+        "title": "SSN 678 Archerfish [Sturgeon Class] - 1978",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "30 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-400 m",
+                    "Commissioned": "1978",
+                    "Length": "92.1 m",
+                    "Beam": "9.7 m",
+                    "Draft": "8.8 m",
+                    "Crew": "107",
+                    "Displacement": "4460 t",
+                    "Propulsion": "1x General Electric S5G Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 12,
+        "title": "SSBN 640 Benjamin Franklin [Improved Lafayette Class] - 1978, Poseidon C3",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "21 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSBN - Nuclear Powered Ballistic Missile Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1978",
+                    "Length": "129.6 m",
+                    "Beam": "10.0 m",
+                    "Draft": "9.6 m",
+                    "Crew": "143",
+                    "Displacement": "7370 t",
+                    "Propulsion": "1x S5W Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 13,
+        "title": "S-4 ROV - 1979, Hatsushima Class, Mine Neutralisation Vehicle",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "6 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "ROV - Remotely Operated Vehicle",
+                    "Max Depth": "-200 m",
+                    "Commissioned": "1979",
+                    "Length": "3.0 m",
+                    "Beam": "1.0 m",
+                    "Draft": "1.0 m",
+                    "Crew": "0",
+                    "Displacement": "1 t",
+                    "Propulsion": "Electric Cable"
+                }
+            }
+        ]
+    },
+    {
+        "number": 14,
+        "title": "S 97 Maria van Riebeeck [Daphne] - 1971, Renamed Spear in 1999",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1971",
+                    "Length": "57.8 m",
+                    "Beam": "6.7 m",
+                    "Draft": "5.3 m",
+                    "Crew": "50",
+                    "Displacement": "860 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 15,
+        "title": "S 46 Churchill - 1972",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "28 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1972",
+                    "Length": "86.9 m",
+                    "Beam": "10.1 m",
+                    "Draft": "8.2 m",
+                    "Crew": "103",
+                    "Displacement": "4400 t",
+                    "Propulsion": "1x Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 16,
+        "title": "S 347 Atilay [Type 209-1200, Ay Class] - 1976",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "21 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-240 m",
+                    "Commissioned": "1976",
+                    "Length": "55.9 m",
+                    "Beam": "6.3 m",
+                    "Draft": "5.5 m",
+                    "Crew": "33",
+                    "Displacement": "1180 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 17,
+        "title": "S 311 Al Badr [PL-641 Foxtrot] - 1977",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "17 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-250 m",
+                    "Commissioned": "1977",
+                    "Length": "91.3 m",
+                    "Beam": "7.5 m",
+                    "Draft": "5.1 m",
+                    "Crew": "70",
+                    "Displacement": "1952 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "number": 18,
+        "title": "S 31 Sabalo [Type 209-1300] - 1977",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "21 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-240 m",
+                    "Commissioned": "1977",
+                    "Length": "59.5 m",
+                    "Beam": "6.2 m",
+                    "Draft": "5.5 m",
+                    "Crew": "33",
+                    "Displacement": "1265 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 19,
+        "title": "S 135 Hashmat [Agosta 70] - 1979",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "20 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1979",
+                    "Length": "67.6 m",
+                    "Beam": "6.8 m",
+                    "Draft": "5.4 m",
+                    "Crew": "54",
+                    "Displacement": "1490 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 20,
+        "title": "S 101 Shyri [Type 209-1300] - 1978",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "21 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-240 m",
+                    "Commissioned": "1978",
+                    "Length": "59.5 m",
+                    "Beam": "6.2 m",
+                    "Draft": "5.5 m",
+                    "Crew": "33",
+                    "Displacement": "1265 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 21,
+        "title": "PLARB-667AU Yankee I [Navaga] - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "27 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSBN - Nuclear Powered Ballistic Missile Submarine",
+                    "Max Depth": "-320 m",
+                    "Commissioned": "1973",
+                    "Length": "128.0 m",
+                    "Beam": "11.7 m",
+                    "Draft": "7.9 m",
+                    "Crew": "120",
+                    "Displacement": "7770 t",
+                    "Propulsion": "1x Nuclear Reactor",
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 22,
+        "title": "PLARB-667A Yankee I [Navaga] - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "27 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSBN - Nuclear Powered Ballistic Missile Submarine",
+                    "Max Depth": "-320 m",
+                    "Commissioned": "1973",
+                    "Length": "128.0 m",
+                    "Beam": "11.7 m",
+                    "Draft": "7.9 m",
+                    "Crew": "120",
+                    "Displacement": "7770 t",
+                    "Propulsion": "1x Nuclear Reactor",
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 23,
+        "title": "PAP 104 Mk2 ROV - 1973, Mine Hunting/Killing Vehicle",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "6 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "ROV - Remotely Operated Vehicle",
+                    "Max Depth": "-80 m",
+                    "Commissioned": "1973",
+                    "Length": "2.7 m",
+                    "Beam": "1.2 m",
+                    "Draft": "1.2 m",
+                    "Crew": "0",
+                    "Displacement": "1 t",
+                    "Propulsion": "Batteries"
+                }
+            }
+        ]
+    },
+    {
+        "number": 24,
+        "title": "P 831 Sava - 1979",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "16 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-250 m",
+                    "Commissioned": "1979",
+                    "Length": "55.7 m",
+                    "Beam": "7.2 m",
+                    "Draft": "5.1 m",
+                    "Crew": "27",
+                    "Displacement": "830 t",
+                    "Propulsion": "Electric Motors",
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 25,
+        "title": "Gal [Type 540, Type 206 Mod] - 1976",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "17 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-200 m",
+                    "Commissioned": "1976",
+                    "Length": "48.6 m",
+                    "Beam": "4.6 m",
+                    "Draft": "4.5 m",
+                    "Crew": "22",
+                    "Displacement": "450 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 26,
+        "title": "S 506 Enrico Toti - 1975",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "14 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-150 m",
+                    "Commissioned": "1975",
+                    "Length": "46.2 m",
+                    "Beam": "4.8 m",
+                    "Draft": "4.0 m",
+                    "Crew": "26",
+                    "Displacement": "535 t",
+                    "Propulsion": "Electric Motors",
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 27,
+        "title": "SS 28 Pijao [Type 209-1200] - 1975",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "21 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-240 m",
+                    "Commissioned": "1975",
+                    "Length": "55.9 m",
+                    "Beam": "6.3 m",
+                    "Draft": "5.5 m",
+                    "Crew": "33",
+                    "Displacement": "1180 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 28,
+        "title": "PL-633 Romeo - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-270 m",
+                    "Commissioned": "1973",
+                    "Length": "76.7 m",
+                    "Beam": "6.7 m",
+                    "Draft": "7.5 m",
+                    "Crew": "52",
+                    "Displacement": "1328 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    },
+                    "Decommissioned": "2007"
+                }
+            }
+        ]
+    },
+    {
+        "number": 29,
+        "title": "PL-633 Romeo - 1973",
+        "Country/Type": "不同",
+        "different_data": [
+            {
+                "country": {
+                    "冷战": "Bulgaria",
+                    "cmano": "Soviet Union [-1991]"
+                }
+            },
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-270 m",
+                    "Commissioned": "1973",
+                    "Length": "76.7 m",
+                    "Beam": "6.7 m",
+                    "Draft": "7.5 m",
+                    "Crew": "52",
+                    "Displacement": "1328 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    },
+                    "Decommissioned": {
+                        "冷战": "2007",
+                        "cmano": "1991"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "number": 30,
+        "title": "S 806 Zwaardvis - 1975",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "20 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-220 m",
+                    "Commissioned": "1975",
+                    "Length": "66.9 m",
+                    "Beam": "8.4 m",
+                    "Draft": "7.1 m",
+                    "Crew": "67",
+                    "Displacement": "2408 t",
+                    "Propulsion": "1x Holec Electric Motor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 31,
+        "title": "PL-613V Whiskey V - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "18 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-170 m",
+                    "Commissioned": "1973",
+                    "Length": "76.0 m",
+                    "Beam": "6.3 m",
+                    "Draft": "4.6 m",
+                    "Crew": "52",
+                    "Displacement": "1048 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    },
+                    "Decommissioned": "1989"
+                }
+            }
+        ]
+    },
+    {
+        "number": 32,
+        "title": "PL-613V Whiskey V - 1973",
+        "Country/Type": "不同",
+        "different_data": [
+            {
+                "country": {
+                    "冷战": "Albania",
+                    "cmano": "Soviet Union [-1991]"
+                }
+            },
+            {
+                "cmano多的属性": {
+                    "Max Speed": "18 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-170 m",
+                    "Commissioned": "1973",
+                    "Length": "76.0 m",
+                    "Beam": "6.3 m",
+                    "Draft": "4.6 m",
+                    "Crew": "52",
+                    "Displacement": "1048 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    },
+                    "Decommissioned": {
+                        "冷战": "1989",
+                        "cmano": "1991"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "number": 33,
+        "title": "SS 568 Isoshio - 1973, Project S119",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "20 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-200 m",
+                    "Commissioned": "1973",
+                    "Length": "72.0 m",
+                    "Beam": "9.9 m",
+                    "Draft": "7.5 m",
+                    "Crew": "80",
+                    "Displacement": "1850 t",
+                    "Propulsion": "Electric Motors",
+                    "Decommissioned": "1989"
+                }
+            }
+        ]
+    },
+    {
+        "number": 34,
+        "title": "SS 571 Takashio - 1976, Project S119A",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "20 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-200 m",
+                    "Commissioned": "1976",
+                    "Length": "72.0 m",
+                    "Beam": "9.9 m",
+                    "Draft": "7.5 m",
+                    "Crew": "80",
+                    "Displacement": "1850 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 35,
+        "title": "SS 566 Uzushio - 1975, Project S118",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "20 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-200 m",
+                    "Commissioned": "1975",
+                    "Length": "72.0 m",
+                    "Beam": "9.9 m",
+                    "Draft": "7.5 m",
+                    "Crew": "80",
+                    "Displacement": "1850 t",
+                    "Propulsion": "Electric Motors",
+                    "Decommissioned": "1987"
+                }
+            }
+        ]
+    },
+    {
+        "number": 36,
+        "title": "A-11B Sjöormen - 1968",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "20 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-180 m",
+                    "Commissioned": "1968",
+                    "Length": "50.5 m",
+                    "Beam": "6.1 m",
+                    "Draft": "5.8 m",
+                    "Crew": "23",
+                    "Displacement": "1125 t",
+                    "Propulsion": {
+                        "冷战": "2x Hedemora-Pielstick V12A/15 Diesels",
+                        "cmano": "1x ASEA Electric Motor"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "number": 37,
+        "title": "A-14 Nacken - 1979",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "20 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-150 m",
+                    "Commissioned": "1979",
+                    "Length": "49.5 m",
+                    "Beam": "5.6 m",
+                    "Draft": "5.6 m",
+                    "Crew": "27",
+                    "Displacement": "1013 t",
+                    "Propulsion": {
+                        "冷战": "1x MTU 16V 652 SB Diesel",
+                        "cmano": "1x Electric Motor"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "number": 38,
+        "title": "A-12 Draken - 1968",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "16 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-150 m",
+                    "Commissioned": "1968",
+                    "Length": "69.3 m",
+                    "Beam": "5.1 m",
+                    "Draft": "5.0 m",
+                    "Crew": "44",
+                    "Displacement": "837 t",
+                    "Propulsion": "2x ASEA Electric Motor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 39,
+        "title": "PLA-671RTM Victor III [Shchuka] - 1979",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "30 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-400 m",
+                    "Commissioned": "1979",
+                    "Length": "107.2 m",
+                    "Beam": "10.8 m",
+                    "Draft": "7.2 m",
+                    "Crew": "115",
+                    "Displacement": "5000 t",
+                    "Propulsion": "2x VM-4T Nuclear Reactors, 22.7MW"
+                }
+            }
+        ]
+    },
+    {
+        "number": 40,
+        "title": "S 641 Daphne - 1978",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1978",
+                    "Length": "57.8 m",
+                    "Beam": "6.7 m",
+                    "Draft": "5.3 m",
+                    "Crew": "50",
+                    "Displacement": "860 t",
+                    "Propulsion": "Electric Motors",
+                    "Decommissioned": "1996"
+                }
+            }
+        ]
+    },
+    {
+        "number": 41,
+        "title": "PL-633RV Romeo - 1973, 2x Conversions",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-270 m",
+                    "Commissioned": "1973",
+                    "Length": "78.3 m",
+                    "Beam": "6.7 m",
+                    "Draft": "7.5 m",
+                    "Crew": "58",
+                    "Displacement": "1350 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "number": 42,
+        "title": "Type 033 Romeo - 1971",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-270 m",
+                    "Commissioned": "1971",
+                    "Length": "76.7 m",
+                    "Beam": "6.7 m",
+                    "Draft": "7.5 m",
+                    "Crew": "52",
+                    "Displacement": "1328 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "number": 43,
+        "title": "PL-613V Whiskey V - 1973",
+        "Country/Type": "不同",
+        "different_data": [
+            {
+                "country": {
+                    "冷战": "Soviet Union [-1991]",
+                    "cmano": "Albania"
+                }
+            },
+            {
+                "cmano多的属性": {
+                    "Max Speed": "18 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-170 m",
+                    "Commissioned": "1973",
+                    "Length": "76.0 m",
+                    "Beam": "6.3 m",
+                    "Draft": "4.6 m",
+                    "Crew": "52",
+                    "Displacement": "1048 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    },
+                    "Decommissioned": {
+                        "冷战": "1991",
+                        "cmano": "1989"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "number": 44,
+        "title": "PL-613V Whiskey V - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "18 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-170 m",
+                    "Commissioned": "1973",
+                    "Length": "76.0 m",
+                    "Beam": "6.3 m",
+                    "Draft": "4.6 m",
+                    "Crew": "52",
+                    "Displacement": "1048 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    },
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 45,
+        "title": "PLARK-661 Papa [Anchar] - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "40 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-450 m",
+                    "Commissioned": "1973",
+                    "Length": "106.9 m",
+                    "Beam": "11.6 m",
+                    "Draft": "8.0 m",
+                    "Crew": "82",
+                    "Displacement": "5280 t",
+                    "Propulsion": "1x VM-5m Nuclear Reactor, 177.4MW",
+                    "Decommissioned": "1988"
+                }
+            }
+        ]
+    },
+    {
+        "number": 46,
+        "title": "PLARK-670 Charlie I [Skat] - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "24 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSGN - Nuclear Powered Guided Missile Attack Submarine",
+                    "Max Depth": "-350 m",
+                    "Commissioned": "1973",
+                    "Length": "95.0 m",
+                    "Beam": "10.0 m",
+                    "Draft": "8.0 m",
+                    "Crew": "100",
+                    "Displacement": "4000 t",
+                    "Propulsion": "1x Nuclear Reactor",
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 47,
+        "title": "PLARK-675 Echo II - 1973, 2x, Northern Fleet, SS-N-3 Satellite Targeting",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "24 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSGN - Nuclear Powered Guided Missile Attack Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1973",
+                    "Length": "115.4 m",
+                    "Beam": "9.2 m",
+                    "Draft": "7.1 m",
+                    "Crew": "109",
+                    "Displacement": "4485 t",
+                    "Propulsion": "1x Nuclear Reactor",
+                    "Decommissioned": "1989"
+                }
+            }
+        ]
+    },
+    {
+        "number": 48,
+        "title": "PLARK-675MU Echo II - 1978, 1x, SS-N-12, Northern Fleet",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "24 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSGN - Nuclear Powered Guided Missile Attack Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1978",
+                    "Length": "119.0 m",
+                    "Beam": "9.2 m",
+                    "Draft": "7.1 m",
+                    "Crew": "109",
+                    "Displacement": "4485 t",
+                    "Propulsion": "1x Nuclear Reactor",
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 49,
+        "title": "PLARK-675MK Echo II - 1978, 9x, SS-N-12",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "24 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSGN - Nuclear Powered Guided Missile Attack Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1978",
+                    "Length": "119.0 m",
+                    "Beam": "9.2 m",
+                    "Draft": "7.1 m",
+                    "Crew": "109",
+                    "Displacement": "4485 t",
+                    "Propulsion": "1x Nuclear Reactor",
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 50,
+        "title": "S 192 U 13 [Type 206] - 1976",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "17 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-200 m",
+                    "Commissioned": "1976",
+                    "Length": "48.6 m",
+                    "Beam": "4.6 m",
+                    "Draft": "4.5 m",
+                    "Crew": "22",
+                    "Displacement": "420 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 51,
+        "title": "S 190 U 11 [Type 205] - 1978",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "18 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-150 m",
+                    "Commissioned": "1978",
+                    "Length": "43.9 m",
+                    "Beam": "4.6 m",
+                    "Draft": "4.3 m",
+                    "Crew": "22",
+                    "Displacement": "455 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 52,
+        "title": "S 611 Le Redoutable - 1975, 3x, M2",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "25 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSBN - Nuclear Powered Ballistic Missile Submarine",
+                    "Max Depth": "-250 m",
+                    "Commissioned": "1975",
+                    "Length": "128.0 m",
+                    "Beam": "10.6 m",
+                    "Draft": "10.0 m",
+                    "Crew": "145",
+                    "Displacement": "6500 t",
+                    "Propulsion": "1x Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 53,
+        "title": "S 318 Kobben [Type 207] - 1978, MSI 70U FCS",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "17 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-180 m",
+                    "Commissioned": "1978",
+                    "Length": "47.2 m",
+                    "Beam": "4.7 m",
+                    "Draft": "3.8 m",
+                    "Crew": "24",
+                    "Displacement": "435 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 54,
+        "title": "S 21 Santa Fe [Balao Class] - 1972",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "18 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-250 m",
+                    "Commissioned": "1972",
+                    "Length": "95.0 m",
+                    "Beam": "8.3 m",
+                    "Draft": "5.2 m",
+                    "Crew": "85",
+                    "Displacement": "1525 t",
+                    "Propulsion": "Diesels",
+                    "Decommissioned": "1982"
+                }
+            }
+        ]
+    },
+    {
+        "number": 55,
+        "title": "Type 033 Romeo - 1974",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-270 m",
+                    "Commissioned": "1974",
+                    "Length": "76.7 m",
+                    "Beam": "6.7 m",
+                    "Draft": "7.5 m",
+                    "Crew": "52",
+                    "Displacement": "1328 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "number": 56,
+        "title": "293 Sokol [PL-613V Whiskey V] - 1975, 292 Orzel",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "18 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-170 m",
+                    "Commissioned": "1975",
+                    "Length": "76.0 m",
+                    "Beam": "6.3 m",
+                    "Draft": "4.6 m",
+                    "Crew": "52",
+                    "Displacement": "1048 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    },
+                    "Decommissioned": "1986"
+                }
+            }
+        ]
+    },
+    {
+        "number": 57,
+        "title": "S 341 Çanakkale [Guppy III Class] - 1974",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-250 m",
+                    "Commissioned": "1974",
+                    "Length": "95.0 m",
+                    "Beam": "8.3 m",
+                    "Draft": "5.2 m",
+                    "Crew": "86",
+                    "Displacement": "1525 t",
+                    "Propulsion": {
+                        "冷战": "4x General Electric Electric Motors",
+                        "cmano": "4x General Motors 16-278A V16 Diesels"
+                    },
+                    "Decommissioned": "1997"
+                }
+            }
+        ]
+    },
+    {
+        "number": 58,
+        "title": "S 341 Çanakkale [Guppy III Class] - 1974",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-250 m",
+                    "Commissioned": "1974",
+                    "Length": "95.0 m",
+                    "Beam": "8.3 m",
+                    "Draft": "5.2 m",
+                    "Crew": "86",
+                    "Displacement": "1525 t",
+                    "Propulsion": "4x General Motors 16-278A V16 Diesels",
+                    "Decommissioned": {
+                        "冷战": "1975",
+                        "cmano": "1997"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "number": 59,
+        "title": "S 131 Hangor [Daphne] - 1971",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1971",
+                    "Length": "57.8 m",
+                    "Beam": "6.7 m",
+                    "Draft": "5.3 m",
+                    "Crew": "50",
+                    "Displacement": "860 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 60,
+        "title": "S 336 Muratreis [Guppy IIA Class] - 1976",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-250 m",
+                    "Commissioned": "1976",
+                    "Length": "95.0 m",
+                    "Beam": "8.3 m",
+                    "Draft": "5.2 m",
+                    "Crew": "85",
+                    "Displacement": "1525 t",
+                    "Propulsion": {
+                        "冷战": "4x General Electric Electric Motors",
+                        "cmano": "4x General Motors 16-278A V16 Diesels"
+                    },
+                    "Decommissioned": "2001"
+                }
+            }
+        ]
+    },
+    {
+        "number": 61,
+        "title": "S 620 Agosta - 1978",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "20 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1978",
+                    "Length": "67.6 m",
+                    "Beam": "6.8 m",
+                    "Draft": "5.4 m",
+                    "Crew": "54",
+                    "Displacement": "1490 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 62,
+        "title": "S 61 Delfin [Daphne, S-60] - 1978",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1978",
+                    "Length": "57.8 m",
+                    "Beam": "6.7 m",
+                    "Draft": "5.3 m",
+                    "Crew": "50",
+                    "Displacement": "860 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 63,
+        "title": "72 Ojibwa [Oberon Class] - 1976",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "17 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-200 m",
+                    "Commissioned": "1976",
+                    "Length": "90.0 m",
+                    "Beam": "8.1 m",
+                    "Draft": "5.5 m",
+                    "Crew": "69",
+                    "Displacement": "2030 t",
+                    "Propulsion": "2x Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 64,
+        "title": "S 22 O Brien [Oberon] - 1976",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "17 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-200 m",
+                    "Commissioned": "1976",
+                    "Length": "90.0 m",
+                    "Beam": "8.1 m",
+                    "Draft": "5.5 m",
+                    "Crew": "69",
+                    "Displacement": "2030 t",
+                    "Propulsion": "2x Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 65,
+        "title": "S 31 Salta [Type 209-1100] - 1974",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "21 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-240 m",
+                    "Commissioned": "1974",
+                    "Length": "54.1 m",
+                    "Beam": "6.2 m",
+                    "Draft": "5.9 m",
+                    "Crew": "31",
+                    "Displacement": "1100 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 66,
+        "title": "SSBN 616 Lafayette - 1978, Poseidon C3",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "21 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSBN - Nuclear Powered Ballistic Missile Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1978",
+                    "Length": "129.6 m",
+                    "Beam": "10.0 m",
+                    "Draft": "9.6 m",
+                    "Crew": "143",
+                    "Displacement": "7370 t",
+                    "Propulsion": "1x S5W Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 67,
+        "title": "SSN 594 Permit - 1978",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "30 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-400 m",
+                    "Commissioned": "1978",
+                    "Length": "84.9 m",
+                    "Beam": "9.6 m",
+                    "Draft": "7.4 m",
+                    "Crew": "112",
+                    "Displacement": "3810 t",
+                    "Propulsion": "1x S5W Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 68,
+        "title": "SSN 585 Skipjack - 1978",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "28 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-220 m",
+                    "Commissioned": "1978",
+                    "Length": "77.0 m",
+                    "Beam": "9.6 m",
+                    "Draft": "9.0 m",
+                    "Crew": "93",
+                    "Displacement": "3075 t",
+                    "Propulsion": "1x S5W Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 69,
+        "title": "SSN 637 Sturgeon - 1978",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "30 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-400 m",
+                    "Commissioned": "1978",
+                    "Length": "92.1 m",
+                    "Beam": "9.7 m",
+                    "Draft": "8.8 m",
+                    "Crew": "107",
+                    "Displacement": "4250 t",
+                    "Propulsion": "1x S5W Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 70,
+        "title": "SS 580 Barbel - 1978",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "25 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-215 m",
+                    "Commissioned": "1978",
+                    "Length": "66.9 m",
+                    "Beam": "8.8 m",
+                    "Draft": "7.6 m",
+                    "Crew": "85",
+                    "Displacement": "2180 t",
+                    "Propulsion": "2x General Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 71,
+        "title": "SSN 671 Narwhal - 1978",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "30 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-400 m",
+                    "Commissioned": "1978",
+                    "Length": "96.0 m",
+                    "Beam": "9.7 m",
+                    "Draft": "8.8 m",
+                    "Crew": "120",
+                    "Displacement": "5027 t",
+                    "Propulsion": "1x General Electric S5G Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 72,
+        "title": "SSN 688 Los Angeles [Flight I] - 1978",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "32 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1978",
+                    "Length": "109.7 m",
+                    "Beam": "10.1 m",
+                    "Draft": "9.75 m",
+                    "Crew": "129",
+                    "Displacement": "6080 t",
+                    "Propulsion": "1x S6G Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 73,
+        "title": "PL-641B Tango [Som] - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-240 m",
+                    "Commissioned": "1973",
+                    "Length": "91.0 m",
+                    "Beam": "9.1 m",
+                    "Draft": "7.2 m",
+                    "Crew": "78",
+                    "Displacement": "2770 t",
+                    "Propulsion": "Electric Motors",
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 74,
+        "title": "PLA-705K Alfa [Lira] - 1978",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "42 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-700 m",
+                    "Commissioned": "1978",
+                    "Length": "81.4 m",
+                    "Beam": "9.5 m",
+                    "Draft": "7.6 m",
+                    "Crew": "40",
+                    "Displacement": "2800 t",
+                    "Propulsion": "1x OK-550 Nuclear Reactor, 155MW",
+                    "Decommissioned": "1981"
+                }
+            }
+        ]
+    },
+    {
+        "number": 75,
+        "title": "PLARB-667BDR Delta III [Kalmar] - 1979",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "24 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSBN - Nuclear Powered Ballistic Missile Submarine",
+                    "Max Depth": "-320 m",
+                    "Commissioned": "1979",
+                    "Length": "166.0 m",
+                    "Beam": "12.3 m",
+                    "Draft": "8.8 m",
+                    "Crew": "135",
+                    "Displacement": "13500 t",
+                    "Propulsion": "1x Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 76,
+        "title": "PLARB-667BD Delta II [Murena-M] - 1976",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "25 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSBN - Nuclear Powered Ballistic Missile Submarine",
+                    "Max Depth": "-320 m",
+                    "Commissioned": "1976",
+                    "Length": "155.0 m",
+                    "Beam": "12.0 m",
+                    "Draft": "8.8 m",
+                    "Crew": "130",
+                    "Displacement": "9350 t",
+                    "Propulsion": "1x Nuclear Reactor",
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 77,
+        "title": "PLARB-667B Delta I [Murena] - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "25 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSBN - Nuclear Powered Ballistic Missile Submarine",
+                    "Max Depth": "-320 m",
+                    "Commissioned": "1973",
+                    "Length": "139.0 m",
+                    "Beam": "12.0 m",
+                    "Draft": "8.8 m",
+                    "Crew": "120",
+                    "Displacement": "7800 t",
+                    "Propulsion": "1x Nuclear Reactor",
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 78,
+        "title": "PLA-671RT Victor II [Syomga] - 1974",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "30 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-400 m",
+                    "Commissioned": "1974",
+                    "Length": "101.8 m",
+                    "Beam": "10.8 m",
+                    "Draft": "7.3 m",
+                    "Crew": "110",
+                    "Displacement": "4700 t",
+                    "Propulsion": "2x VM-4T Nuclear Reactors, 22.7MW"
+                }
+            }
+        ]
+    },
+    {
+        "number": 79,
+        "title": "PLA-671 Victor I [Yorsh] - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "30 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-400 m",
+                    "Commissioned": "1973",
+                    "Length": "92.5 m",
+                    "Beam": "11.7 m",
+                    "Draft": "7.4 m",
+                    "Crew": "110",
+                    "Displacement": "4100 t",
+                    "Propulsion": "2x VM-4T Nuclear Reactors, 22.7MW",
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 80,
+        "title": "PL-611 Zulu IV - 1973, Various special purpose variants",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "16 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-170 m",
+                    "Commissioned": "1973",
+                    "Length": "90.5 m",
+                    "Beam": "7.5 m",
+                    "Draft": "5.1 m",
+                    "Crew": "65",
+                    "Displacement": "1832 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    },
+                    "Decommissioned": "1989"
+                }
+            }
+        ]
+    },
+    {
+        "number": 81,
+        "title": "PL-633 Romeo - 1973",
+        "Country/Type": "不同",
+        "different_data": [
+            {
+                "country": {
+                    "冷战": "Soviet Union [-1991]",
+                    "cmano": "Bulgaria"
+                }
+            },
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-270 m",
+                    "Commissioned": "1973",
+                    "Length": "76.7 m",
+                    "Beam": "6.7 m",
+                    "Draft": "7.5 m",
+                    "Crew": "52",
+                    "Displacement": "1328 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    },
+                    "Decommissioned": {
+                        "冷战": "1991",
+                        "cmano": "2007"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "number": 82,
+        "title": "PL-633 Romeo - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-270 m",
+                    "Commissioned": "1973",
+                    "Length": "76.7 m",
+                    "Beam": "6.7 m",
+                    "Draft": "7.5 m",
+                    "Crew": "52",
+                    "Displacement": "1328 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    },
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 83,
+        "title": "PLA-627A November [Kit] - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "30 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-320 m",
+                    "Commissioned": "1973",
+                    "Length": "107.4 m",
+                    "Beam": "7.9 m",
+                    "Draft": "5.6 m",
+                    "Crew": "104",
+                    "Displacement": "3118 t",
+                    "Propulsion": "1x VM-A Nuclear Reactor, 70MW",
+                    "Decommissioned": "1990"
+                }
+            }
+        ]
+    },
+    {
+        "number": 84,
+        "title": "PLRK-651 Juliett - 1973, SS-N-3",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSG - Guided Missile Attack Submarine",
+                    "Max Depth": "-240 m",
+                    "Commissioned": "1973",
+                    "Length": "90.0 m",
+                    "Beam": "10.0 m",
+                    "Draft": "7.0 m",
+                    "Crew": "120",
+                    "Displacement": "3225 t",
+                    "Propulsion": "Electric Motors",
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 85,
+        "title": "PLARB-701 Hotel III - 1977",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "18 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSBN - Nuclear Powered Ballistic Missile Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1977",
+                    "Length": "130.0 m",
+                    "Beam": "9.2 m",
+                    "Draft": "7.3 m",
+                    "Crew": "104",
+                    "Displacement": "5500 t",
+                    "Propulsion": "1x Nuclear Reactor",
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 86,
+        "title": "PLARB-658M Hotel II - 1973, SS-N-5 Refit",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "26 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSBN - Nuclear Powered Ballistic Missile Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1973",
+                    "Length": "114.0 m",
+                    "Beam": "9.2 m",
+                    "Draft": "7.3 m",
+                    "Crew": "104",
+                    "Displacement": "4100 t",
+                    "Propulsion": "1x Nuclear Reactor",
+                    "Decommissioned": "1989"
+                }
+            }
+        ]
+    },
+    {
+        "number": 87,
+        "title": "PL-641 Foxtrot - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "17 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-250 m",
+                    "Commissioned": "1973",
+                    "Length": "91.3 m",
+                    "Beam": "7.5 m",
+                    "Draft": "5.1 m",
+                    "Crew": "70",
+                    "Displacement": "1952 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    },
+                    "Decommissioned": "1991"
+                }
+            }
+        ]
+    },
+    {
+        "number": 88,
+        "title": "PLA-659T Echo I - 1973, SSN Mod",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "24 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1973",
+                    "Length": "111.2 m",
+                    "Beam": "9.2 m",
+                    "Draft": "7.1 m",
+                    "Crew": "104",
+                    "Displacement": "3830 t",
+                    "Propulsion": "1x Nuclear Reactor",
+                    "Decommissioned": "1989"
+                }
+            }
+        ]
+    },
+    {
+        "number": 89,
+        "title": "PLARK-670M Charlie II [Skat-M] - 1975",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "24 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSGN - Nuclear Powered Guided Missile Attack Submarine",
+                    "Max Depth": "-350 m",
+                    "Commissioned": "1975",
+                    "Length": "103.0 m",
+                    "Beam": "10.0 m",
+                    "Draft": "8.0 m",
+                    "Crew": "98",
+                    "Displacement": "4300 t",
+                    "Propulsion": "1x Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 90,
+        "title": "S 108 Swiftsure - 1975",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "30 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-450 m",
+                    "Commissioned": "1975",
+                    "Length": "85.4 m",
+                    "Beam": "9.8 m",
+                    "Draft": "9.5 m",
+                    "Crew": "97",
+                    "Displacement": "4740 t",
+                    "Propulsion": "1x Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 91,
+        "title": "S 102 Valiant - 1972",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "28 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSN - Nuclear Powered Attack Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1972",
+                    "Length": "86.9 m",
+                    "Beam": "10.1 m",
+                    "Draft": "8.2 m",
+                    "Crew": "103",
+                    "Displacement": "4500 t",
+                    "Propulsion": "1x Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 92,
+        "title": "S 23 Resolution - 1972",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "25 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSBN - Nuclear Powered Ballistic Missile Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1972",
+                    "Length": "129.5 m",
+                    "Beam": "10.1 m",
+                    "Draft": "9.2 m",
+                    "Crew": "143",
+                    "Displacement": "7600 t",
+                    "Propulsion": "1x Vickers/Rolls-Royce PWR.1 Nuclear Reactor"
+                }
+            }
+        ]
+    },
+    {
+        "number": 93,
+        "title": "S 01 Porpoise - 1972",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "17 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-200 m",
+                    "Commissioned": "1972",
+                    "Length": "88.4 m",
+                    "Beam": "8.1 m",
+                    "Draft": "5.5 m",
+                    "Crew": "71",
+                    "Displacement": "2080 t",
+                    "Propulsion": "2x English Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 94,
+        "title": "S 09 Oberon - 1972",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "17 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-200 m",
+                    "Commissioned": "1972",
+                    "Length": "90.0 m",
+                    "Beam": "8.1 m",
+                    "Draft": "5.5 m",
+                    "Crew": "69",
+                    "Displacement": "2030 t",
+                    "Propulsion": "2x Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 95,
+        "title": "S 163 Albacora [Daphne] - 1968, 4x",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1968",
+                    "Length": "57.8 m",
+                    "Beam": "6.7 m",
+                    "Draft": "5.3 m",
+                    "Crew": "50",
+                    "Displacement": "860 t",
+                    "Propulsion": "Electric Motors",
+                    "Decommissioned": "2010"
+                }
+            }
+        ]
+    },
+    {
+        "number": 96,
+        "title": "PLARK-675K Echo II - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "24 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSGN - Nuclear Powered Guided Missile Attack Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1973",
+                    "Length": "115.4 m",
+                    "Beam": "9.2 m",
+                    "Draft": "7.1 m",
+                    "Crew": "109",
+                    "Displacement": "4485 t",
+                    "Propulsion": "1x Nuclear Reactor",
+                    "Decommissioned": "1989"
+                }
+            }
+        ]
+    },
+    {
+        "number": 97,
+        "title": "PLRB-629A Golf II - 1973",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSB - Ballistic Missile Submarine",
+                    "Max Depth": "-300 m",
+                    "Commissioned": "1973",
+                    "Length": "98.4 m",
+                    "Beam": "8.2 m",
+                    "Draft": "7.9 m",
+                    "Crew": "80",
+                    "Displacement": "2794 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    },
+                    "Decommissioned": "1988"
+                }
+            }
+        ]
+    },
+    {
+        "number": 98,
+        "title": "S 320 Narhvalen [Modified Type 205] - 1969",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "18 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-150 m",
+                    "Commissioned": "1969",
+                    "Length": "44.0 m",
+                    "Beam": "4.55 m",
+                    "Draft": "3.98 m",
+                    "Crew": "21",
+                    "Displacement": "435 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 99,
+        "title": "S 326 Delfinen [UB51] - 1975",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "16 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-180 m",
+                    "Commissioned": "1975",
+                    "Length": "53.9 m",
+                    "Beam": "4.7 m",
+                    "Draft": "4.0 m",
+                    "Crew": "33",
+                    "Displacement": "573 t",
+                    "Propulsion": "Electric Motors",
+                    "Decommissioned": "1989"
+                }
+            }
+        ]
+    },
+    {
+        "number": 100,
+        "title": "S 116 Poseidon [Type 209-1200] - 1979",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "21 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-240 m",
+                    "Commissioned": "1979",
+                    "Length": "55.9 m",
+                    "Beam": "6.3 m",
+                    "Draft": "5.5 m",
+                    "Crew": "33",
+                    "Displacement": "1180 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 101,
+        "title": "S 110 Glavkos [Type 209-1100] - 1972",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "21 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SSK - Hunter-Killer Submarine",
+                    "Max Depth": "-240 m",
+                    "Commissioned": "1972",
+                    "Length": "54.1 m",
+                    "Beam": "6.2 m",
+                    "Draft": "5.9 m",
+                    "Crew": "31",
+                    "Displacement": "1100 t",
+                    "Propulsion": "Electric Motors"
+                }
+            }
+        ]
+    },
+    {
+        "number": 102,
+        "title": "S 20 Kursura [PL-641M Foxtrot] - 1968",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "17 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-250 m",
+                    "Commissioned": "1968",
+                    "Length": "91.3 m",
+                    "Beam": "7.5 m",
+                    "Draft": "5.1 m",
+                    "Crew": "70",
+                    "Displacement": "1952 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    },
+                    "Decommissioned": "2010"
+                }
+            }
+        ]
+    },
+    {
+        "number": 103,
+        "title": "S 849 Romeo - 1967",
+        "Country/Type": "相同",
+        "different_data": [
+            {
+                "cmano多的属性": {
+                    "Max Speed": "15 kt"
+                }
+            },
+            {
+                "冷战和cmano的公共属性": {
+                    "Type": "SS - Attack/Fleet Submarine",
+                    "Max Depth": "-270 m",
+                    "Commissioned": "1967",
+                    "Length": "76.7 m",
+                    "Beam": "6.7 m",
+                    "Draft": "7.5 m",
+                    "Crew": "52",
+                    "Displacement": "1328 t",
+                    "Propulsion": {
+                        "冷战": "Electric Motors",
+                        "cmano": "Diesels"
+                    }
+                }
+            }
+        ]
+    }
+]
