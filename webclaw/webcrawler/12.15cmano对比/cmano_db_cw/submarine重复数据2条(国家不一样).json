@@ -14,20 +14,20 @@
                 "Crew": " 52",
                 "Displacement": " 1048 t",
                 "Propulsion": " Electric Motors",
-                "Decommissioned": " 1991\t\t\t\t\t  "
+                "Decommissioned": " 1991  "
             }
         ],
         "Sensors / EW": [
-            "Stop Light A [Nakat] - (Golf Ball) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
-            "Snoop Plate [Flag] - (Golf Ball) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 46.3 km",
-            "Stag Ear [Tamir-11/11M] - (Submarine, MG-11) Hull Sonar, Active-Only\n\t\t\t\t\tHull Sonar, Active-Only Attack Max Range: 3.7 km",
-            "Park Lamp - (Submarine, MG-11) ESM\n\t\t\t\t\tHF/DF Max Range: 926 km",
-            "Trout Cheek [MG-10 Feniks] - (Whiskey) Hull Sonar, Passive-Only\n\t\t\t\t\tHull Sonar, Passive-Only Search Max Range: 3.7 km"
+            "Stop Light A [Nakat] - (Golf Ball) ESM RWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Snoop Plate [Flag] - (Golf Ball) Radar Radar, Surface Search, Short-Range Max Range: 46.3 km",
+            "Stag Ear [Tamir-11/11M] - (Submarine, MG-11) Hull Sonar, Active-Only Hull Sonar, Active-Only Attack Max Range: 3.7 km",
+            "Park Lamp - (Submarine, MG-11) ESM HF/DF Max Range: 926 km",
+            "Trout Cheek [MG-10 Feniks] - (Whiskey) Hull Sonar, Passive-Only Hull Sonar, Passive-Only Search Max Range: 3.7 km"
         ],
         "Weapons": [
-            "53-65K WH -\n\t\t\t\t(1972, Submarine, Widely Used) Torpedo\n\t\t\t\tSurface Max: 7.4 km. ",
-            "53-65N Gyro [NATO 53-68N, 20kT Nuclear] -\n\t\t\t\t(1971, Submarine) Torpedo\n\t\t\t\tSurface Max: 7.4 km. ",
-            "SET-65M Enot-2 [NATO ET-80A[76]] -\n\t\t\t\t(1973, Submarine) Torpedo\n\t\t\t\tSubsurface Max: 7.4 km. "
+            "53-65K WH - (1972, Submarine, Widely Used) Torpedo Surface Max: 7.4 km. ",
+            "53-65N Gyro [NATO 53-68N, 20kT Nuclear] - (1971, Submarine) Torpedo Surface Max: 7.4 km. ",
+            "SET-65M Enot-2 [NATO ET-80A[76]] - (1973, Submarine) Torpedo Subsurface Max: 7.4 km. "
         ]
     },
     {
@@ -50,17 +50,17 @@
             }
         ],
         "Sensors / EW": [
-            "Stop Light A [Nakat] - (Golf Ball) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
-            "Snoop Plate [Flag] - (Golf Ball) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 46.3 km",
-            "Stag Ear [Tamir-11/11M] - (Submarine, MG-11) Hull Sonar, Active-Only\n\t\t\t\t\tHull Sonar, Active-Only Attack Max Range: 3.7 km",
-            "Park Lamp - (Submarine, MG-11) ESM\n\t\t\t\t\tHF/DF Max Range: 926 km",
-            "Trout Cheek [MG-10 Feniks] - (Whiskey) Hull Sonar, Passive-Only\n\t\t\t\t\tHull Sonar, Passive-Only Search Max Range: 3.7 km",
-            "Generic Submarine Periscope, Optical - (1940s/50s, 1x/6x Zoom) Visual\n\t\t\t\t\tVisual, Surveillance Periscope Max Range: 27.8 km"
+            "Stop Light A [Nakat] - (Golf Ball) ESM RWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Snoop Plate [Flag] - (Golf Ball) Radar Radar, Surface Search, Short-Range Max Range: 46.3 km",
+            "Stag Ear [Tamir-11/11M] - (Submarine, MG-11) Hull Sonar, Active-Only Hull Sonar, Active-Only Attack Max Range: 3.7 km",
+            "Park Lamp - (Submarine, MG-11) ESM HF/DF Max Range: 926 km",
+            "Trout Cheek [MG-10 Feniks] - (Whiskey) Hull Sonar, Passive-Only Hull Sonar, Passive-Only Search Max Range: 3.7 km",
+            "Generic Submarine Periscope, Optical - (1940s/50s, 1x/6x Zoom) Visual Visual, Surveillance Periscope Max Range: 27.8 km"
         ],
         "Weapons": [
-            " 53-65K WH -\n\t\t\t\t(1972, Submarine, Widely Used) Torpedo\n\t\t\t\tSurface Max: 7.4 km. ",
-            "53-65N Gyro [NATO 53-68N, 20kT Nuclear] -\n\t\t\t\t(1971, Submarine) Torpedo\n\t\t\t\tSurface Max: 7.4 km. ",
-            "SET-65M Enot-2 [NATO ET-80A[76]] -\n\t\t\t\t(1973, Submarine) Torpedo\n\t\t\t\tSubsurface Max: 7.4 km. "
+            " 53-65K WH - (1972, Submarine, Widely Used) Torpedo Surface Max: 7.4 km. ",
+            "53-65N Gyro [NATO 53-68N, 20kT Nuclear] - (1971, Submarine) Torpedo Surface Max: 7.4 km. ",
+            "SET-65M Enot-2 [NATO ET-80A[76]] - (1973, Submarine) Torpedo Subsurface Max: 7.4 km. "
         ]
     },
     {
@@ -78,20 +78,20 @@
                 "Crew": " 52",
                 "Displacement": " 1328 t",
                 "Propulsion": " Electric Motors",
-                "Decommissioned": " 1991\t\t\t\t\t  "
+                "Decommissioned": " 1991  "
             }
         ],
         "Sensors / EW": [
-            "Stop Light B [Nakat] - (Golf Ball) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
-            "Snoop Plate [Flag] - (Golf Ball) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 46.3 km",
-            "Pike Jaw [MG-200 Arktika] - (Attack Sonar) Hull Sonar, Active-Only\n\t\t\t\t\tHull Sonar, Active-Only Attack Max Range: 3.7 km",
-            "Acoustic Intercept [MG-23 Svet-M] - (Romeo, Foxtrot, MG-200 Arktika Suite) Acoustic Intercept (Active Sonar Warning)\n\t\t\t\t\tAcoustic Intercept Max Range: 27.8 km",
-            "Trout Cheek [MG-10M Feniks-M] - (With Svet Acoustic Intercept, November, Romeo, Foxtrot) Hull Sonar, Active/Passive\n\t\t\t\t\tHull Sonar, Active/Passive Search Max Range: 18.5 km"
+            "Stop Light B [Nakat] - (Golf Ball) ESM RWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Snoop Plate [Flag] - (Golf Ball) Radar Radar, Surface Search, Short-Range Max Range: 46.3 km",
+            "Pike Jaw [MG-200 Arktika] - (Attack Sonar) Hull Sonar, Active-Only Hull Sonar, Active-Only Attack Max Range: 3.7 km",
+            "Acoustic Intercept [MG-23 Svet-M] - (Romeo, Foxtrot, MG-200 Arktika Suite) Acoustic Intercept (Active Sonar Warning) Acoustic Intercept Max Range: 27.8 km",
+            "Trout Cheek [MG-10M Feniks-M] - (With Svet Acoustic Intercept, November, Romeo, Foxtrot) Hull Sonar, Active/Passive Hull Sonar, Active/Passive Search Max Range: 18.5 km"
         ],
         "Weapons": [
-            "53-65K WH -\n\t\t\t\t(1972, Submarine, Widely Used) Torpedo\n\t\t\t\tSurface Max: 7.4 km. ",
-            "53-65N Gyro [NATO 53-68N, 20kT Nuclear] -\n\t\t\t\t(1971, Submarine) Torpedo\n\t\t\t\tSurface Max: 7.4 km. ",
-            "SET-65M Enot-2 [NATO ET-80A[76]] -\n\t\t\t\t(1973, Submarine) Torpedo\n\t\t\t\tSubsurface Max: 7.4 km. "
+            "53-65K WH - (1972, Submarine, Widely Used) Torpedo Surface Max: 7.4 km. ",
+            "53-65N Gyro [NATO 53-68N, 20kT Nuclear] - (1971, Submarine) Torpedo Surface Max: 7.4 km. ",
+            "SET-65M Enot-2 [NATO ET-80A[76]] - (1973, Submarine) Torpedo Subsurface Max: 7.4 km. "
         ]
     },
     {
@@ -114,15 +114,15 @@
             }
         ],
         "Sensors / EW": [
-            "Stop Light B [Nakat] - (Golf Ball) ESM\n\t\t\t\t\tRWR, Radar Warning Receiver Max Range: 222.2 km",
-            "Snoop Plate [Flag] - (Golf Ball) Radar\n\t\t\t\t\tRadar, Surface Search, Short-Range Max Range: 46.3 km",
-            "Pike Jaw [MG-200 Arktika] - (Attack Sonar) Hull Sonar, Active-Only\n\t\t\t\t\tHull Sonar, Active-Only Attack Max Range: 3.7 km",
-            "Acoustic Intercept [MG-23 Svet-M] - (Romeo, Foxtrot, MG-200 Arktika Suite) Acoustic Intercept (Active Sonar Warning)\n\t\t\t\t\tAcoustic Intercept Max Range: 27.8 km",
-            "Trout Cheek [MG-10M Feniks-M] - (With Svet Acoustic Intercept, November, Romeo, Foxtrot) Hull Sonar, Active/Passive\n\t\t\t\t\tHull Sonar, Active/Passive Search Max Range: 18.5 km",
-            "Generic Submarine Periscope, Optical - (1970s, 1.5x/8x Zoom) Visual\n\t\t\t\t\tVisual, Surveillance Periscope Max Range: 41.7 km"
+            "Stop Light B [Nakat] - (Golf Ball) ESM RWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Snoop Plate [Flag] - (Golf Ball) Radar Radar, Surface Search, Short-Range Max Range: 46.3 km",
+            "Pike Jaw [MG-200 Arktika] - (Attack Sonar) Hull Sonar, Active-Only Hull Sonar, Active-Only Attack Max Range: 3.7 km",
+            "Acoustic Intercept [MG-23 Svet-M] - (Romeo, Foxtrot, MG-200 Arktika Suite) Acoustic Intercept (Active Sonar Warning) Acoustic Intercept Max Range: 27.8 km",
+            "Trout Cheek [MG-10M Feniks-M] - (With Svet Acoustic Intercept, November, Romeo, Foxtrot) Hull Sonar, Active/Passive Hull Sonar, Active/Passive Search Max Range: 18.5 km",
+            "Generic Submarine Periscope, Optical - (1970s, 1.5x/8x Zoom) Visual Visual, Surveillance Periscope Max Range: 41.7 km"
         ],
         "Weapons": [
-            "SAET-60M WH -\n\t\t\t\t(1970, Submarine) Torpedo\n\t\t\t\tSurface Max: 5.6 km. "
+            "SAET-60M WH - (1970, Submarine) Torpedo Surface Max: 5.6 km. "
         ]
     }
 ]
