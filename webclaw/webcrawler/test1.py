@@ -43,7 +43,6 @@ if __name__ == '__main__':
         'ship_cw全部2458.json',
         'submarine_cw全部519.json'
     ]
-
     cmano_list = [
         'aircraft全部5231.json',
         'facility全部3314.json',
