@@ -6,7 +6,7 @@
 
 @Modify Time      @Author    @Version    @Desciption
 ------------      -------    --------    -----------
-2021/12/13 下午3:50   SEA      1.0         None
+2021/12/13 下午3:50   SEA      1.0       转换QA为合并格式
 """
 import json
 from tqdm import tqdm

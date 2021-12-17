@@ -6,7 +6,7 @@
 
 @Modify Time      @Author    @Version    @Desciption
 ------------      -------    --------    -----------
-2021/12/13 上午10:05   SEA      1.0         None
+2021/12/13 上午10:05   SEA      1.0     转换武器大全为合并格式
 """
 
 import json

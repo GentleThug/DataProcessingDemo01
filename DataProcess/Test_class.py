@@ -9,7 +9,15 @@
 2021/12/13 下午3:50   SEA      1.0         None
 """
 import json
+import random
+import time
+from hashlib import md5
+
 import jieba
+import requests
+from pyhanlp import *
+import nltk
+from tqdm import tqdm
 
 
 def getLen():
@@ -212,6 +220,7 @@ def get_different():
     # print(len(file3))
 
 
+# 判断中文
 def is_chinese(string):
     for ch in string:
         if u'\u4e00' <= ch <= u'\u9fff':
@@ -220,6 +229,50 @@ def is_chinese(string):
     return False
 
 
+# 中文翻译优化
+def translate_opt():
+    file_list = [
+        'res_aircraft整合9069.json',
+        # 'res_facility整合5674.json',
+        # 'res_sensor整合6208.json',
+        # 'res_ship整合5840.json',
+        # 'res_submarine整合1165.json',
+        # 'res_weapon整合3715.json',
+    ]
+    for i in file_list:
+        with open('cmano_data/12.15_translate/' + i, 'r', encoding='utf-8') as f:
+            file = json.load(f)
+        for j in file:
+            print("原名称：", j['名称'])
+            # 根据中文逗号split
+            split_douhao = j['名称'].split('，')[0]
+            step_1 = [str(j) for j in split_douhao]
+            step_2 = ''.join(step_1)
+            # print(HanLP.extractKeyword(j['名称'], len(j['名称'].split('，'))))
+
+            # 根据中文括号split
+            split_kuohao = step_2.split("（")[0]
+            step_3 = [str(j) for j in split_kuohao]
+            step_4 = ''.join(step_3)
+
+            # 根据英文中括号split
+            split_en_zhongkuohao = step_4.split("[")[0]
+            step_5 = [str(j) for j in split_en_zhongkuohao]
+            step_6 = ''.join(step_5)
+
+            # 根据中文中括号split
+            split_ch_zhongkuohao = step_6.split("【")[0]
+            step_7 = [str(j) for j in split_ch_zhongkuohao]
+            step_8 = ''.join(step_7)
+
+
+            print("名称处理后：", step_8)
+            print("分关键词：", HanLP.extractKeyword(step_8, len(step_8)))
+            # print("分词：", HanLP.segment(step_6))
+            print()
+
+
+# 提取关键词匹配翻译出的CMANO与武器大全
 def weapon_cmano_compare():
     file_list = [
         'res_aircraft整合9069.json',
@@ -231,15 +284,69 @@ def weapon_cmano_compare():
     ]
     with open('weapon_data/12.13/武器大全_quchong_beifen.json', 'r', encoding='utf-8') as f:
         file1 = json.load(f)
-    for i in file_list:
-        with open('cmano_data/12.15_translate/' + i, 'r', encoding='utf-8') as f:
-            file2 = json.load(f)
-        for j in file2:
-            jieba_res = jieba.lcut(j['名称'])
-            print(jieba_res)
-            for k in jieba_res:
-                if is_chinese(k):
-                    pass
+    for i in file1:
+        print()
+    # for i in file_list:
+    #     with open('cmano_data/12.15_translate/' + i, 'r', encoding='utf-8') as f:
+    #         file2 = json.load(f)
+    #     for j in file2:
+    #         key_word = HanLP.extractKeyword(j['名称'], len(j['名称']))
+    #         # print(i)
+    #         print("名称：", j['名称'])
+    #         print("关键词提取：", key_word)
+    #         print()
+
+
+def translate_weapon_BaiduAPI(text):
+    time.sleep(1)
+
+    def make_md5(s, encoding='utf-8'):
+        return md5(s.encode(encoding)).hexdigest()
+
+    # 设置您自己的 appid appkey
+    # appid = '20210103000662608'
+    # appkey = 'XjdpSSpFdJ0gEOGy0lO6'
+
+    appid = '20211215001028934'
+    appkey = 'NLo0hEf0Dp5feEonwS4K'
+
+    url = 'http://api.fanyi.baidu.com/api/trans/vip/translate'
+
+    query = text
+
+    salt = random.randint(32768, 65536)
+    sign = make_md5(appid + query + str(salt) + appkey)
+
+    # Build request构建请求
+    headers = {'Content-Type': 'application/x-www-form-urlencoded'}
+    # 中文转英文
+    payload = {'appid': appid, 'q': query, 'from': 'zh', 'to': 'en', 'salt': salt, 'sign': sign}
+
+    # Send request发送请求
+    r = requests.post(url, params=payload, headers=headers)
+    result = r.json()
+
+    # Show response显示回复
+    # print(json.dumps(result, indent=4, ensure_ascii=False))
+    return result['trans_result'][0].get('dst')
+
+
+def translate_weapon(file_name):
+    data = []
+    with open('merge_data/12.16/' + file_name, 'r', encoding='utf-8') as f:
+        file = json.load(f)
+    for i in tqdm(file):
+        for j, k in i.items():
+            try:
+                title = translate_weapon_BaiduAPI(j)
+            except:
+                title = ""
+            dic = {"title": title, j: k}
+        data.append(dic)
+    with open('merge_data/12.16/translate_result/' + file_name, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
+    f.close()
+
 
 if __name__ == '__main__':
     # getLen()
@@ -252,5 +359,14 @@ if __name__ == '__main__':
     # filter_program_data('weapon整合3715.json')
     # filter_program('res_filter_weapon整合3715.json')
     # weapon_cmano_compare()
-    get_different()
+    # weapon_cmano_compare()
+    # translate_opt()
+
+    # nltk.download('punkt')
+    # NLTK分词
+    # sentence = "Motor Rifle Plt (BTR-82A APC x 3)"
+    # tokens = nltk.word_tokenize(sentence)
+    # print(tokens)
+    translate_weapon('res_Weapon_data_12.16_2.json')
+
     pass

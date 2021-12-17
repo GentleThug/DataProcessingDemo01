@@ -36,6 +36,30 @@ def cmano_strip(file_list):
         print(len(file))
 
 
+
+# def compare_qvchong():
+#     with open('12.16冷战camno/冷战cmano对比/V1.0/facility对比数据_3112.json', 'r', encoding='utf-8') as f:
+#         file = json.load(f)
+#     for i in file:
+#         dic1 = {}
+#         for j, t in i.items():
+#             if t != 'number':
+#                dic1.update({j: t})
+#
+#         for j in file:
+#             if i['title'] == j['title']:
+#                 if i['number'] != j['number']:
+#                     dic2 = {}
+#                     for k, t in j.items():
+#                         if t != 'number':
+#                             dic2.update({k: t})
+#                         # print("dic1:", dic1)
+#                         # print("dic2:", dic2)
+#                     if dic1 == dic2:
+#                         print("True")
+
+
+
 if __name__ == '__main__':
     cw_list = [
         'aircraft_cw全部3838.json',
@@ -53,4 +77,5 @@ if __name__ == '__main__':
 
     ]
     # cw_strip(cw_list)
-    cmano_strip(cmano_list)
+    # cmano_strip(cmano_list)
+    # compare_qvchong()
