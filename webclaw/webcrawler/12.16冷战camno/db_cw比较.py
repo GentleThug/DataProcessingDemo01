@@ -10,10 +10,11 @@ import json
 
 
 if __name__ == '__main__':
-    with open('cmano_cw/aircraft_cw全部3838.json', 'r', encoding='utf-8') as f:
+    with open('cmano_cw/submarine_cw全部519.json', 'r', encoding='utf-8') as f:
         file1 = json.load(f)
-    with open('cmano_db/aircraft全部5231.json', 'r', encoding='utf-8') as f:
+    with open('cmano_db/submarine全部646.json', 'r', encoding='utf-8') as f:
         file2 = json.load(f)
+    filename = 'submarine'
     # with open('test1.json', 'r', encoding='utf-8') as f:
     #     file1 = json.load(f)
     # with open('test2.json', 'r', encoding='utf-8') as f:
@@ -34,7 +35,9 @@ if __name__ == '__main__':
                 # 国家相同？
                 if i['Country/Type'] == j['Country/Type']:
                     con['Country/Type'] = '相同'
-                    con['different_data'] = ""
+                    country = {}
+                    country["国家"] = i['Country/Type']
+                    different_data.append(country)
                 else:
                     con['Country/Type'] = '不同'
                     country = {}
@@ -47,7 +50,8 @@ if __name__ == '__main__':
                 # 一般属性相同?
                 if i['General data'] == j['General data']:
                     con['General data'] = '相同'
-
+                    con['General data'] = j['General data']
+                    different_data = '数据相同'
                 else:
                     # 公共属性数据
                     common_data = {}
@@ -110,11 +114,34 @@ if __name__ == '__main__':
                     z[n] = con[n]
 
                 data.append(z)
-
+    # result =[]
+    # b = []
+    # a = 0
+    # for i in data:
+    #     count_num = 0
+    #     for j in data:
+    #         if i['title'] == j['title']:
+    #             if i['Country/Type'] == j['Country/Type']:
+    #                 if i['different_data'] == j['different_data']:
+    #                     count_num += 1
+    #                     if count_num > 1 and (i['number'] is not a):
+    #                         b.append(i['number'])
+    #                     if count_num > 1:
+    #                         print(i['number'],':',i['title'],count_num)
+    #                         a = i['number']
+    #                         result.append(a)
+    # save = []
+    # for i in data:
+    #     for j in result:
+    #         if i['number'] is not j:
+    #             save.append(i)
             # data.append(con)
 
-    with open('冷战cmano对比/aircraft对比数据.json', 'w', encoding='utf-8') as f:
+    with open('冷战cmano对比/'+ str(filename) +'对比数据'+ str(count) +'.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
+    # with open('冷战cmano对比/' + str(filename) + '对比数据save' + str(count) + '.json', 'w', encoding='utf-8') as f:
+    #     json.dump(save, f, indent=4, ensure_ascii=False)
+
     # with open('cmano_db_cw/aircraft重复数据' + str(len(con)//2) + '条（国家一样）.json', 'w', encoding='utf-8') as f:
     #     json.dump(con, f, indent=4, ensure_ascii=False)
-    # print(json.dumps(data, indent=4, ensure_ascii=False))
+    # print(json.dumps(save, indent=4, ensure_ascii=False))
