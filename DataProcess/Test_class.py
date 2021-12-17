@@ -13,7 +13,6 @@ import random
 import time
 from hashlib import md5
 
-import jieba
 import requests
 from pyhanlp import *
 import nltk
@@ -304,11 +303,11 @@ def translate_weapon_BaiduAPI(text):
         return md5(s.encode(encoding)).hexdigest()
 
     # 设置您自己的 appid appkey
-    # appid = '20210103000662608'
-    # appkey = 'XjdpSSpFdJ0gEOGy0lO6'
+    appid = '20210103000662608'
+    appkey = 'XjdpSSpFdJ0gEOGy0lO6'
 
-    appid = '20211215001028934'
-    appkey = 'NLo0hEf0Dp5feEonwS4K'
+    # appid = '20211215001028934'
+    # appkey = 'NLo0hEf0Dp5feEonwS4K'
 
     url = 'http://api.fanyi.baidu.com/api/trans/vip/translate'
 
@@ -341,6 +340,8 @@ def translate_weapon(file_name):
                 title = translate_weapon_BaiduAPI(j)
             except:
                 title = ""
+                print("False")
+
             dic = {"title": title, j: k}
         data.append(dic)
     with open('merge_data/12.16/translate_result/' + file_name, 'w', encoding='utf-8') as f:
