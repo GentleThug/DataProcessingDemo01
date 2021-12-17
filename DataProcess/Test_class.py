@@ -13,10 +13,8 @@ import random
 import time
 from hashlib import md5
 
-import jieba
+
 import requests
-from pyhanlp import *
-import nltk
 from tqdm import tqdm
 
 
@@ -230,46 +228,46 @@ def is_chinese(string):
 
 
 # 中文翻译优化
-def translate_opt():
-    file_list = [
-        'res_aircraft整合9069.json',
-        # 'res_facility整合5674.json',
-        # 'res_sensor整合6208.json',
-        # 'res_ship整合5840.json',
-        # 'res_submarine整合1165.json',
-        # 'res_weapon整合3715.json',
-    ]
-    for i in file_list:
-        with open('cmano_data/12.15_translate/' + i, 'r', encoding='utf-8') as f:
-            file = json.load(f)
-        for j in file:
-            print("原名称：", j['名称'])
-            # 根据中文逗号split
-            split_douhao = j['名称'].split('，')[0]
-            step_1 = [str(j) for j in split_douhao]
-            step_2 = ''.join(step_1)
-            # print(HanLP.extractKeyword(j['名称'], len(j['名称'].split('，'))))
-
-            # 根据中文括号split
-            split_kuohao = step_2.split("（")[0]
-            step_3 = [str(j) for j in split_kuohao]
-            step_4 = ''.join(step_3)
-
-            # 根据英文中括号split
-            split_en_zhongkuohao = step_4.split("[")[0]
-            step_5 = [str(j) for j in split_en_zhongkuohao]
-            step_6 = ''.join(step_5)
-
-            # 根据中文中括号split
-            split_ch_zhongkuohao = step_6.split("【")[0]
-            step_7 = [str(j) for j in split_ch_zhongkuohao]
-            step_8 = ''.join(step_7)
-
-
-            print("名称处理后：", step_8)
-            print("分关键词：", HanLP.extractKeyword(step_8, len(step_8)))
-            # print("分词：", HanLP.segment(step_6))
-            print()
+# def translate_opt():
+#     file_list = [
+#         'res_aircraft整合9069.json',
+#         # 'res_facility整合5674.json',
+#         # 'res_sensor整合6208.json',
+#         # 'res_ship整合5840.json',
+#         # 'res_submarine整合1165.json',
+#         # 'res_weapon整合3715.json',
+#     ]
+#     for i in file_list:
+#         with open('cmano_data/12.15_translate/' + i, 'r', encoding='utf-8') as f:
+#             file = json.load(f)
+#         for j in file:
+#             print("原名称：", j['名称'])
+#             # 根据中文逗号split
+#             split_douhao = j['名称'].split('，')[0]
+#             step_1 = [str(j) for j in split_douhao]
+#             step_2 = ''.join(step_1)
+#             # print(HanLP.extractKeyword(j['名称'], len(j['名称'].split('，'))))
+#
+#             # 根据中文括号split
+#             split_kuohao = step_2.split("（")[0]
+#             step_3 = [str(j) for j in split_kuohao]
+#             step_4 = ''.join(step_3)
+#
+#             # 根据英文中括号split
+#             split_en_zhongkuohao = step_4.split("[")[0]
+#             step_5 = [str(j) for j in split_en_zhongkuohao]
+#             step_6 = ''.join(step_5)
+#
+#             # 根据中文中括号split
+#             split_ch_zhongkuohao = step_6.split("【")[0]
+#             step_7 = [str(j) for j in split_ch_zhongkuohao]
+#             step_8 = ''.join(step_7)
+#
+#
+#             print("名称处理后：", step_8)
+#             print("分关键词：", HanLP.extractKeyword(step_8, len(step_8)))
+#             # print("分词：", HanLP.segment(step_6))
+#             print()
 
 
 # 提取关键词匹配翻译出的CMANO与武器大全
@@ -307,8 +305,8 @@ def translate_weapon_BaiduAPI(text):
     # appid = '20210103000662608'
     # appkey = 'XjdpSSpFdJ0gEOGy0lO6'
 
-    appid = '20211215001028934'
-    appkey = 'NLo0hEf0Dp5feEonwS4K'
+    appid = '20211215001029353'
+    appkey = 'oqCmKhpfoV2i1uuFE9iw'
 
     url = 'http://api.fanyi.baidu.com/api/trans/vip/translate'
 
@@ -367,6 +365,6 @@ if __name__ == '__main__':
     # sentence = "Motor Rifle Plt (BTR-82A APC x 3)"
     # tokens = nltk.word_tokenize(sentence)
     # print(tokens)
-    translate_weapon('res_Weapon_data_12.16_1.json')
+    translate_weapon('res_Weapon_data_12.16_2.json')
 
     pass
