@@ -367,6 +367,6 @@ if __name__ == '__main__':
     # sentence = "Motor Rifle Plt (BTR-82A APC x 3)"
     # tokens = nltk.word_tokenize(sentence)
     # print(tokens)
-    translate_weapon('res_Weapon_data_12.16_2.json')
+    translate_weapon('res_Weapon_data_12.16_1.json')
 
     pass
