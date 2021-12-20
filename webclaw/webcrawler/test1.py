@@ -74,7 +74,6 @@ if __name__ == '__main__':
         'ship全部3382.json',
         'submarine全部646.json',
         'weapon全部3715.json',
-
     ]
     # cw_strip(cw_list)
     # cmano_strip(cmano_list)

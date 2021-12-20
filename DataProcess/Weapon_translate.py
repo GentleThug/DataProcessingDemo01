@@ -50,7 +50,7 @@ def translate_weapon_BaiduAPI(text):
     # print(json.dumps(result, indent=4, ensure_ascii=False))
     return result['trans_result'][0].get('dst')
 
-
+#
 def translate_weapon(file_name):
     data = []
     with open('merge_data/12.16/' + file_name, 'r', encoding='utf-8') as f:
