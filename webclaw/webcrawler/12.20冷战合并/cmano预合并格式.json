@@ -1,0 +1,138 @@
+[
+    {
+        "P-3C Orion Baseline - 1978": {
+            "title": "P-3C Orion Baseline - 1978",
+            "url": {
+                "cmano": ["http://cmano-db.com/aircraft/22/"],
+                "冷战": ["http://cmano-db.com/cw/aircraft/1588/"]
+            },
+            "Country/Type": ["United States"],
+            "Type": "Maritime Patrol Aircraft (MPA)",
+            "Crew": "10",
+            "Min Speed": "205 kt",
+            "Max Speed": "410 kt",
+            "Wingspan": "30.4 m",
+            "Height": "10.3 m",
+            "Length": "35.6 m",
+            "Max Payload": "9070 kg",
+            "Empty Weight": "27890 kg",
+            "Max Weight": "61235 kg",
+            "Operator": "Navy",
+            "Commissioned": "1978",
+            "Propulsion": "4x T56-A-14",
+            "Sensors / EW": [
+                "AN/APS-115 -  Radar Radar, Surface Search, Long-Range Max Range: 370.4 km",
+                "AN/ALD-2 DF -  ESM HF/DF Max Range: 926 km",
+                "AN/ASQ-81(V)1 - (P-3C) MAD MAD Max Range: 1.9 km",
+                "KA-74 - (P-3C) Visual Visual, Reconnaissance Frame Camera Max Range: 9.3 km"
+            ],
+            "Weapons / Loadouts": [
+                "Mk46 LWT Mod 2 - (1972) Torpedo Subsurface Max: 5.6 km. ",
+                "AN/SSQ-41B Jezebel LOFAR - (1978, A-Size, 31 Chn, 18/304m, Most Widely Used) Sonobuoy ",
+                "AN/SSQ-50B CASS - (A-Size, 18/457m, 1hr) Sonobuoy ",
+                "Mine [Mk52 1000lb] - (1962) Bottom Mine ",
+                "Mine [Mk55 2000lb] - (1962, 180m max depth) Bottom Mine ",
+                "B57 Multipurpose Sub Bomb [20kT Nuclear] - (Aerial) Depth Charge Subsurface Max: 0.9 km. "
+            ]
+        }
+    },
+    {
+        "SH-3D Sea King [ASH-3D] - 1979":{
+            "title": "SH-3D Sea King [ASH-3D] - 1979",
+            "url": {
+                "cmano": ["http://cmano-db.com/aircraft/3092/",
+                        "http://cmano-db.com/aircraft/1958/",
+                        "http://cmano-db.com/aircraft/110/"
+                ],
+                "冷战": ["http://cmano-db.com/cw/aircraft/2934/",
+                        "http://cmano-db.com/cw/aircraft/2598/",
+                        "http://cmano-db.com/cw/aircraft/2350/"
+                ]
+            },
+            "Country/Type": ["Italy", "Iran", "Peru"],
+            "Type": "Anti-Submarine Warfare (ASW)",
+            "Crew": "4",
+            "Wingspan": "5.1 m",
+            "Height": "5.1 m",
+            "Length": {
+                "Italy/Iran": "16.7 m",
+                "Peru": "16.5 m"
+            },
+            "Max Payload": "381 kg",
+            "Empty Weight": "5382 kg",
+            "Max Weight": "10000 kg",
+            "Operator": "Navy",
+            "Commissioned": "1979",
+            "Propulsion": "2x T58-GE-10",
+            "Sensors / EW": [{
+                "Italy": [
+                    "Colibri [ELT 161, ESM] - (Farad) ESM ELINT Max Range: 926 km",
+                    "AN/AQS-13B - (Farad) Dipping Sonar, Active-Only Dipping Sonar, Active-Only Search & Track Max Range: 5.6 km",
+                    "Generic MAD - (Farad) MAD MAD Max Range: 1.9 km",
+                    "MM/APQ-706 [Sea Spray Mk1] - (SPQ-711, Sea Killer director) Radar Radar, FCR, Air-to-Surface, Medium-Range Max Range: 148.2 km"
+                ],
+                "Iran": [
+                    "Colibri [ELT 161, ESM] - (Farad) ESM ELINT Max Range: 926 km",
+                    "AN/AQS-13B - (Farad) Dipping Sonar, Active-Only Dipping Sonar, Active-Only Search & Track Max Range: 5.6 km",
+                    "MM/APQ-706 [Sea Spray Mk1] - (SPQ-711, Sea Killer director) Radar Radar, FCR, Air-to-Surface, Medium-Range Max Range: 148.2 km"
+                ],
+                "Peru": [
+                    "Colibri [ELT 161, ESM] - (Farad) ESM ELINT Max Range: 926 km",
+                    "AN/AQS-13B - (Farad) Dipping Sonar, Active-Only Dipping Sonar, Active-Only Search & Track Max Range: 5.6 km"
+                ]
+            }],
+            "Weapons / Loadouts": [{
+                "Italy": [
+                    "Marte Mk1 - (1979, Sea Killer Mk2) Guided Weapon Surface Max: 25.9 km. ",
+                    "Mk46 LWT Mod 2 - (1972) Torpedo Subsurface Max: 5.6 km. "
+                ],
+                "Iran": [
+                    "Mk46 LWT Mod 2 - (1972) Torpedo Subsurface Max: 5.6 km. ",
+                    "Mk11 Depth Charge - (UK, Aerial) Depth Charge Subsurface Max: 0.9 km. "
+                ],
+                "Peru": [
+                    "A.244 - (1976) Torpedo Subsurface Max: 5.6 km. "
+                ]
+
+            }]
+        }
+    },
+    {
+        "MB.326GB - 1971, 20x Initially, 18x by 1978":{
+            "title": "MB.326GB - 1971, 20x Initially, 18x by 1978",
+            "url": {
+                "cmano": ["http://cmano-db.com/aircraft/4993/"],
+                "冷战": ["http://cmano-db.com/cw/aircraft/4089/"]
+            },
+            "Country/Type": ["Zambia"],
+            "Type": "Attack",
+            "Crew": {
+                "cmano": "1",
+                "冷战": "2"
+            },
+            "Min Speed": "300 kt",
+            "Max Speed": "430 kt",
+            "Wingspan": {
+                "cmano": "10.6 m",
+                "冷战": "10.9 m"
+            },
+            "Height": {
+                "cmano": "3.7 m",
+                "冷战": "3.0 m"
+            },
+            "Length": "10.7 m",
+            "Max Payload": "900 kg",
+            "Empty Weight": "2237 kg",
+            "Max Weight": "3765 kg",
+            "Operator": "Air Force",
+            "Commissioned": "1971",
+            "Propulsion": "1x Viper Mk.540-20",
+            "Weapons / Loadouts": [
+                "Mk82 500lb LDGP - (1954) Bomb Surface Max: 1.9 km. Land Max: 1.9 km. ",
+                "SNEB 68mm Rocket - (TDA 68mm, TBA 68 mm) Rocket Surface Max: 3.7 km. Land Max: 3.7 km. ",
+                "340 liter Drop Tank -  Drop Tank ",
+                "Mk81 250lb LDGP - (1954) Bomb Surface Max: 1.9 km. Land Max: 1.9 km. "
+            ]
+        }
+    }
+]
