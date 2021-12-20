@@ -1,0 +1,480 @@
+[
+    {
+        "http://cmano-db.com/cw/aircraft/4116/": {
+            "title": {
+                "value": "An-24B Coke - 1962, 20x",
+                "source": "http://cmano-db.com/cw/aircraft/4116/"
+            },
+            "Country/Type": {
+                "value": "Cuba",
+                "source": "http://cmano-db.com/cw/aircraft/4116/"
+            },
+            "大类": {
+                "value": "aircraft",
+                "source": "http://cmano-db.com/cw/aircraft/4116/"
+            },
+            "Type": {
+                "value": "Transport",
+                "source": "http://cmano-db.com/cw/aircraft/4116/"
+            },
+            "Crew": {
+                "value": "5",
+                "source": "http://cmano-db.com/cw/aircraft/4116/"
+            },
+            "Wingspan": {
+                "value": "29.2 m",
+                "source": "http://cmano-db.com/cw/aircraft/4116/"
+            },
+            "Height": {
+                "value": "8.3 m",
+                "source": "http://cmano-db.com/cw/aircraft/4116/"
+            },
+            "Length": {
+                "value": "23.5 m",
+                "source": "http://cmano-db.com/cw/aircraft/4116/"
+            },
+            "Max Payload": {
+                "value": "5500 kg",
+                "source": "http://cmano-db.com/cw/aircraft/4116/"
+            },
+            "Empty Weight": {
+                "value": "13300 kg",
+                "source": "http://cmano-db.com/cw/aircraft/4116/"
+            },
+            "Max Weight": {
+                "value": "21000 kg",
+                "source": "http://cmano-db.com/cw/aircraft/4116/"
+            },
+            "Operator": {
+                "value": "Air Force",
+                "source": "http://cmano-db.com/cw/aircraft/4116/"
+            },
+            "Commissioned": {
+                "value": "1962",
+                "source": "http://cmano-db.com/cw/aircraft/4116/"
+            },
+            "Propulsion": {
+                "value": "2x AI-24A",
+                "source": "http://cmano-db.com/cw/aircraft/4116/"
+            },
+            "Decommissioned": {
+                "value": "2004",
+                "source": "http://cmano-db.com/cw/aircraft/4116/"
+            },
+            "Sensors / EW": [
+                {
+                    "value": "Generic Weather Radar -  Radar Radar, Weather Max Range: 64.8 km",
+                    "source": "http://cmano-db.com/cw/aircraft/4116/"
+                }
+            ],
+            "Weapons / Loadouts": [
+                {
+                    "value": "Cargo [No Drop, 2 tons] -  Cargo ",
+                    "source": "http://cmano-db.com/cw/aircraft/4116/"
+                },
+                {
+                    "value": "Cargo [No Drop, 5.5 tons] -  Cargo ",
+                    "source": "http://cmano-db.com/cw/aircraft/4116/"
+                },
+                {
+                    "value": "Cargo [Air Drop, 5.5 tons] -  Cargo ",
+                    "source": "http://cmano-db.com/cw/aircraft/4116/"
+                }
+            ]
+        }
+    },
+    {
+        "http://cmano-db.com/cw/aircraft/4115/": {
+            "title": {
+                "value": "An-2M Colt - 1960, 50x",
+                "source": "http://cmano-db.com/cw/aircraft/4115/"
+            },
+            "Country/Type": {
+                "value": "Cuba",
+                "source": "http://cmano-db.com/cw/aircraft/4115/"
+            },
+            "大类": {
+                "value": "aircraft",
+                "source": "http://cmano-db.com/cw/aircraft/4115/"
+            },
+            "Type": {
+                "value": "Transport",
+                "source": "http://cmano-db.com/cw/aircraft/4115/"
+            },
+            "Crew": {
+                "value": "2",
+                "source": "http://cmano-db.com/cw/aircraft/4115/"
+            },
+            "Wingspan": {
+                "value": "18.2 m",
+                "source": "http://cmano-db.com/cw/aircraft/4115/"
+            },
+            "Height": {
+                "value": "4.1 m",
+                "source": "http://cmano-db.com/cw/aircraft/4115/"
+            },
+            "Length": {
+                "value": "12.4 m",
+                "source": "http://cmano-db.com/cw/aircraft/4115/"
+            },
+            "Max Payload": {
+                "value": "2140 kg",
+                "source": "http://cmano-db.com/cw/aircraft/4115/"
+            },
+            "Empty Weight": {
+                "value": "3300 kg",
+                "source": "http://cmano-db.com/cw/aircraft/4115/"
+            },
+            "Max Weight": {
+                "value": "5440 kg",
+                "source": "http://cmano-db.com/cw/aircraft/4115/"
+            },
+            "Operator": {
+                "value": "Air Force",
+                "source": "http://cmano-db.com/cw/aircraft/4115/"
+            },
+            "Commissioned": {
+                "value": "1960",
+                "source": "http://cmano-db.com/cw/aircraft/4115/"
+            },
+            "Propulsion": {
+                "value": "1x Shvetsov ASh-62",
+                "source": "http://cmano-db.com/cw/aircraft/4115/"
+            },
+            "Decommissioned": {
+                "value": "2004",
+                "source": "http://cmano-db.com/cw/aircraft/4115/"
+            },
+            "Weapons / Loadouts": [
+                {
+                    "value": "Paratrooper -  Paratroops ",
+                    "source": "http://cmano-db.com/cw/aircraft/4115/"
+                },
+                {
+                    "value": "Cargo [No Drop, 0.5 ton] -  Cargo ",
+                    "source": "http://cmano-db.com/cw/aircraft/4115/"
+                },
+                {
+                    "value": "Trooper -  Troops ",
+                    "source": "http://cmano-db.com/cw/aircraft/4115/"
+                }
+            ]
+        }
+    },
+    {
+        "http://cmano-db.com/cw/aircraft/4114/": {
+            "title": {
+                "value": "Aero Commander 560 - 1956, 2x",
+                "source": "http://cmano-db.com/cw/aircraft/4114/"
+            },
+            "Country/Type": {
+                "value": "Cuba",
+                "source": "http://cmano-db.com/cw/aircraft/4114/"
+            },
+            "大类": {
+                "value": "aircraft",
+                "source": "http://cmano-db.com/cw/aircraft/4114/"
+            },
+            "Type": {
+                "value": "Transport",
+                "source": "http://cmano-db.com/cw/aircraft/4114/"
+            },
+            "Crew": {
+                "value": "2",
+                "source": "http://cmano-db.com/cw/aircraft/4114/"
+            },
+            "Wingspan": {
+                "value": "15.09 m",
+                "source": "http://cmano-db.com/cw/aircraft/4114/"
+            },
+            "Height": {
+                "value": "4.42 m",
+                "source": "http://cmano-db.com/cw/aircraft/4114/"
+            },
+            "Length": {
+                "value": "10.7 m",
+                "source": "http://cmano-db.com/cw/aircraft/4114/"
+            },
+            "Max Payload": {
+                "value": "960 kg",
+                "source": "http://cmano-db.com/cw/aircraft/4114/"
+            },
+            "Empty Weight": {
+                "value": "2110 kg",
+                "source": "http://cmano-db.com/cw/aircraft/4114/"
+            },
+            "Max Weight": {
+                "value": "3402 kg",
+                "source": "http://cmano-db.com/cw/aircraft/4114/"
+            },
+            "Operator": {
+                "value": "Air Force",
+                "source": "http://cmano-db.com/cw/aircraft/4114/"
+            },
+            "Commissioned": {
+                "value": "1956",
+                "source": "http://cmano-db.com/cw/aircraft/4114/"
+            },
+            "Propulsion": {
+                "value": "2x Lycoming GO-480B",
+                "source": "http://cmano-db.com/cw/aircraft/4114/"
+            },
+            "Decommissioned": {
+                "value": "1958",
+                "source": "http://cmano-db.com/cw/aircraft/4114/"
+            },
+            "Weapons / Loadouts": [
+                {
+                    "value": "Passenger - (Luggage Incl) Cargo ",
+                    "source": "http://cmano-db.com/cw/aircraft/4114/"
+                }
+            ]
+        }
+    },
+    {
+        "http://cmano-db.com/cw/aircraft/4113/": {
+            "title": {
+                "value": "Aero Commander 560 - 1954",
+                "source": "http://cmano-db.com/cw/aircraft/4113/"
+            },
+            "Country/Type": {
+                "value": "Civilian",
+                "source": "http://cmano-db.com/cw/aircraft/4113/"
+            },
+            "大类": {
+                "value": "aircraft",
+                "source": "http://cmano-db.com/cw/aircraft/4113/"
+            },
+            "Type": {
+                "value": "Commercial",
+                "source": "http://cmano-db.com/cw/aircraft/4113/"
+            },
+            "Crew": {
+                "value": "2",
+                "source": "http://cmano-db.com/cw/aircraft/4113/"
+            },
+            "Wingspan": {
+                "value": "15.09 m",
+                "source": "http://cmano-db.com/cw/aircraft/4113/"
+            },
+            "Height": {
+                "value": "4.42 m",
+                "source": "http://cmano-db.com/cw/aircraft/4113/"
+            },
+            "Length": {
+                "value": "10.7 m",
+                "source": "http://cmano-db.com/cw/aircraft/4113/"
+            },
+            "Max Payload": {
+                "value": "960 kg",
+                "source": "http://cmano-db.com/cw/aircraft/4113/"
+            },
+            "Empty Weight": {
+                "value": "2110 kg",
+                "source": "http://cmano-db.com/cw/aircraft/4113/"
+            },
+            "Max Weight": {
+                "value": "3402 kg",
+                "source": "http://cmano-db.com/cw/aircraft/4113/"
+            },
+            "Operator": {
+                "value": "Civilian",
+                "source": "http://cmano-db.com/cw/aircraft/4113/"
+            },
+            "Commissioned": {
+                "value": "1954",
+                "source": "http://cmano-db.com/cw/aircraft/4113/"
+            },
+            "Propulsion": {
+                "value": "2x Lycoming GO-480B",
+                "source": "http://cmano-db.com/cw/aircraft/4113/"
+            },
+            "Weapons / Loadouts": [
+                {
+                    "value": "Passenger - (Luggage Incl) Cargo ",
+                    "source": "http://cmano-db.com/cw/aircraft/4113/"
+                }
+            ]
+        }
+    },
+    {
+        "http://cmano-db.com/weapon/5/": {
+            "title": {
+                "value": "RB 77 I-HAWK [MIM-23C] (1984)",
+                "source": "http://cmano-db.com/weapon/5/"
+            },
+            "Country/Type": {
+                "value": "Guided Weapon",
+                "source": "http://cmano-db.com/weapon/5/"
+            },
+            "大类": {
+                "value": "weapon",
+                "source": "http://cmano-db.com/weapon/5/"
+            },
+            "Type": {
+                "value": "Guided Weapon",
+                "source": "http://cmano-db.com/weapon/5/"
+            },
+            "Weight": {
+                "value": "625.0 kg",
+                "source": "http://cmano-db.com/weapon/5/"
+            },
+            "Length": {
+                "value": "5.03 m",
+                "source": "http://cmano-db.com/weapon/5/"
+            },
+            "Span": {
+                "value": "1.19 m",
+                "source": "http://cmano-db.com/weapon/5/"
+            },
+            "Diameter": {
+                "value": "0.37",
+                "source": "http://cmano-db.com/weapon/5/"
+            },
+            "Generation": {
+                "value": "None",
+                "source": "http://cmano-db.com/weapon/5/"
+            },
+            "Properties": [
+                {
+                    "value": "Illuminate at Launch, Anti-Air All-Aspect",
+                    "source": "http://cmano-db.com/weapon/5/"
+                }
+            ],
+            "Targets": [
+                {
+                    "value": "Aircraft, Helicopter, Missile",
+                    "source": "http://cmano-db.com/weapon/5/"
+                }
+            ],
+            "Sensors / EW": [
+                {
+                    "value": "46.3 km",
+                    "source": "http://cmano-db.com/weapon/5/"
+                }
+            ],
+            "Weapons": [
+                {
+                    "value": "40.7 km.",
+                    "source": "http://cmano-db.com/weapon/5/"
+                }
+            ]
+        }
+    },
+    {
+        "http://cmano-db.com/weapon/4/": {
+            "title": {
+                "value": "SS-1d Scud C [600kg HE Conventional] (Never Operational)",
+                "source": "http://cmano-db.com/weapon/4/"
+            },
+            "Country/Type": {
+                "value": "Guided Weapon",
+                "source": "http://cmano-db.com/weapon/4/"
+            },
+            "大类": {
+                "value": "weapon",
+                "source": "http://cmano-db.com/weapon/4/"
+            },
+            "Type": {
+                "value": "Guided Weapon",
+                "source": "http://cmano-db.com/weapon/4/"
+            },
+            "Weight": {
+                "value": "6400.0 kg",
+                "source": "http://cmano-db.com/weapon/4/"
+            },
+            "Length": {
+                "value": "11.2 m",
+                "source": "http://cmano-db.com/weapon/4/"
+            },
+            "Span": {
+                "value": "1.8 m",
+                "source": "http://cmano-db.com/weapon/4/"
+            },
+            "Diameter": {
+                "value": "0.88",
+                "source": "http://cmano-db.com/weapon/4/"
+            },
+            "Generation": {
+                "value": "None",
+                "source": "http://cmano-db.com/weapon/4/"
+            },
+            "Properties": [
+                {
+                    "value": "Ballistic missile or rocket booster, Weapon - INS Navigation, Warhead - Single Re-Entry Vehicle (RV), Level Cruise Flight",
+                    "source": "http://cmano-db.com/weapon/4/"
+                }
+            ],
+            "Targets": [
+                {
+                    "value": "Land Structure - Soft, Land Structure - Hardened, Runway, Mobile Target - Soft, Mobile Target - Hardened",
+                    "source": "http://cmano-db.com/weapon/4/"
+                }
+            ],
+            "Weapons": [
+                {
+                    "value": "555.6 km.",
+                    "source": "http://cmano-db.com/weapon/4/"
+                }
+            ]
+        }
+    },
+    {
+        "http://cmano-db.com/weapon/3/": {
+            "title": {
+                "value": "Nodong-1 [800kg HE Conventional] (1995)",
+                "source": "http://cmano-db.com/weapon/3/"
+            },
+            "Country/Type": {
+                "value": "Guided Weapon",
+                "source": "http://cmano-db.com/weapon/3/"
+            },
+            "大类": {
+                "value": "weapon",
+                "source": "http://cmano-db.com/weapon/3/"
+            },
+            "Type": {
+                "value": "Guided Weapon",
+                "source": "http://cmano-db.com/weapon/3/"
+            },
+            "Weight": {
+                "value": "16500.0 kg",
+                "source": "http://cmano-db.com/weapon/3/"
+            },
+            "Length": {
+                "value": "16.2 m",
+                "source": "http://cmano-db.com/weapon/3/"
+            },
+            "Span": {
+                "value": "1.36 m",
+                "source": "http://cmano-db.com/weapon/3/"
+            },
+            "Diameter": {
+                "value": "1.36",
+                "source": "http://cmano-db.com/weapon/3/"
+            },
+            "Generation": {
+                "value": "None",
+                "source": "http://cmano-db.com/weapon/3/"
+            },
+            "Properties": [
+                {
+                    "value": "Ballistic missile or rocket booster, Weapon - INS Navigation, Warhead - Single Re-Entry Vehicle (RV), Level Cruise Flight",
+                    "source": "http://cmano-db.com/weapon/3/"
+                }
+            ],
+            "Targets": [
+                {
+                    "value": "Land Structure - Soft, Land Structure - Hardened, Runway, Mobile Target - Soft, Mobile Target - Hardened",
+                    "source": "http://cmano-db.com/weapon/3/"
+                }
+            ],
+            "Weapons": [
+                {
+                    "value": "1018.6 km.",
+                    "source": "http://cmano-db.com/weapon/3/"
+                }
+            ]
+        }
+    }
+]
