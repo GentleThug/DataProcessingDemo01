@@ -2,31 +2,78 @@
     {
         "http://cmano-db.com/cw/aircraft/2934/": {
             "title": {"value":"SH-3D Sea King [ASH-3D] - 1979", "source": "http://cmano-db.com/cw/aircraft/2934/"},
-            "Country/Type": "Italy",
-            "Type": "Anti-Submarine Warfare (ASW)",
-            "Crew": "4",
-            "Wingspan": "5.1 m",
-            "Height": "5.1 m",
-            "Length": "16.7 m",
-            "Max Payload": "381 kg",
-            "Empty Weight": "5382 kg",
-            "Max Weight": "10000 kg",
-            "Operator": "Navy",
-            "Commissioned": "1979",
-            "Propulsion": "2x T58-GE-10",
+            "Country/Type": {"value":"Italy", "source": "http://cmano-db.com/cw/aircraft/2934/"},
+            "Type": {"value":"Anti-Submarine Warfare (ASW)", "source": "http://cmano-db.com/cw/aircraft/2934/"},
+            "Crew": {"value":"4", "source": "http://cmano-db.com/cw/aircraft/2934/"},
+            "Wingspan": {"value":"5.1 m", "source": "http://cmano-db.com/cw/aircraft/2934/"},
+            "Height": {"value":"5.1 m", "source": "http://cmano-db.com/cw/aircraft/2934/"},
+            "Length": {"value":"16.7 m", "source": "http://cmano-db.com/cw/aircraft/2934/"},
+            "Max Payload": {"value":"381 kg", "source": "http://cmano-db.com/cw/aircraft/2934/"},
+            "Empty Weight": {"value":"5382 kg", "source": "http://cmano-db.com/cw/aircraft/2934/"},
+            "Max Weight": {"value":"10000 kg", "source": "http://cmano-db.com/cw/aircraft/2934/"},
+            "Operator": {"value":"Navy", "source": "http://cmano-db.com/cw/aircraft/2934/"},
+            "Commissioned": {"value":"1979", "source": "http://cmano-db.com/cw/aircraft/2934/"},
+            "Propulsion": {"value":"2x T58-GE-10", "source": "http://cmano-db.com/cw/aircraft/2934/"},
             "Sensors / EW":[
                 {"value":"Colibri [ELT 161, ESM] - (Farad) ESM ELINT Max Range: 926 km", "source": "http://cmano-db.com/cw/aircraft/2934/"},
                 {"value":"Generic MAD - (Farad) MAD MAD Max Range: 1.9 km", "source": "http://cmano-db.com/cw/aircraft/2934/"},
                 {"value":"AN/AQS-13B - (Farad) Dipping Sonar, Active-Only Dipping Sonar, Active-Only Search & Track Max Range: 5.6 km", "source": "http://cmano-db.com/cw/aircraft/2934/"},
                 {"value":"MM/APQ-706 [Sea Spray Mk1] - (SPQ-711, Sea Killer director) Radar Radar, FCR, Air-to-Surface, Medium-Range Max Range: 148.2 km", "source": "http://cmano-db.com/cw/aircraft/2934/"}
             ],
-            "Weapons / Loadouts": {
-                "value":[
-                    "Marte Mk1 - (1979, Sea Killer Mk2) Guided Weapon Surface Max: 25.9 km. ",
-                    "Mk46 LWT Mod 2 - (1972) Torpedo Subsurface Max: 5.6 km. "
-                ],
-                "source": "http://cmano-db.com/cw/aircraft/2934/"
-            }
+            "Weapons / Loadouts": [
+                {"value":"Marte Mk1 - (1979, Sea Killer Mk2) Guided Weapon Surface Max: 25.9 km. ", "source": "http://cmano-db.com/cw/aircraft/2934/"},
+                {"value":"Mk46 LWT Mod 2 - (1972) Torpedo Subsurface Max: 5.6 km. ", "source": "http://cmano-db.com/cw/aircraft/2934/"}
+            ]
         }
+    },
+    {
+        "title": "An-24B Coke - 1962, 20x",
+        "url": "http://cmano-db.com/cw/aircraft/4116/",
+        "Country/Type": "Cuba",
+        "Type": "Transport",
+        "Crew": "5",
+        "Wingspan": "29.2 m",
+        "Height": "8.3 m",
+        "Length": "23.5 m",
+        "Max Payload": "5500 kg",
+        "Empty Weight": "13300 kg",
+        "Max Weight": "21000 kg",
+        "Operator": "Air Force",
+        "Commissioned": "1962",
+        "Propulsion": "2x AI-24A",
+        "Decommissioned": "2004",
+        "Sensors / EW": [
+            "Generic Weather Radar -  Radar Radar, Weather Max Range: 64.8 km"
+        ],
+        "Weapons / Loadouts": [
+            "Cargo [No Drop, 2 tons] -  Cargo ",
+            "Cargo [No Drop, 5.5 tons] -  Cargo ",
+            "Cargo [Air Drop, 5.5 tons] -  Cargo "
+        ]
+    },
+    {
+        "title": "Hunter F.4 - 1956",
+        "url": "http://cmano-db.com/cw/aircraft/936/",
+        "Country/Type": "Netherlands",
+        "Type": "Fighter",
+        "Crew": "1",
+        "Wingspan": "10.3 m",
+        "Height": "4.0 m",
+        "Length": "14.0 m",
+        "Max Payload": "3400 kg",
+        "Empty Weight": "6405 kg",
+        "Max Weight": "11158 kg",
+        "Operator": "Air Force",
+        "Commissioned": "1956",
+        "Propulsion": "2x Avon RA.28 Mk.207",
+        "Decommissioned": "1963",
+        "Sensors / EW": [],
+        "Weapons / Loadouts": [
+            "230 ImpG Drop Tank -  Drop Tank ",
+            "100 ImpG Drop Tank -  Drop Tank ",
+            "RAF 500lb LDGP -  Bomb Surface Max: 1.9 km. Land Max: 1.9 km. ",
+            "Mk13 1000lb GPB - (RAF, Low Drag) Bomb Surface Max: 1.9 km. Land Max: 1.9 km. ",
+            "3-inch Rocket -  Rocket Air Max: 1.9 km. Surface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
     }
 ]

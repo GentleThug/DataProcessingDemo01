@@ -1,0 +1,166 @@
+[
+    {
+        "title": "An-24B Coke - 1962, 20x",
+        "url": "http://cmano-db.com/cw/aircraft/4116/",
+        "Country/Type": "Cuba",
+        "General data": [
+            {
+                "Type": "Transport",
+                "Crew": "5",
+                "Wingspan": "29.2 m",
+                "Height": "8.3 m",
+                "Length": "23.5 m",
+                "Max Payload": "5500 kg",
+                "Empty Weight": "13300 kg",
+                "Max Weight": "21000 kg",
+                "Operator": "Air Force",
+                "Commissioned": "1962",
+                "Propulsion": "2x AI-24A",
+                "Decommissioned": "2004"
+            }
+        ],
+        "Sensors / EW": [
+            "Generic Weather Radar -  Radar Radar, Weather Max Range: 64.8 km"
+        ],
+        "Weapons / Loadouts": [
+            "Cargo [No Drop, 2 tons] -  Cargo ",
+            "Cargo [No Drop, 5.5 tons] -  Cargo ",
+            "Cargo [Air Drop, 5.5 tons] -  Cargo "
+        ]
+    },
+    {
+        "title": "An-2M Colt - 1960, 50x",
+        "url": "http://cmano-db.com/cw/aircraft/4115/",
+        "Country/Type": "Cuba",
+        "General data": [
+            {
+                "Type": "Transport",
+                "Crew": "2",
+                "Wingspan": "18.2 m",
+                "Height": "4.1 m",
+                "Length": "12.4 m",
+                "Max Payload": "2140 kg",
+                "Empty Weight": "3300 kg",
+                "Max Weight": "5440 kg",
+                "Operator": "Air Force",
+                "Commissioned": "1960",
+                "Propulsion": "1x Shvetsov ASh-62",
+                "Decommissioned": "2004"
+            }
+        ],
+        "Sensors / EW": [],
+        "Weapons / Loadouts": [
+            "Paratrooper -  Paratroops ",
+            "Cargo [No Drop, 0.5 ton] -  Cargo ",
+            "Trooper -  Troops "
+        ]
+    },
+    {
+        "title": "Aero Commander 560 - 1956, 2x",
+        "url": "http://cmano-db.com/cw/aircraft/4114/",
+        "Country/Type": "Cuba",
+        "General data": [
+            {
+                "Type": "Transport",
+                "Crew": "2",
+                "Wingspan": "15.09 m",
+                "Height": "4.42 m",
+                "Length": "10.7 m",
+                "Max Payload": "960 kg",
+                "Empty Weight": "2110 kg",
+                "Max Weight": "3402 kg",
+                "Operator": "Air Force",
+                "Commissioned": "1956",
+                "Propulsion": "2x Lycoming GO-480B",
+                "Decommissioned": "1958"
+            }
+        ],
+        "Sensors / EW": [],
+        "Weapons / Loadouts": [
+            "Passenger - (Luggage Incl) Cargo "
+        ]
+    },
+    {
+        "title": "Aero Commander 560 - 1954",
+        "url": "http://cmano-db.com/cw/aircraft/4113/",
+        "Country/Type": "Civilian",
+        "General data": [
+            {
+                "Type": "Commercial",
+                "Crew": "2",
+                "Wingspan": "15.09 m",
+                "Height": "4.42 m",
+                "Length": "10.7 m",
+                "Max Payload": "960 kg",
+                "Empty Weight": "2110 kg",
+                "Max Weight": "3402 kg",
+                "Operator": "Civilian",
+                "Commissioned": "1954",
+                "Propulsion": "2x Lycoming GO-480B"
+            }
+        ],
+        "Sensors / EW": [],
+        "Weapons / Loadouts": [
+            "Passenger - (Luggage Incl) Cargo "
+        ]
+    },
+    {
+        "title": "DC-4M Argonaut - 1959",
+        "url": "http://cmano-db.com/cw/aircraft/4112/",
+        "Country/Type": "Rhodesia [1965-1979]",
+        "General data": [
+            {
+                "Type": "Transport",
+                "Crew": "4",
+                "Wingspan": "35.8 m",
+                "Height": "8.3 m",
+                "Length": "28.6 m",
+                "Max Payload": "11000 kg",
+                "Empty Weight": "17600 kg",
+                "Max Weight": "28000 kg",
+                "Operator": "Air Force",
+                "Commissioned": "1959",
+                "Propulsion": "4x R-2000"
+            }
+        ],
+        "Sensors / EW": [],
+        "Weapons / Loadouts": [
+            "Cargo [Air Drop, 2 tons] -  Cargo ",
+            "Passenger - (Luggage Incl) Cargo "
+        ]
+    },
+    {
+        "title": "Canberra T.4 - 1959, 2x",
+        "url": "http://cmano-db.com/cw/aircraft/4111/",
+        "Country/Type": "Rhodesia [1965-1979]",
+        "General data": [
+            {
+                "Type": "Bomber",
+                "Crew": "3",
+                "Wingspan": "19.5 m",
+                "Height": "4.8 m",
+                "Length": "20.0 m",
+                "Max Payload": "0 kg",
+                "Empty Weight": "12680 kg",
+                "Max Weight": "24925 kg",
+                "Operator": "Air Force",
+                "Commissioned": "1959",
+                "Propulsion": "2x Avon RA.3 Mk.109"
+            }
+        ],
+        "Sensors / EW": [
+            "ARI.18228 [Sky Guardian] -  ESM RWR, Radar Warning Receiver Max Range: 222.2 km",
+            "Generic DECM [Average] - (1980s) ECM DECM, Defensive ECM Max Range: 0 km",
+            "Green Satin - (1980s) Radar Radar, Navigation Max Range: 64.8 km"
+        ],
+        "Weapons / Loadouts": [
+            "545 ImpG Ferry Tank -  Ferry Tank ",
+            "250 ImpG Wingtip Tank - (300 USG, Canberra) Ferry Tank ",
+            "Alpha Bomb Hopper [50 x Frag] -  Bomb Surface Max: 1.9 km. Land Max: 1.9 km. ",
+            "Mk13 1000lb GPB - (RAF, Low Drag) Bomb Surface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RAF 500lb LDGP -  Bomb Surface Max: 1.9 km. Land Max: 1.9 km. ",
+            "RAF 250lb LDGP -  Bomb Surface Max: 1.9 km. Land Max: 1.9 km. ",
+            "Mk1 28lb Fragmentation Bomb - (UK, Rhodesia) Bomb Surface Max: 1.9 km. Land Max: 1.9 km. "
+        ]
+    }
+]
