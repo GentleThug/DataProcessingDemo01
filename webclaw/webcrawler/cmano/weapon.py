@@ -4,10 +4,13 @@ import json
 import random
 import socket
 
+from tqdm import tqdm
+
 
 def pachong(num):
     global response
     url = 'http://cmano-db.com/weapon/' + str(num) + '/'
+    # url= 'http://cmano-db.com/weapon/3872/'
     headers = get_headers()
     try:
         response = requests.get(url, headers=headers, timeout=5)
@@ -25,7 +28,7 @@ def pachong(num):
         try:
             title = t.find("h3").text
         except IndexError as e:
-            return str(num) + '网页为空'
+            return str(num) + '爬取错误'
         result["title"] = title
         result["url"] = url
 
@@ -38,7 +41,10 @@ def pachong(num):
         try:
             title = t.find("th").text
         except:
-            title = "Properties:"
+            for h in t.find_all("td"):
+                if len(h.text) > 1:
+                    g = h.text.split(':')
+                    title = g[0]
         result[title] = []
         if sign == 1:
             for i in t.find_all("td"):
@@ -49,7 +55,10 @@ def pachong(num):
             sign += 1
         else:
             for i in t.find_all("td"):
-                result[title].append(i.text)
+                if len(i.text.split(':')) > 1:
+                    result[title].append((i.text.split(':')[1]).strip())
+                else:
+                    result[title].append(i.text.strip())
 
     return result
 
@@ -76,16 +85,15 @@ if __name__ == '__main__':
     all = []
     # 初始网址
     chushi = 3894
+    # 3894
     tiaoshu = 1
-    for i in range(chushi):
+    for i in tqdm(range(chushi)):
         # time.sleep(random.random()*0.3)
         # time.sleep(0.2)
         result = pachong(chushi)
 
         if result:
-            print(str(chushi) + '已查找' + str(tiaoshu) + '条')
-            per = round((tiaoshu / chushi) * 100, 2)
-            print('已完成' + str(per) + ' %')
+            # print(str(chushi) + '已查找' + str(tiaoshu) + '条')
             all.append(result)
             chushi -= 1
             tiaoshu += 1
@@ -100,7 +108,7 @@ if __name__ == '__main__':
                 break
         else:
             chushi -= 1
-            print(result)
 
-    with open('12.9/weapon' + '全部' + str(tiaoshu) + '.json', 'w', encoding='utf-8') as f:
+    with open('12.9/weapon' + '全部' + str(len(all)) + '.json', 'w', encoding='utf-8') as f:
         json.dump(all, f, indent=4, ensure_ascii=False)
+    # print(json.dumps(all, indent=4, ensure_ascii=False))
