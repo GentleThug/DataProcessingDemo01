@@ -1,0 +1,155 @@
+[
+    "前三个是\"Generation\":",
+    {
+        "title": "OLS-32 [IRST] ",
+        "url": "http://cmano-db.com/sensor/23/",
+        "Country/Type": "Infrared",
+        "大类": "sensor",
+        "Type": "Infrared",
+        "Altitude Max": "0 m",
+        "Range Max": "185.2 km",
+        "Altitude Min": "0 m",
+        "Range Min": "0 km",
+        "Generation": "Infrared, 3rd Generation Imaging (2000s/2010s, Impr LANTIRN, Litening II/III, ATFLIR)",
+        "Properties": [
+            "Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Continuous Tracking Capability [Visual], Generates AAW fire-control data"
+        ],
+        "Sensors / EW": [
+            "OLS-32 [IRST] -  Infrared Role: IRST, Imaging Infrared Search and Track Max Range: 185.2 km"
+        ]
+    },
+    {
+        "title": "CA-260 Digital Frame Camera ",
+        "url": "http://cmano-db.com/sensor/22/",
+        "Country/Type": "Visual",
+        "大类": "sensor",
+        "Type": "Visual",
+        "Altitude Max": "0 m",
+        "Range Max": "37 km",
+        "Altitude Min": "0 m",
+        "Range Min": "0 km",
+        "Generation": "Visual, 3rd Generation TV Camera (2000s/2010s, CCD)",
+        "Properties": [
+            "Properties: Identification Friend or Foe (IFF) [Side Info], Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition]"
+        ],
+        "Sensors / EW": [
+            "CA-260 Digital Frame Camera -  Visual Role: Visual, Reconnaissance Long-Range Frame Camera Max Range: 37 km"
+        ]
+    },
+    {
+        "title": "Shark Gill [MGK-520 Skat-BDRM] (Delta IV, Skat-2 or Skat-2M, Assoc w Shark Tail)",
+        "url": "http://cmano-db.com/sensor/31/",
+        "Country/Type": "Hull Sonar, Active/Passive",
+        "大类": "sensor",
+        "Type": "Hull Sonar, Active/Passive",
+        "Altitude Max": "0 m",
+        "Range Max": "74.1 km",
+        "Altitude Min": "0 m",
+        "Range Min": "0 km",
+        "Generation": "Early 1980s",
+        "Sensors / EW": [
+            "Shark Gill [MGK-520 Skat-BDRM] - (Delta IV, Skat-2 or Skat-2M, Assoc w Shark Tail) Hull Sonar, Active/Passive Role: Hull Sonar, Active/Passive Search & Track Max Range: 74.1 km"
+        ]
+    },
+    "\"span和Diameter\"有些数值一样，有些不一样",
+    {
+        "title": "Nodong-1 [800kg HE Conventional] (1995)",
+        "url": "http://cmano-db.com/weapon/3/",
+        "Country/Type": "Guided Weapon",
+        "大类": "weapon",
+        "Type": "Guided Weapon",
+        "Weight": "16500.0 kg",
+        "Length": "16.2 m",
+        "Span": "1.36 m",
+        "Diameter": "1.36",
+        "Generation": "None",
+        "Properties": [
+            "Ballistic missile or rocket booster, Weapon - INS Navigation, Warhead - Single Re-Entry Vehicle (RV), Level Cruise Flight"
+        ],
+        "Targets": [
+            "Land Structure - Soft, Land Structure - Hardened, Runway, Mobile Target - Soft, Mobile Target - Hardened"
+        ],
+        "Weapons": [
+            "1018.6 km."
+        ]
+    },
+    {
+        "title": "155mm/52 AGS LRLAP ",
+        "url": "http://cmano-db.com/weapon/19/",
+        "Country/Type": "Guided Projectile",
+        "General data": [
+            {
+                "大类": "weapon",
+                "Type": "Guided Projectile",
+                "Weight": "102.0 kg",
+                "Length": "2.2 m",
+                "Span": "0.16 m",
+                "Diameter": "0.16",
+                "Generation": "None"
+            }
+        ],
+        "Properties": [
+            "Weapon - INS w/ GPS Navigation, Level Cruise Flight"
+        ],
+        "Targets": [
+            "Surface Vessel, Land Structure - Soft, Land Structure - Hardened, Mobile Target - Soft, Mobile Target - Hardened"
+        ],
+        "Weapons": [
+            "22.2 km. Land Max"
+        ]
+    },
+    {
+        "title": "SS-1d Scud C [600kg HE Conventional] (Never Operational)",
+        "url": "http://cmano-db.com/weapon/4/",
+        "Country/Type": "Guided Weapon",
+        "General data": [
+            {
+                "大类": "weapon",
+                "Type": "Guided Weapon",
+                "Weight": "6400.0 kg",
+                "Length": "11.2 m",
+                "Span": "1.8 m",
+                "Diameter": "0.88",
+                "Generation": "None"
+            }
+        ],
+        "Properties": [
+            "Ballistic missile or rocket booster, Weapon - INS Navigation, Warhead - Single Re-Entry Vehicle (RV), Level Cruise Flight"
+        ],
+        "Targets": [
+            "Land Structure - Soft, Land Structure - Hardened, Runway, Mobile Target - Soft, Mobile Target - Hardened"
+        ],
+        "Weapons": [
+            "555.6 km."
+        ]
+    },
+    {
+        "title": "SS-N-27 Sizzler [3M54E1 Klub] (Export)",
+        "url": "http://cmano-db.com/weapon/8/",
+        "Country/Type": "Guided Weapon",
+        "General data": [
+            {
+                "大类": "weapon",
+                "Type": "Guided Weapon",
+                "Weight": "2300.0 kg",
+                "Length": "8.22 m",
+                "Span": "3.1 m",
+                "Diameter": "0.53",
+                "Generation": "None"
+            }
+        ],
+        "Properties": [
+            "Home On Jam (HOJ), Terrain Following, Search Pattern, Bearing-Only Launch (BOL), Weapon - INS Navigation, Terminal Maneuver - Pop-up, Re-Attack Capability, Level Cruise Flight"
+        ],
+        "Targets": [
+            "Surface Vessel"
+        ],
+        "Sensors / EW": [
+            "9.3 km",
+            "18.5 km"
+        ],
+        "Weapons": [
+            "220 km."
+        ]
+    }
+]

@@ -66,7 +66,7 @@ def transform_block(return_block):
 
 if __name__ == '__main__':
     # 文件目录
-    base_dir = '../12.17统计/merge'
+    base_dir = '../../../data/cmano/merge'
     # base_dir = '../12.20冷战合并/test'
     # 文件列表
     lst_res = []
