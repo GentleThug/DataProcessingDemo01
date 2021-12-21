@@ -63,7 +63,14 @@ def transform_block(return_block):
     indexes[source] = index_content
     return indexes
 
+# 调整写入json格式
+def json_format(base_dir, result):
+    if base_dir == 'data/原版':
+        filename = "原版转格式(v1.0)"
+    # if base_dir == 'data/冷战':
+        filename = "冷战转格式(v1.0)"
 
+    print(filename)
 if __name__ == '__main__':
     # 文件目录
     base_dir = '../../../data/cmano/merge'
