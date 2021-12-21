@@ -62,7 +62,7 @@ def cmano_strip(file_list):
 
 if __name__ == '__main__':
     cw_list = [
-        'aircraft_cw全部3838.json',
+        'aircraft_cw全部3836.json',
         'facility_cw全部2360.json',
         'ship_cw全部2458.json',
         'submarine_cw全部519.json'
