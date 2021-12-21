@@ -12,7 +12,7 @@ import os
 
 if __name__ == '__main__':
     # 文件目录
-    base_dir = '原数据/冷战/aircraft_cw全部3836.json'
+    base_dir = 'data/冷战/aircraft_cw全部3836.json'
     # base_dir = '../12.20冷战合并/test'
     # 文件列表
     lst_res = []

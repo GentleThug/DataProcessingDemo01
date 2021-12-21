@@ -67,10 +67,12 @@ def transform_block(return_block):
 
 if __name__ == '__main__':
     # 文件目录
-    base_dir = '原数据/原版'
+    base_dir = 'data/原版'
+    # base_dir = 'data/冷战'
     # 文件列表
     lst_res = []
     result = []
+    count = 0
     for file in os.listdir(base_dir):
         with open(os.path.join(base_dir, file), encoding='utf8') as fr:
             lst_json = json.load(fr)
@@ -78,8 +80,11 @@ if __name__ == '__main__':
 
     # 读取数据块
     for data_block in tqdm(lst_res):
+        count += 1
         return_block = remove_General_data(data_block)
         i = transform_block(return_block)
         result.append(i)
-    with open('结果/原版转格式22507.json', 'w', encoding='utf-8') as f:
+    with open('../原版转格式(v1.0)' + str(count) + '.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, indent=4, ensure_ascii=False)
+    # with open('../冷战转格式(v1.0)' + str(count) + '.json', 'w', encoding='utf-8') as f:
+    #     json.dump(result, f, indent=4, ensure_ascii=False)
