@@ -1,0 +1,81 @@
+[
+    {
+        "title": "JMA-5312-6 [X-Band] ",
+        "url": "http://cmano-db.com/sensor/6477/",
+        "Country/Type": "Radar",
+        "Type": "Radar",
+        "Altitude Max": "0 m",
+        "Range Max": "177.8 km",
+        "Altitude Min": "0 m",
+        "Range Min": "0.4 km",
+        "Generation": "Late 2000s",
+        "Properties": [
+            "Pulse-only Radar"
+        ],
+        "Sensors / EW": [
+            "JMA-5312-6 [X-Band] - Radar Role: Radar, Surface Search & Navigation Max Range: 177.8 km"
+        ]
+    },
+    {
+        "title": "Selex T-20 ",
+        "url": "http://cmano-db.com/sensor/6469/",
+        "Country/Type": "Radar",
+        "Type": "Radar",
+        "Altitude Max": "296320 m",
+        "Range Max": "296.3 km",
+        "Altitude Min": "0 m",
+        "Range Min": "0.2 km",
+        "Generation": "Early 2010s",
+        "Properties": [
+            "Classification [Class Info] / Brilliant Weapon [Automatic Target Aquisition], Track While Scan (TWS), Moving Target Indicator (MTI), Pulse Doppler Radar (Full LDSD Capability), Synthetic Aperture Radar (SAR)"
+        ],
+        "Sensors / EW": [
+            "Selex T-20 - Radar Role: Radar, Air & Surface Search, 3D Long-Range Max Range: 296.3 km"
+        ]
+    },
+    {
+        "title": "Varuna ",
+        "url": "http://cmano-db.com/sensor/6476/",
+        "Country/Type": "ESM",
+        "Type": "ESM",
+        "Altitude Max": "0 m",
+        "Range Max": "926 km",
+        "Altitude Min": "0 m",
+        "Range Min": "0 km",
+        "Generation": "Early 2020s",
+        "Sensors / EW": [
+            "Varuna - ESM Role: ELINT w/ OTH Targeting Max Range: 926 km"
+        ]
+    },
+    {
+        "title": "5P-10E Puma [Radar] ",
+        "url": "http://cmano-db.com/sensor/6474/",
+        "Country/Type": "Radar",
+        "Type": "Radar",
+        "Altitude Max": "13716 m",
+        "Range Max": "60 km",
+        "Altitude Min": "0 m",
+        "Range Min": "0.2 km",
+        "Generation": "Early 2010s",
+        "Properties": [
+            "Pulse Doppler Radar (Full LDSD Capability), Active Electronically Scanned Array (AESA)"
+        ],
+        "Sensors / EW": [
+            "5P-10E Puma [Radar] - Radar Role: Radar, FCR, Weapon Director Max Range: 60 km"
+        ]
+    },
+    {
+        "title": "AOEW AMP AN/ALQ-248 [ESM] ",
+        "url": "http://cmano-db.com/sensor/6471/",
+        "Country/Type": "ESM",
+        "Type": "ESM",
+        "Altitude Max": "0 m",
+        "Range Max": "926 km",
+        "Altitude Min": "0 m",
+        "Range Min": "0 km",
+        "Generation": "Early 2020s",
+        "Sensors / EW": [
+            "AOEW AMP AN/ALQ-248 [ESM] - ESM Role: ELINT Max Range: 926 km"
+        ]
+    }
+]
