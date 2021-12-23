@@ -6,10 +6,18 @@
 @File: 未翻译实体比例.py    
 @Time: 2021/12/23 19:28 
 """
-import csv
+import json
+def compare(filename):
+
+    for i in filename:
+        print(i)
+
 
 if __name__ == '__main__':
-    with open('实体名翻译v0.1.csv') as f:
-        f_csv = csv.reader(f)
-        for row in f_csv:
-            print(row)
+    with open("translate_result/name/实体翻译有道1.0.json", 'r', encoding='utf-8') as f:
+        youdao = json.load(f)
+    with open("translate_result/name/实体翻译百度（1.0）.json", 'r', encoding='utf-8') as f:
+        baidu = json.load(f)
+    with open("translate_result/name/实体翻译谷歌1.0.json", 'r', encoding='utf-8') as f:
+        google = json.load(f)
+    compare(youdao)
