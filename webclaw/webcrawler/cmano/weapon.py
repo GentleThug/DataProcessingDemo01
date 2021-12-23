@@ -55,11 +55,11 @@ def pachong(num):
             sign += 1
         else:
             for i in t.find_all("td"):
-                if len(i.text.split(':')) > 1:
-                    result[title].append((i.text.split(':')[1]).strip())
-                else:
-                    result[title].append(i.text.strip())
-
+                # if len(i.text.split(':')) > 1:
+                #     result[title].append((i.text.split(':')[1]).strip())
+                # else:
+                # result[title].append(i.text.strip())
+                result[title].append(i.text)
     return result
 
 
@@ -109,6 +109,6 @@ if __name__ == '__main__':
         else:
             chushi -= 1
 
-    with open('12.9/weapon' + '全部' + str(len(all)) + '.json', 'w', encoding='utf-8') as f:
+    with open('12.9/weapon' + '全部12.23' + str(len(all)) + '.json', 'w', encoding='utf-8') as f:
         json.dump(all, f, indent=4, ensure_ascii=False)
     # print(json.dumps(all, indent=4, ensure_ascii=False))

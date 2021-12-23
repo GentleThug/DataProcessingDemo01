@@ -11,29 +11,31 @@ cmano数据处理v1.0版本
 目录结构说明：
 
 ########### 目录结构
-v1.0
-  ├─ readme.txt                            // 说明文档
-  ├─ src
-  │  ├─ data                               // 原始数据目录
-  │  │  ├─ 冷战
-  │  │  │  ├─ aircraft_cw全部3836.json
-  │  │  │  ├─ facility_cw全部2360.json
-  │  │  │  ├─ ship_cw全部2458.json
-  │  │  │  └─ submarine_cw全部519.json
-  │  │  └─ 原版
-  │  │     ├─ aircraft全部5231.json
-  │  │     ├─ facility全部3314.json
-  │  │     ├─ sensor全部6208.json
-  │  │     ├─ ship全部3382.json
-  │  │     ├─ submarine全部646.json
-  │  │     └─ weapon全部3726.json
-  │  └─ 转格式.py                           // 转格式程序
-  ├─ 冷战转格式(v1.0)9173.json
-  └─ 原版转格式(v1.0)22507.json
+V1.0
+   ├─ data                               // 输出数据目录
+   │  ├─ 冷战转格式(v1.0)9173.json
+   │  └─ 原版转格式(v1.0)22507.json
+   ├─ readme.txt                            // 说明文档
+   ├─ source                               // 原始数据目录
+   │  ├─ 冷战
+   │  │  ├─ aircraft_cw全部3836.json
+   │  │  ├─ facility_cw全部2360.json
+   │  │  ├─ ship_cw全部2458.json
+   │  │  └─ submarine_cw全部519.json
+   │  └─ 原版
+   │     ├─ aircraft全部5231.json
+   │     ├─ facility全部3314.json
+   │     ├─ sensor全部6208.json
+   │     ├─ ship全部3382.json
+   │     ├─ submarine全部646.json
+   │     └─ weapon全部3726.json
+   └─ src                                   // 源码
+      └─ conversion.py                           // 转格式程序
 
-src目录下,存放程序代码以及冷战和原版的初始格式json文档
-所有原始数据都在src/data目录下
-根目录下存放冷战和原版的转换格式后的json文档
+
+src目录下,存放程序代码
+所有原始数据都在data目录下
+data目录下存放冷战和原版的转换格式后的json文档
 所有json文件名中的数字表示其内含的数据条数
 ---------------------
 

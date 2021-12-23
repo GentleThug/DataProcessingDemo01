@@ -12,7 +12,6 @@ from tqdm import tqdm
 
 if __name__ == '__main__':
     # 待转换文件目录路径
-
     base_dir = '../../../data/cmano/merge'
     # 文件列表
     lst_res = []
@@ -31,9 +30,10 @@ if __name__ == '__main__':
                 content[valuename] = count
                 result.append(valuename)
     content = list(content)
-    with open('tilte去重（' + str(len(content)) + '）.json', 'w', encoding='utf-8') as f:
+    content.sort()
+    with open('cmano_tilte去重（' + str(len(content)) + '）.json', 'w', encoding='utf-8') as f:
         json.dump(content, f, indent=4, ensure_ascii=False)
-    with open('tilte（' + str(len(result)) + '）.json', 'w', encoding='utf-8') as f:
+    with open('cmano_tilte（' + str(len(result)) + '）.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, indent=4, ensure_ascii=False)
     # print(json.dumps(content, indent=4, ensure_ascii=False))
     # print(len(content))
