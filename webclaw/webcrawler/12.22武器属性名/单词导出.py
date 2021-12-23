@@ -3,9 +3,11 @@
 
 """
 @Author: LJY
-@File: 单词统计.py    
-@Time: 2021/12/22 11:29 
+@File: 单词导出.py    
+@Time: 2021/12/23 10:59 
 """
+#!/usr/bin/env python
+# -*-coding:utf-8 -*-
 
 import json
 import re
