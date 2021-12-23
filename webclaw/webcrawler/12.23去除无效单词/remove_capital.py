@@ -11,7 +11,7 @@ import re
 from tqdm import tqdm
 
 if __name__ == "__main__":
-    with open("cmano_tilte单词（10141）.json", 'r', encoding='utf-8') as f:
+    with open("cmano_tilte单词（10138）.json", 'r', encoding='utf-8') as f:
         file1 = json.load(f)
     result = []
     for words in tqdm(file1):

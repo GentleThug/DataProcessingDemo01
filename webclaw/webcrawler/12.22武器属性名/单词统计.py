@@ -14,7 +14,7 @@ if __name__ == '__main__':
     result = []
     content = {}
     count = 0
-    with open('cmano_tilte去重（26256）.json', 'r', encoding='utf-8') as f:
+    with open('cmano_tilte去重（26243）.json', 'r', encoding='utf-8') as f:
         file1 = json.load(f)
     for i in file1:
         # j = i.replace("[", " ")
