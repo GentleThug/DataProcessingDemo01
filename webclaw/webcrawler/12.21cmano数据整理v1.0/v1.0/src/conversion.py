@@ -14,13 +14,12 @@ from tqdm import tqdm
 def remove_General_data(data_block):
     result = {}
     for keyname, valuename in data_block.items():
-        if keyname == 'General source':
+        if keyname == 'General data':
             for i_key, i_value in valuename[0].items():
                 result[i_key] = i_value
         else:
             result[keyname] = valuename
     return result
-
 
 # 转换格式块
 def transform_block(return_block):
@@ -94,8 +93,8 @@ def transform_block(return_block):
 if __name__ == '__main__':
     # 待转换文件目录路径
 
-    base_dir = '../source/原版'
-    # base_dir = '../source/冷战'
+    # base_dir = '../source/原版'
+    base_dir = '../source/冷战'
 
     # 文件列表
     lst_res = []
@@ -111,6 +110,7 @@ if __name__ == '__main__':
     for data_block in tqdm(lst_res):
         count += 1
         return_block = remove_General_data(data_block)
+        print(return_block)
         i = transform_block(return_block)
         result.append(i)
 

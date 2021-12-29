@@ -10,6 +10,8 @@ import json
 import random
 import re
 
+from tqdm import tqdm
+
 
 def pachong(url):
     headers = get_headers()
@@ -103,8 +105,8 @@ if __name__ == '__main__':
         data = json.load(f)
     tiaoshu = 1
     all = []
-    for d in data:
-        print(d + '已查找' + str(tiaoshu) + '条')
+    for d in tqdm(data):
+        # print(d + '已查找' + str(tiaoshu) + '条')
         all.append(pachong(d))
         tiaoshu += 1
         # if tiaoshu % 500 == 0:
