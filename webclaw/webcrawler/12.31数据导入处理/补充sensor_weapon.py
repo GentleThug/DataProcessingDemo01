@@ -119,8 +119,8 @@ def get_headers():
 
 if __name__ == '__main__':
     all = []
-    chushi = 3413
-    web_url = "facility"
+    chushi = 3486
+    web_url = "ship"
 
     tiaoshu = 1
     for i in tqdm(range(chushi)):
